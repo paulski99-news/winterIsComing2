@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kohle',de,Energie,#33cc33,#1f7a1f,2,0.6382177934575567
 'Kinder',de,Gesundheit,#b35900,#ffcc99,3,0.6179430498857632
 'Kälte',de,Winter,#3399ff,#cce6ff,3,0.6173397798645349
 'Gas',de,Energie,#33cc33,#99e699,3,0.6149418403907291
 'Schnee',de,Winter,#3399ff,#66d9ff,3,0.6070243831719963
 'Energiepauschale',de,Politik,#cc33ff,#ff4dff,3,0.6038313133652502
+'Kohle',de,Energie,#33cc33,#1f7a1f,3,0.6019955039843777
 'Blackout',de,Energie,#33cc33,#55ff00,3,0.5928698133432643
 'Energiekosten',de,Politik,#cc33ff,#f9e6ff,3,0.5717767386345405
 'Heizkosten',de,Politik,#cc33ff,#990099,3,0.5655583735809696
