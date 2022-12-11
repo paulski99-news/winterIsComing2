@@ -8,9 +8,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter',de,Winter,#3399ff,#003366,3,0.5480269341393388
 'Kälte',de,Winter,#3399ff,#cce6ff,3,0.5433412715212184
 'Kinder',de,Gesundheit,#b35900,#ffcc99,3,0.5348650519483533
-'Schimmel',de,Gesundheit,#b35900,#b35900,3,0.5320059018461496
 'Hochwasser',de,Winter,#3399ff,#0059b3,3,0.5286394290661107
 'Energiepauschale',de,Politik,#cc33ff,#ff4dff,3,0.5141576963604626
+'Schimmel',de,Gesundheit,#b35900,#b35900,3,0.4844293938419544
 'Glatteis',de,Winter,#3399ff,#0086b3,3,0.4140638989639664
 'ältere Menschen',de,Gesundheit,#b35900,#ff8c1a,3,0.2165060664514397
 'Black Out',de,Energie,#33cc33,#55ff00,3,0.1769933871072996
