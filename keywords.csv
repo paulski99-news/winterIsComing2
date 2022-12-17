@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Winter,#3399ff,#cce6ff,3,0.5433412715212184
 'Winter',de,Winter,#3399ff,#003366,3,0.5390581522002561
-'Energiekosten',de,Politik,#cc33ff,#f9e6ff,3,0.5318886987484502
 'Kohle',de,Energie,#33cc33,#1f7a1f,3,0.5257517274776302
 'Energiepauschale',de,Politik,#cc33ff,#ff4dff,3,0.5141576963604626
+'Energiekosten',de,Politik,#cc33ff,#f9e6ff,3,0.49798432984527363
 'Blackout',de,Energie,#33cc33,#55ff00,3,0.4963866202541448
 'Heizkosten',de,Politik,#cc33ff,#990099,3,0.4939212260486141
 'Schimmel',de,Gesundheit,#b35900,#b35900,3,0.4844293938419544
