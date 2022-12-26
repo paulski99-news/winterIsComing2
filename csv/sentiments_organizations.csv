@@ -1,518 +1,816 @@
 ,phrase,label,sentiment,subjectivity,language,count
-EU,EU,ORG,0.1054545454545455,0.05151515151515152,de,55
-Bundestag,Bundestag,ORG,0.07948717948717948,0.05128205128205128,de,39
-SPIEGEL,SPIEGEL,ORG,0.6662162162162157,0.0,de,37
-E-Paper,E-Paper,ORG,0.6999999999999996,0.0,de,34
-SPD,SPD,ORG,-0.03333333333333333,0.06666666666666667,de,30
-Uniper,Uniper,ORG,-0.17833333333333334,0.18333333333333332,de,30
-FOCUS,FOCUS,ORG,-0.014743589743589762,0.0,de,26
-Grüne,Grüne,ORG,0.08333333333333333,0.13333333333333333,de,15
-Kommission,Kommission,ORG,0.14999999999999997,0.0,de,14
-DWD,DWD,ORG,-0.04047619047619048,0.023809523809523808,de,14
-WELT,WELT,ORG,0.45769230769230773,0.038461538461538464,de,13
-…,…,ORG,-0.025000000000000005,0.08333333333333333,de,12
-LNG,LNG,ORG,0.19999999999999998,0.0,de,12
-Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,0.11666666666666665,0.0,de,12
-Ukraine,Ukraine,ORG,-0.9090909090909091,0.0,de,11
-FDP,FDP,ORG,0.15555555555555556,0.2222222222222222,de,9
-CDU,CDU,ORG,0.25555555555555554,0.0,de,9
-EU-Kommission,EU-Kommission,ORG,0.07777777777777778,0.0,de,9
-ÖVP,ÖVP,ORG,0.175,0.0,de,8
-Gazprom,Gazprom,ORG,-0.1875,0.0625,de,8
-EZB,EZB,ORG,0.0,0.0,de,6
-EU-Ebene,EU-Ebene,ORG,0.3333333333333333,0.16666666666666666,de,6
-russische Armee,russische Armee,ORG,-0.3333333333333333,0.0,de,6
-BASF,BASF,ORG,-0.11666666666666665,0.0,de,6
-Deutsche Rentenversicherung,Deutsche Rentenversicherung,ORG,-0.7000000000000001,0.0,de,6
-Kabinett,Kabinett,ORG,0.0,0.0,de,6
+EU,EU,ORG,-0.03797814207650271,0.027322404371584702,de,122
+Bundestag,Bundestag,ORG,0.12346491228070175,0.06578947368421052,de,76
+Uniper,Uniper,ORG,-0.11521739130434783,0.10869565217391304,de,69
+EU-Kommission,EU-Kommission,ORG,0.06888888888888887,0.0,de,45
+SPIEGEL,SPIEGEL,ORG,0.6702380952380949,0.0,de,42
+E-Paper,E-Paper,ORG,0.6999999999999995,0.0,de,39
+FOCUS,FOCUS,ORG,-0.017982456140350867,0.0,de,38
+SPD,SPD,ORG,0.026126126126126123,0.06306306306306307,de,37
+DWD,DWD,ORG,0.00104166666666667,0.010416666666666666,de,32
+Kommission,Kommission,ORG,0.19821428571428573,0.017857142857142856,de,28
+Gazprom,Gazprom,ORG,-0.1111111111111111,0.1111111111111111,de,27
+LNG,LNG,ORG,0.04074074074074073,0.037037037037037035,de,27
+Grüne,Grüne,ORG,-0.08269230769230769,0.07692307692307693,de,26
+WELT,WELT,ORG,0.37799999999999995,0.1,de,25
+EU-Staaten,EU-Staaten,ORG,0.043478260869565216,0.17391304347826086,de,23
+FDP,FDP,ORG,-0.0023809523809523725,0.21428571428571427,de,21
+Ukraine,Ukraine,ORG,-0.95,0.0,de,20
+Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,0.17,0.0,de,20
+…,…,ORG,0.022222222222222216,0.1111111111111111,de,18
+CDU,CDU,ORG,0.20185185185185187,0.05925925925925926,de,18
+RWE,RWE,ORG,-0.014117647058823528,0.11764705882352941,de,17
+Gasimporteur Uniper,Gasimporteur Uniper,ORG,0.07142857142857142,0.0,de,14
+Bundesnetzagentur,Bundesnetzagentur,ORG,-0.06923076923076922,0.038461538461538464,de,13
+EU-Energieminister,EU-Energieminister,ORG,-0.08333333333333333,0.0,de,12
+BASF,BASF,ORG,0.0,0.09090909090909091,de,11
+Gazprom Germania,Gazprom Germania,ORG,0.25,0.0,de,10
+Katar,Katar,ORG,-0.030000000000000006,0.0,de,10
+Europäischen Union,Europäischen Union,ORG,-0.20999999999999996,0.0,de,10
+Securing Energy for Europe,Securing Energy for Europe,ORG,0.0,0.0,de,10
+ÖVP,ÖVP,ORG,0.06999999999999999,0.0,de,10
+CSU,CSU,ORG,-0.03333333333333334,0.0,de,9
+we…,we…,ORG,-0.0625,0.1875,de,8
 "Foto: dpa)
 Düsseldorf","Foto: dpa)
-Düsseldorf",ORG,-0.13999999999999999,0.0,de,5
-EU-Staaten,EU-Staaten,ORG,-0.27999999999999997,0.2,de,5
-WirtschaftsWoche Online,WirtschaftsWoche Online,ORG,0.7,0.0,de,5
-Katar,Katar,ORG,-0.26,0.0,de,5
-RWE,RWE,ORG,-0.4,0.0,de,5
-Bundesbank,Bundesbank,ORG,0.0,0.0,de,5
-Securing Energy for Europe,Securing Energy for Europe,ORG,-0.2,0.0,de,5
-DGB,DGB,ORG,0.0,0.0,de,4
-Gewerkschaft,Gewerkschaft,ORG,0.0,0.0,de,4
-TotalEnergies,TotalEnergies,ORG,0.0,0.0,de,4
-Adler Mannheim,Adler Mannheim,ORG,-0.5249999999999999,0.0,de,4
-RS-Virus,RS-Virus,ORG,-0.3375,0.0,de,4
-DEL,DEL,ORG,-0.5249999999999999,0.0,de,4
-SPIEGEL-Informationen,SPIEGEL-Informationen,ORG,0.05833333333333332,0.25,de,4
-Deutschen Eishockey Liga,Deutschen Eishockey Liga,ORG,-0.5249999999999999,0.0,de,4
-Kölner Haien,Kölner Haien,ORG,-0.5249999999999999,0.0,de,4
-Ukraine?,Ukraine?,ORG,0.0,0.0,de,4
-E-Control,E-Control,ORG,0.35,0.0,de,4
-EU-Energieminister,EU-Energieminister,ORG,-0.25,0.0,de,4
-Eon,Eon,ORG,-0.75,0.0,de,4
-DAK,DAK,ORG,-0.175,0.0,de,4
-RT DE.,RT DE.,ORG,-0.175,0.125,de,4
-AKW,AKW,ORG,0.35,0.0,de,4
-Amazon,Amazon,ORG,0.0,0.0,de,4
-Stiftung Warentest,Stiftung Warentest,ORG,-0.225,0.0,de,4
-ntv.de,ntv.de,ORG,0.25,0.0,de,4
-Berliner Morgenpost,Berliner Morgenpost,ORG,0.0,0.0,de-DE,4
-GIE,GIE,ORG,0.0,0.0,de,3
-Heizkostenhilfe,Heizkostenhilfe,ORG,0.6666666666666666,0.0,de,3
-Umweltminister,Umweltminister,ORG,0.0,0.0,de,3
-Zentrum,Zentrum,ORG,0.3333333333333333,0.0,de,3
-EU-Länder,EU-Länder,ORG,0.2333333333333333,0.0,de,3
-GASTKOMMENTAR,GASTKOMMENTAR,ORG,0.0,0.0,de,3
-Ukraine.,Ukraine.,ORG,0.0,0.0,de,3
-Bundesgesundheitsminister,Bundesgesundheitsminister,ORG,0.2333333333333333,0.0,de,3
-Stadtwerke München,Stadtwerke München,ORG,-0.10000000000000002,0.0,de,3
+Düsseldorf",ORG,-0.0875,0.0,de,8
+russische Armee,russische Armee,ORG,-0.25,0.0,de,8
+Internationale Energieagentur,Internationale Energieagentur,ORG,0.0,0.0,de,7
+Die Grünen,Die Grünen,ORG,-0.1,0.0,de,7
+Gazprom.,Gazprom.,ORG,-0.14285714285714285,0.0,de,7
 "Foto: dpa)
 Berlin","Foto: dpa)
-Berlin",ORG,0.0,0.0,de,3
-Gazprom Germania,Gazprom Germania,ORG,-0.10000000000000002,0.0,de,3
-we…,we…,ORG,0.0,0.3333333333333333,de,3
-TIGAS,TIGAS,ORG,0.4666666666666666,0.0,de,3
-Bundes…,Bundes…,ORG,0.0,0.0,de,3
-SPIEGEL TV,SPIEGEL TV,ORG,0.0,0.0,de,3
-Bundesamtes für Bevölkerungsschutz und Katastrophenhilfe,Bundesamtes für Bevölkerungsschutz und Katastrophenhilfe,ORG,-0.4666666666666666,0.0,de,3
-Terminkontrakts TTF,Terminkontrakts TTF,ORG,0.0,0.0,de,3
-Russland,Russland,ORG,0.0,0.0,de,3
-Ifo-Instituts,Ifo-Instituts,ORG,-0.4666666666666666,0.0,de,3
-SPD-Chef,SPD-Chef,ORG,-0.22777777777777775,0.0,de,3
-NDR.de,NDR.de,ORG,0.6999999999999998,0.0,de,3
-Gesundheitsminister,Gesundheitsminister,ORG,0.6666666666666666,0.0,de,3
-Shell,Shell,ORG,0.0,0.0,de,3
-Respiratorischen Synzytial-Virus,Respiratorischen Synzytial-Virus,ORG,0.0,0.0,de,3
-Drittligist 1860 München,Drittligist 1860 München,ORG,0.3333333333333333,0.0,de,3
-Blitzeis-Alarm!,Blitzeis-Alarm!,ORG,0.0,0.0,de,3
-Stadtwerke,Stadtwerke,ORG,-0.16666666666666666,0.16666666666666666,de,3
-Kirche,Kirche,ORG,0.1333333333333333,0.0,de,3
-europäische Verband der Übertragungsnetzbetreiber,europäische Verband der Übertragungsnetzbetreiber,ORG,0.0,0.0,de,3
-Anschaffung.</li><li>…,Anschaffung.</li><li>…,ORG,0.0,0.0,de,3
-SWR,SWR,ORG,0.0,0.0,de,3
-Gasfüllstand,Gasfüllstand,ORG,0.0,0.0,de,2
-Die Grünen,Die Grünen,ORG,0.3499999999999999,0.0,de,2
-BBPA,BBPA,ORG,0.0,0.0,de,2
-Millionen Deutsche,Millionen Deutsche,ORG,0.0,0.0,de,2
-ZDF,ZDF,ORG,0.0,0.0,de,2
-Ferraro,Ferraro,ORG,-0.35,0.0,de,2
-BMW,BMW,ORG,0.0,0.0,de,2
-Energie-Infrastruktur,Energie-Infrastruktur,ORG,0.5,0.0,de,2
-HeizkostenBeim,HeizkostenBeim,ORG,0.0,0.0,de,2
-Europäischen Kommission,Europäischen Kommission,ORG,-0.35,0.0,de,2
-Gasag,Gasag,ORG,-0.2833333333333333,0.16666666666666666,de,2
-Eintracht!,Eintracht!,ORG,0.7,0.0,de,2
-IW Kölns,IW Kölns,ORG,0.35,0.0,de,2
-Stellantis,Stellantis,ORG,0.0,0.0,de,2
-Angebotsengpässe,Angebotsengpässe,ORG,1.0,0.0,de,2
-Pro Bahn,Pro Bahn,ORG,0.0,0.0,de,2
-Vereinten Nationen,Vereinten Nationen,ORG,-0.35,0.0,de,2
-Rewe,Rewe,ORG,0.0,0.0,de,2
-RSV.,RSV.,ORG,-1.0,0.0,de,2
-IW Köln,IW Köln,ORG,0.35,0.0,de,2
-Robert-Koch Instituts,Robert-Koch Instituts,ORG,0.0,0.0,de,2
-Foto: imago images,Foto: imago images,ORG,0.0,0.0,de,2
-WM-Fall,WM-Fall,ORG,-1.0,0.0,de,2
-US-Geheimdienstexperten,US-Geheimdienstexperten,ORG,0.0,0.0,de,2
-SZ-Adventskalender,SZ-Adventskalender,ORG,0.0,0.0,de,2
-Bundesliga,Bundesliga,ORG,0.35,0.0,de,2
-Sozialdienst Katholischer Frauen,Sozialdienst Katholischer Frauen,ORG,-0.15000000000000002,0.0,de,2
-Studierendenwerk Berlin,Studierendenwerk Berlin,ORG,0.7,0.0,de,2
-Heizölpreis-Prognose: Wird Heizöl,Heizölpreis-Prognose: Wird Heizöl,ORG,0.0,0.0,de,2
-Bund-Länder-Gipfel,Bund-Länder-Gipfel,ORG,0.0,0.5,de,2
-APG,APG,ORG,0.0,0.5,de,2
-Gewerkschaften,Gewerkschaften,ORG,0.7,0.0,de,2
-Bayerischen Tourismustag,Bayerischen Tourismustag,ORG,0.0,0.0,de,2
-Steigende,Steigende,ORG,0.0,0.0,de,2
-Berliner Hertie School,Berliner Hertie School,ORG,0.35,0.0,de,2
-Media Markt,Media Markt,ORG,0.35,0.0,de,2
-Abgeordneten,Abgeordneten,ORG,0.0,0.0,de,2
-SPD-Minister,SPD-Minister,ORG,-0.7,0.0,de,2
-OMV,OMV,ORG,0.0,0.0,de,2
-US-Konzern Westinghouse.,US-Konzern Westinghouse.,ORG,0.0,0.0,de,2
-Kommunen,Kommunen,ORG,0.0,0.0,de,2
-NGG,NGG,ORG,0.0,0.0,de,2
-Queen Consort Camilla,Queen Consort Camilla,ORG,0.0,0.0,de,2
-Essenslieferdienstes,Essenslieferdienstes,ORG,0.0,0.5,de,2
-Deutsche AIDS-Stiftung,Deutsche AIDS-Stiftung,ORG,-0.7,0.0,de,2
-Bundesnetzagentur,Bundesnetzagentur,ORG,0.0,0.0,de,2
-SPD-Chef Klingbeil,SPD-Chef Klingbeil,ORG,0.0,0.0,de,2
-Hinweis</li><li>,Hinweis</li><li>,ORG,-0.7,0.0,de,2
-SPD-Vorsitzende,SPD-Vorsitzende,ORG,0.0,0.0,de,2
-BDR Thermea,BDR Thermea,ORG,0.0,0.0,de,2
-Kinderkliniken und Praxen im,Kinderkliniken und Praxen im,ORG,0.0,0.0,de,2
-Verband GIE,Verband GIE,ORG,1.0,0.0,de,2
-Gas sparenGas,Gas sparenGas,ORG,1.0,0.0,de,2
-Strom-Schock...,Strom-Schock...,ORG,0.0,0.0,de,2
-Senat,Senat,ORG,1.0,0.0,de,2
-Betrug</li><li>Kriminelle,Betrug</li><li>Kriminelle,ORG,-0.7,0.0,de,2
-Deutschland,Deutschland,ORG,0.15000000000000002,0.0,de,2
-Gaspreisbremse:,Gaspreisbremse:,ORG,0.0,0.0,de,2
-F…,F…,ORG,0.0,0.0,de,2
-Bund,Bund,ORG,0.7,0.0,de,2
-Wintershall Dea,Wintershall Dea,ORG,0.7,0.0,de,2
-Weltbank,Weltbank,ORG,0.0,0.0,de,2
-LNG-Terminals,LNG-Terminals,ORG,0.0,0.0,de,2
-Japan,Japan,ORG,0.0,0.0,de,2
-Wirtschaftskammer Burgenland,Wirtschaftskammer Burgenland,ORG,-0.35,0.0,de,2
-Parteitags,Parteitags,ORG,-1.0,0.0,de,2
-Playmobil,Playmobil,ORG,1.0,0.0,de,2
-Essen & Trinken,Essen & Trinken,ORG,0.0,0.0,de,2
-Gazprom Germania.,Gazprom Germania.,ORG,0.0,0.0,de,2
-Sound Brothers,Sound Brothers,ORG,0.5,0.0,de,2
-SEFE,SEFE,ORG,0.0,0.0,de,2
-WEB.DE News.,WEB.DE News.,ORG,0.5,0.0,de,2
-Kirchliche Allgemeine Sozialarbeit,Kirchliche Allgemeine Sozialarbeit,ORG,-0.15000000000000002,0.0,de,2
-Diakonie Oberland,Diakonie Oberland,ORG,-0.15000000000000002,0.0,de,2
-Dezember-Abschlag,Dezember-Abschlag,ORG,0.85,0.0,de,2
-FC Nürnberg,FC Nürnberg,ORG,0.5,0.0,de,2
-Foto: Kay Nietfeld/dpa,Foto: Kay Nietfeld/dpa,ORG,0.35,0.0,de,2
-Bundesamtes für Bevölkerungsschutz und Katastrophenhilfe.,Bundesamtes für Bevölkerungsschutz und Katastrophenhilfe.,ORG,0.0,0.0,de,2
-Landtags,Landtags,ORG,0.0,0.0,de,2
-Ismaik,Ismaik,ORG,0.35,0.0,de,2
-Eni,Eni,ORG,0.0,0.5,de,2
-OECD,OECD,ORG,0.5,0.0,de,2
-Ukraine-Krieg,Ukraine-Krieg,ORG,0.0,0.0,de,2
-Verband der Kinder- und Jugendärzte,Verband der Kinder- und Jugendärzte,ORG,0.7,0.0,de,2
-WHO,WHO,ORG,0.0,0.0,de,2
-Bundeswehr-Universität,Bundeswehr-Universität,ORG,0.0,0.0,de,2
-Gaspreisbremse,Gaspreisbremse,ORG,0.35,0.0,de,2
-Solihull,Solihull,ORG,0.7,0.0,de,2
-Internationale Energieagentur.,Internationale Energieagentur.,ORG,-0.35,0.0,de,2
+Berlin",ORG,0.0,0.0,de,7
+RT DE.,RT DE.,ORG,-0.19999999999999998,0.07142857142857142,de,7
+Gewerkschaft,Gewerkschaft,ORG,-0.12142857142857143,0.0,de,7
+Berliner Morgenpost,Berliner Morgenpost,ORG,0.0,0.0,de-DE,7
+Europäische Kommission,Europäische Kommission,ORG,-0.11666666666666665,0.16666666666666666,de,6
+IOC,IOC,ORG,-0.025000000000000005,0.0,de,6
+TotalEnergies,TotalEnergies,ORG,0.0,0.16666666666666666,de,6
+EZB,EZB,ORG,0.0,0.0,de,6
+AKW,AKW,ORG,0.2333333333333333,0.3333333333333333,de,6
+DER SPIEGEL.,DER SPIEGEL.,ORG,0.0,0.0,de,6
+Kabinett,Kabinett,ORG,0.0,0.0,de,6
+Europäischen Kommission,Europäischen Kommission,ORG,-0.375,0.0,de,6
+Bundesbank,Bundesbank,ORG,0.0,0.0,de,6
+Ifo-Instituts,Ifo-Instituts,ORG,0.05000000000000001,0.0,de,6
+WirtschaftsWoche Online,WirtschaftsWoche Online,ORG,0.7000000000000001,0.0,de,6
+Deutsche Rentenversicherung,Deutsche Rentenversicherung,ORG,-0.7000000000000001,0.0,de,6
+EU-Ebene,EU-Ebene,ORG,0.3333333333333333,0.16666666666666666,de,6
+Internationalen Energieagentur,Internationalen Energieagentur,ORG,-0.3333333333333333,0.0,de,6
+Deutschland,Deutschland,ORG,-0.11666666666666665,0.0,de,6
+SPD-Chef,SPD-Chef,ORG,-0.13666666666666666,0.0,de,5
+KURZMELDUNGEN,KURZMELDUNGEN,ORG,0.0,0.0,de,5
 "Foto: dpa) 
 ","Foto: dpa) 
-",ORG,-0.5,0.0,de,2
-Europäische Zentralbank,Europäische Zentralbank,ORG,0.0,0.0,de,2
-Deutsche Gewerkschaftsbund,Deutsche Gewerkschaftsbund,ORG,0.0,0.0,de,2
-Sicherheitsbereitschaft,Sicherheitsbereitschaft,ORG,0.0,0.0,de,2
-Gewerkschaftsbund,Gewerkschaftsbund,ORG,0.0,0.0,de,2
-EU-Kommissionschefin,EU-Kommissionschefin,ORG,0.0,0.5,de,2
-BKA,BKA,ORG,-0.7,0.0,de,2
-"Heizöl, Pellets","Heizöl, Pellets",ORG,0.35,0.25,de,2
-Gaspreisbremse: Bundesregierung,Gaspreisbremse: Bundesregierung,ORG,0.0,0.0,de,2
-EU-Spitzenfunktionärin,EU-Spitzenfunktionärin,ORG,-1.0,0.0,de,2
-Bayerischen Akademie der Schönen Künste,Bayerischen Akademie der Schönen Künste,ORG,0.6666666666666666,0.16666666666666666,de,2
-Bundesamt für Katastrophenhilfe,Bundesamt für Katastrophenhilfe,ORG,0.5,0.0,de,2
-Europäische Union,Europäische Union,ORG,0.0,0.5,de,2
-Gazprom.,Gazprom.,ORG,0.0,0.0,de,2
-Tag!,Tag!,ORG,-0.5249999999999999,0.2,de,2
-Deutschen Alpenvereins,Deutschen Alpenvereins,ORG,-0.7,0.0,de,2
-I…,I…,ORG,0.35,0.0,de,2
-Grünen.,Grünen.,ORG,0.0,0.0,de,2
-Bundesamt für Bevölkerungsschutz und Katastrophenhilfe,Bundesamt für Bevölkerungsschutz und Katastrophenhilfe,ORG,0.0,0.0,de,2
-ukrainischen Streitkräfte,ukrainischen Streitkräfte,ORG,-0.85,0.0,de,2
-Deutschlands Gasimporteur Uniper,Deutschlands Gasimporteur Uniper,ORG,0.0,0.0,de,2
-Umwelt: Glencore,Umwelt: Glencore,ORG,0.0,0.0,de,2
-Foto: picture alliance,Foto: picture alliance,ORG,0.0,0.0,de,2
+",ORG,0.0,0.0,de,5
+Gewerkschaften,Gewerkschaften,ORG,0.32999999999999996,0.16666666666666666,de,5
+Russland,Russland,ORG,0.0,0.0,de,5
+Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,0.27999999999999997,0.0,de,5
+Stadtwerke,Stadtwerke,ORG,-0.1,0.1,de,5
+Internationale Energieagentur.,Internationale Energieagentur.,ORG,-0.48,0.0,de,5
+EU-Länder,EU-Länder,ORG,0.27999999999999997,0.0,de,5
+Europäische Union,Europäische Union,ORG,-0.2,0.2,de,5
+GIE,GIE,ORG,0.0,0.0,de,5
+Ukraine.,Ukraine.,ORG,0.0,0.0,de,5
+VNG,VNG,ORG,0.0,0.0,de,5
+Shell,Shell,ORG,0.0,0.2,de,5
+Gaspreisbremse,Gaspreisbremse,ORG,0.175,0.2,de,4
+Deutsche Börse,Deutsche Börse,ORG,0.07500000000000001,0.0,de,4
+Leag,Leag,ORG,0.0,0.0,de,4
+SPIEGEL-Informationen,SPIEGEL-Informationen,ORG,0.05833333333333332,0.25,de,4
+E-Control,E-Control,ORG,0.35,0.0,de,4
+GASTKOMMENTAR,GASTKOMMENTAR,ORG,0.175,0.0,de,4
+Bundes…,Bundes…,ORG,0.0,0.0,de,4
+AfD,AfD,ORG,0.09999999999999998,0.0,de,4
+Qatar Energy,Qatar Energy,ORG,0.0,0.0,de,4
+Gasag,Gasag,ORG,0.033333333333333326,0.08333333333333333,de,4
+DGB,DGB,ORG,0.0,0.0,de,4
+Deutschen Eishockey Liga,Deutschen Eishockey Liga,ORG,-0.5249999999999999,0.0,de,4
+"Schweiz, International, Sport, Digital, Wirtschaft, Auto &","Schweiz, International, Sport, Digital, Wirtschaft, Auto &",ORG,0.0,0.75,de,4
+DEL,DEL,ORG,-0.5249999999999999,0.0,de,4
+Adler Mannheim,Adler Mannheim,ORG,-0.5249999999999999,0.0,de,4
+RS-Virus,RS-Virus,ORG,-0.3375,0.0,de,4
+ntv.de,ntv.de,ORG,0.25,0.0,de,4
+Bundesamt für Bevölkerungsschutz,Bundesamt für Bevölkerungsschutz,ORG,-0.175,0.0,de,4
+Kölner Haien,Kölner Haien,ORG,-0.5249999999999999,0.0,de,4
+Kirche,Kirche,ORG,-0.07500000000000001,0.0,de,4
+Eon,Eon,ORG,-0.75,0.0,de,4
+Europäer,Europäer,ORG,-0.125,0.0,de,4
+Bundesamtes für Bevölkerungsschutz und Katastrophenhilfe,Bundesamtes für Bevölkerungsschutz und Katastrophenhilfe,ORG,-0.35,0.25,de,4
+Bundesamt für Bevölkerungsschutz und Katastrophenhilfe,Bundesamt für Bevölkerungsschutz und Katastrophenhilfe,ORG,0.2125,0.0,de,4
+Stiftung Warentest,Stiftung Warentest,ORG,-0.225,0.0,de,4
+Ukraine?,Ukraine?,ORG,0.0,0.0,de,4
+NZZ,NZZ,ORG,0.0,0.75,de,4
+Amazon,Amazon,ORG,0.0,0.0,de,4
+DAK,DAK,ORG,-0.175,0.0,de,4
+Nato,Nato,ORG,0.5625,0.0,de,4
+BP,BP,ORG,0.0,0.0,de,3
+Drittligist 1860 München,Drittligist 1860 München,ORG,0.3333333333333333,0.0,de,3
+Berliner Hertie School,Berliner Hertie School,ORG,0.2333333333333333,0.0,de,3
+EU-Minister,EU-Minister,ORG,0.0,0.0,de,3
+Nachri…,Nachri…,ORG,0.0,0.0,de,3
+Foto: imago,Foto: imago,ORG,0.0,0.0,de,3
+Heizkostenhilfe,Heizkostenhilfe,ORG,0.6666666666666666,0.0,de,3
+Stadtwerke München,Stadtwerke München,ORG,-0.10000000000000002,0.0,de,3
+Abgeordneten,Abgeordneten,ORG,0.0,0.0,de,3
+Blackout,Blackout,ORG,0.3333333333333333,0.3333333333333333,de,3
+Bundesgesundheitsminister,Bundesgesundheitsminister,ORG,0.2333333333333333,0.0,de,3
+Charité,Charité,ORG,0.0,0.0,de,3
+Umweltminister,Umweltminister,ORG,0.0,0.0,de,3
+Joint Venture,Joint Venture,ORG,0.2333333333333333,0.0,de,3
+Respiratorischen Synzytial-Virus,Respiratorischen Synzytial-Virus,ORG,0.0,0.0,de,3
+EU-Regierungschefs,EU-Regierungschefs,ORG,0.0,0.0,de,3
+SPD-Chef Klingbeil,SPD-Chef Klingbeil,ORG,0.0,0.0,de,3
+deutschen Staat,deutschen Staat,ORG,-0.4666666666666666,0.0,de,3
+Gas sparenGas,Gas sparenGas,ORG,1.0,0.0,de,3
+Terminkontrakts TTF,Terminkontrakts TTF,ORG,0.0,0.0,de,3
+Gaspreisbremse:,Gaspreisbremse:,ORG,-0.2333333333333333,0.0,de,3
+F…,F…,ORG,0.0,0.3333333333333333,de,3
+Wintershall Dea,Wintershall Dea,ORG,0.4666666666666666,0.0,de,3
+SPIEGEL TV,SPIEGEL TV,ORG,0.0,0.0,de,3
+Deutsche Institut für Wirtschaftsforschung,Deutsche Institut für Wirtschaftsforschung,ORG,-0.4666666666666666,0.0,de,3
+europäische Verband der Übertragungsnetzbetreiber,europäische Verband der Übertragungsnetzbetreiber,ORG,0.0,0.0,de,3
+Clariant,Clariant,ORG,0.2333333333333333,0.0,de,3
+Blitzeis-Alarm!,Blitzeis-Alarm!,ORG,0.0,0.0,de,3
+Gesundheitsminister,Gesundheitsminister,ORG,0.6666666666666666,0.0,de,3
+SWR,SWR,ORG,0.0,0.0,de,3
+NDR.de,NDR.de,ORG,0.6999999999999998,0.0,de,3
+TIGAS,TIGAS,ORG,0.4666666666666666,0.0,de,3
+SPD-Vorsitzende,SPD-Vorsitzende,ORG,0.0,0.0,de,3
+Black Friday,Black Friday,ORG,0.0,0.0,de,3
+Anschaffung.</li><li>…,Anschaffung.</li><li>…,ORG,0.0,0.0,de,3
+Deutsche Wetterdienst.,Deutsche Wetterdienst.,ORG,-0.2833333333333333,0.0,de,3
+DDR,DDR,ORG,0.0,0.0,de,3
+Nord Stream 1,Nord Stream 1,ORG,-0.2333333333333333,0.0,de,3
+Bür…,Bür…,ORG,-0.2333333333333333,0.0,de,3
+Gasprom,Gasprom,ORG,-0.3333333333333333,0.0,de,3
+Homeoffice,Homeoffice,ORG,0.3333333333333333,0.0,de,3
+Parlament,Parlament,ORG,0.2333333333333333,0.3333333333333333,de,3
+Gaslieferung,Gaslieferung,ORG,0.0,0.0,de,3
+IEA,IEA,ORG,0.0,0.0,de,3
+Zentrum,Zentrum,ORG,0.3333333333333333,0.0,de,3
+Wirtschaftsminister,Wirtschaftsminister,ORG,0.2333333333333333,0.0,de,3
+Kinderkliniken und Praxen im,Kinderkliniken und Praxen im,ORG,0.0,0.0,de,2
+Lithium:,Lithium:,ORG,-0.15000000000000002,0.0,de,2
+Gaskondensat,Gaskondensat,ORG,0.0,0.0,de,2
+Erdgas-Händler,Erdgas-Händler,ORG,0.35,0.0,de,2
+Energiepreisen,Energiepreisen,ORG,0.15000000000000002,0.0,de,2
+Europäischen Küsten,Europäischen Küsten,ORG,0.7,0.0,de,2
+Blackout!,Blackout!,ORG,0.0,0.0,de,2
+Angebotsengpässe,Angebotsengpässe,ORG,1.0,0.0,de,2
+Essen & Trinken,Essen & Trinken,ORG,0.0,0.0,de,2
 SPD-Chefin,SPD-Chefin,ORG,0.0,0.0,de,2
-ukrainische Armee,ukrainische Armee,ORG,0.35,0.0,de,2
-Foto: AP,Foto: AP,ORG,0.0,0.0,de,2
-RKI,RKI,ORG,0.0,0.0,de,2
-St. Pauli Kirche,St. Pauli Kirche,ORG,0.0,0.0,de,2
-Europäische Kommission,Europäische Kommission,ORG,0.0,0.0,de,2
-DDR,DDR,ORG,0.0,0.0,de,2
-ARD,ARD,ORG,0.0,0.0,de,2
-Robert-Koch-Instituts,Robert-Koch-Instituts,ORG,0.0,0.0,de,2
+Milliardengewinn,Milliardengewinn,ORG,0.73,0.0,de,2
+Rewe,Rewe,ORG,0.0,0.0,de,2
+"SPD, Grünen","SPD, Grünen",ORG,0.0,0.0,de,2
+Energie-Infrastruktur,Energie-Infrastruktur,ORG,0.5,0.0,de,2
+Deutschen Alpenvereins,Deutschen Alpenvereins,ORG,-0.7,0.0,de,2
+BDR Thermea,BDR Thermea,ORG,0.0,0.0,de,2
+Porsche,Porsche,ORG,0.0,0.0,de,2
+Robert-Koch Instituts,Robert-Koch Instituts,ORG,0.0,0.0,de,2
+Die WELT,Die WELT,ORG,0.175,0.0,de,2
+Moldovagaz,Moldovagaz,ORG,-1.0,0.0,de,2
+Bund-Länder-Gipfel,Bund-Länder-Gipfel,ORG,0.0,0.5,de,2
+Potsdam-Institut für Klimafolgenforschung.,Potsdam-Institut für Klimafolgenforschung.,ORG,0.0,0.0,de,2
+Katars Energieministerium,Katars Energieministerium,ORG,0.0,0.0,de,2
+Steigende,Steigende,ORG,0.0,0.0,de,2
+Solihull,Solihull,ORG,0.7,0.0,de,2
+Bundeswehr-Universität,Bundeswehr-Universität,ORG,0.0,0.0,de,2
+Queen Consort Camilla,Queen Consort Camilla,ORG,0.0,0.0,de,2
+RSV.,RSV.,ORG,-1.0,0.0,de,2
+Eni,Eni,ORG,0.0,0.5,de,2
+KP,KP,ORG,-0.7,0.0,de,2
+EU-Chefin,EU-Chefin,ORG,0.7,0.0,de,2
+AKW-Entscheidung,AKW-Entscheidung,ORG,0.16666666666666666,0.0,de,2
+"Internationalen Energieagentur,","Internationalen Energieagentur,",ORG,0.0,0.0,de,2
+Emirat Katar,Emirat Katar,ORG,0.0,0.0,de,2
+Sound Brothers,Sound Brothers,ORG,0.5,0.0,de,2
+Vereinten Nationen,Vereinten Nationen,ORG,-0.35,0.0,de,2
+PIK,PIK,ORG,0.0,0.0,de,2
+Währungshüter,Währungshüter,ORG,0.0,0.0,de,2
+Erdgas: Wo,Erdgas: Wo,ORG,0.5,0.25,de,2
+Notenbank,Notenbank,ORG,0.0,0.0,de,2
+Sicherheitsbereitschaft,Sicherheitsbereitschaft,ORG,0.0,0.0,de,2
+Kirchliche Allgemeine Sozialarbeit,Kirchliche Allgemeine Sozialarbeit,ORG,-0.15000000000000002,0.0,de,2
+Diakonie Oberland,Diakonie Oberland,ORG,-0.15000000000000002,0.0,de,2
+Heizölpreis-Prognose: Wird Heizöl,Heizölpreis-Prognose: Wird Heizöl,ORG,0.0,0.0,de,2
+NBB,NBB,ORG,0.0,0.0,de,2
+Pro Bahn,Pro Bahn,ORG,0.0,0.0,de,2
+Playmobil,Playmobil,ORG,1.0,0.0,de,2
+Potsdam-Institut für Klimafolgenforschung,Potsdam-Institut für Klimafolgenforschung,ORG,0.0,0.0,de,2
 Spiegel,Spiegel,ORG,0.0,0.0,de,2
-Roommate Albert,Roommate Albert,ORG,0.85,0.0,de,2
-Bundesamt für Bevölkerungsschutz,Bundesamt für Bevölkerungsschutz,ORG,0.0,0.0,de,2
-Brownouts,Brownouts,ORG,0.125,0.0,de,2
-russische Militär,russische Militär,ORG,0.0,0.0,de,2
+Sozialdienst Katholischer Frauen,Sozialdienst Katholischer Frauen,ORG,-0.15000000000000002,0.0,de,2
+Expertenkommission für Gas und Wärme,Expertenkommission für Gas und Wärme,ORG,0.25,0.0,de,2
+Foto: picture alliance,Foto: picture alliance,ORG,0.0,0.0,de,2
+Polen,Polen,ORG,0.0,0.0,de,2
+St. Pauli Kirche,St. Pauli Kirche,ORG,0.0,0.0,de,2
+Bayerischen Tourismustag,Bayerischen Tourismustag,ORG,0.0,0.0,de,2
+OMV,OMV,ORG,0.0,0.0,de,2
+SZ-Adventskalender,SZ-Adventskalender,ORG,0.0,0.0,de,2
+WM-Pause,WM-Pause,ORG,0.35,0.0,de,2
+Gasimporteur: Uniper,Gasimporteur: Uniper,ORG,0.0,0.0,de,2
+Uniper.,Uniper.,ORG,-0.85,0.0,de,2
+US-Geheimdienstexperten,US-Geheimdienstexperten,ORG,0.0,0.0,de,2
+Milliardenhilfe,Milliardenhilfe,ORG,0.35,0.0,de,2
+Kommunen,Kommunen,ORG,0.0,0.0,de,2
+OECD,OECD,ORG,0.5,0.0,de,2
+Wirtschaftskammer Burgenland,Wirtschaftskammer Burgenland,ORG,-0.35,0.0,de,2
+Gas-Abschlag,Gas-Abschlag,ORG,0.7,0.0,de,2
+Klimaschützer,Klimaschützer,ORG,0.0,0.0,de,2
+Beuu llule,Beuu llule,ORG,0.0,0.0,de,2
+BBPA,BBPA,ORG,0.0,0.0,de,2
+Media Markt,Media Markt,ORG,0.35,0.0,de,2
+Studierendenwerk Berlin,Studierendenwerk Berlin,ORG,0.7,0.0,de,2
+Eintracht!,Eintracht!,ORG,0.7,0.0,de,2
+EU-Ratspräsident,EU-Ratspräsident,ORG,0.0,0.0,de,2
+APG,APG,ORG,0.0,0.5,de,2
+N26 Bank,N26 Bank,ORG,0.0,0.0,de,2
+Pipeline Nord Stream 1,Pipeline Nord Stream 1,ORG,0.0,0.0,de,2
+Gas Infrastructure Europe,Gas Infrastructure Europe,ORG,0.0,0.0,de,2
+LNG-Zukunft,LNG-Zukunft,ORG,-0.5,0.5,de,2
+Polizei,Polizei,ORG,0.35,0.0,de,2
+Grünen,Grünen,ORG,0.0,0.0,de,2
+RKI,RKI,ORG,0.0,0.0,de,2
+Foto: imago images,Foto: imago images,ORG,0.0,0.0,de,2
+Gaspreisdeckel.,Gaspreisdeckel.,ORG,0.0,0.0,de,2
+THE,THE,ORG,0.0,0.0,de,2
+Kopfschmerz,Kopfschmerz,ORG,0.0,0.0,de,2
+Audi,Audi,ORG,0.0,0.0,de,2
+I…,I…,ORG,0.35,0.0,de,2
+WM-Fall,WM-Fall,ORG,-1.0,0.0,de,2
+Umwelt: Glencore,Umwelt: Glencore,ORG,0.0,0.0,de,2
+E-Autos,E-Autos,ORG,0.0,0.0,de,2
+NGG,NGG,ORG,0.0,0.0,de,2
+Münchner Biomediziner,Münchner Biomediziner,ORG,0.35,0.0,de,2
+Senat,Senat,ORG,1.0,0.0,de,2
+Essenslieferdienstes,Essenslieferdienstes,ORG,0.0,0.5,de,2
+HeizkostenBeim,HeizkostenBeim,ORG,0.0,0.0,de,2
+Millionen Deutsche,Millionen Deutsche,ORG,0.0,0.0,de,2
+BDEW,BDEW,ORG,0.0,0.0,de,2
+Leipziger Gasimporteur,Leipziger Gasimporteur,ORG,0.0,0.0,de,2
+AKW Saporischschja,AKW Saporischschja,ORG,0.35,0.0,de,2
+Landtags,Landtags,ORG,0.0,0.0,de,2
+US-Konzern Westinghouse.,US-Konzern Westinghouse.,ORG,0.0,0.0,de,2
+Ferraro,Ferraro,ORG,-0.35,0.0,de,2
+Robert-Koch-Instituts,Robert-Koch-Instituts,ORG,0.0,0.0,de,2
+"Foto: IMAGO/Laci Perenyi) 
+","Foto: IMAGO/Laci Perenyi) 
+",ORG,0.0,0.0,de,2
+Stiftung Preußische Schlösser und Gärten Berlin-Brandenburg,Stiftung Preußische Schlösser und Gärten Berlin-Brandenburg,ORG,1.0,0.0,de,2
+Ismaik,Ismaik,ORG,0.35,0.0,de,2
+Foto: Kay Nietfeld/dpa,Foto: Kay Nietfeld/dpa,ORG,0.35,0.0,de,2
+EU-Diplomaten,EU-Diplomaten,ORG,0.0,0.0,de,2
+Hinweis</li><li>,Hinweis</li><li>,ORG,-0.7,0.0,de,2
+Betrug</li><li>Kriminelle,Betrug</li><li>Kriminelle,ORG,-0.7,0.0,de,2
 Druschba-Ölpipeline in Polen,Druschba-Ölpipeline in Polen,ORG,0.0,0.0,de,2
-Staatsanwaltschaft: Schweden: Sprengstoff,Staatsanwaltschaft: Schweden: Sprengstoff,ORG,0.0,0.0,de,1
-Deutsche We…,Deutsche We…,ORG,0.0,0.0,de,1
-Kampagne,Kampagne,ORG,0.0,0.0,de,1
-Ukraine +++,Ukraine +++,ORG,-1.0,0.0,de,1
-Behö…,Behö…,ORG,0.0,0.0,de,1
-Fiebersaft für Kinder,Fiebersaft für Kinder,ORG,0.0,0.0,de,1
-Strom-Totalausfall,Strom-Totalausfall,ORG,-1.0,0.0,de,1
-Atlantic Consulting i…,Atlantic Consulting i…,ORG,0.0,0.0,de,1
-IS-Anhängerinnen,IS-Anhängerinnen,ORG,0.0,0.0,de,1
-Stiftung Warentest: Warum Heizlüfter,Stiftung Warentest: Warum Heizlüfter,ORG,-1.0,0.0,de,1
-"Coronavirus-Pandemie für Niedersachsen, Schleswig-Holstei…","Coronavirus-Pandemie für Niedersachsen, Schleswig-Holstei…",ORG,0.7,0.0,de,1
-AKW Saporischschja:,AKW Saporischschja:,ORG,-1.0,0.0,de,1
-Verband: Deutschland,Verband: Deutschland,ORG,-1.0,0.0,de,1
-Gaspreis-Paket,Gaspreis-Paket,ORG,0.0,0.0,de,1
-Bundesliga: Gladbachs,Bundesliga: Gladbachs,ORG,0.0,0.0,de,1
-Black Week,Black Week,ORG,0.0,0.0,de,1
-C&A.,C&A.,ORG,0.0,0.0,de,1
-ALLES,ALLES,ORG,0.0,0.0,de,1
-deutsche LNG-Willkür.,deutsche LNG-Willkür.,ORG,0.0,0.0,de,1
-Verbandes:,Verbandes:,ORG,0.0,0.0,de,1
-Stadtwerke Bad Tölz:,Stadtwerke Bad Tölz:,ORG,0.0,0.0,de,1
-C&A,C&A,ORG,0.0,0.0,de,1
-"Deutschen Studierendenwerkes,","Deutschen Studierendenwerkes,",ORG,-0.35,0.0,de,1
-Tölzer Stadtwerke,Tölzer Stadtwerke,ORG,0.7,0.0,de,1
-deutschen Fernsehen,deutschen Fernsehen,ORG,0.0,0.0,de,1
-Babys:,Babys:,ORG,1.0,0.0,de,1
-Queen Consort Camilla: Paddington-Teddybären,Queen Consort Camilla: Paddington-Teddybären,ORG,-0.7,0.0,de,1
-Wohnen: Wann Energiesparen,Wohnen: Wann Energiesparen,ORG,0.0,0.0,de,1
-Kernfehler,Kernfehler,ORG,0.0,0.0,de,1
-Fensterdichtung,Fensterdichtung,ORG,0.0,0.0,de,1
-"WEB.DE News
-</li><li>","WEB.DE News
-</li><li>",ORG,0.0,0.0,de,1
-Telekom,Telekom,ORG,0.0,0.0,de,1
-Homeoffice-Kälte.,Homeoffice-Kälte.,ORG,0.0,0.0,de,1
-Queen Consort,Queen Consort,ORG,-0.7,0.0,de,1
-Glasfaser: Telekom,Glasfaser: Telekom,ORG,0.0,0.0,de,1
-Berufsverbands der Kinder- und Jugendärzte.,Berufsverbands der Kinder- und Jugendärzte.,ORG,0.0,0.0,de,1
-Linkspartei +++ Deutschland,Linkspartei +++ Deutschland,ORG,0.7,0.0,de,1
-Technische Universität,Technische Universität,ORG,-0.7,0.0,de,1
-Bundesagentur für Arbeit,Bundesagentur für Arbeit,ORG,0.0,0.0,de,1
-Union: Gas-,Union: Gas-,ORG,0.0,0.0,de,1
+Verband der Kinder- und Jugendärzte,Verband der Kinder- und Jugendärzte,ORG,0.7,0.0,de,2
+LNG-Terminals,LNG-Terminals,ORG,0.0,0.0,de,2
+US-Chipkonzern,US-Chipkonzern,ORG,0.0,0.5,de,2
+"LNG-Terminals"".","LNG-Terminals"".",ORG,1.0,0.0,de,2
+Dezember-Abschlag,Dezember-Abschlag,ORG,0.85,0.0,de,2
+Tag!,Tag!,ORG,-0.5249999999999999,0.2,de,2
+Gazprom Schadenersatz,Gazprom Schadenersatz,ORG,0.0,0.0,de,2
+AUTO,AUTO,ORG,0.0,0.0,de,2
+Energiepreiskrise,Energiepreiskrise,ORG,0.0,0.0,de,2
+Polizeiinspektion Erding,Polizeiinspektion Erding,ORG,0.35,0.0,de,2
+FC Nürnberg,FC Nürnberg,ORG,0.5,0.0,de,2
+Japan,Japan,ORG,0.0,0.0,de,2
+Deutsche AIDS-Stiftung,Deutsche AIDS-Stiftung,ORG,-0.7,0.0,de,2
+deutschen Ostseeküste.,deutschen Ostseeküste.,ORG,0.0,0.0,de,2
+"Foto: dpa)
+","Foto: dpa)
+",ORG,0.0,0.0,de,2
+Kalkül: Wenn,Kalkül: Wenn,ORG,0.0,0.0,de,2
+Deutschlands Gasimporteur Uniper,Deutschlands Gasimporteur Uniper,ORG,0.0,0.0,de,2
+Stellantis,Stellantis,ORG,0.0,0.0,de,2
+BMW,BMW,ORG,0.0,0.0,de,2
+"Foto: dpa) 
+","Foto: dpa) 
+",ORG,0.5,0.0,de,2
+WHO,WHO,ORG,0.0,0.0,de,2
+Pipeline Turkstream,Pipeline Turkstream,ORG,1.0,0.0,de,2
+Gaspreisbremse: Bundesregierung,Gaspreisbremse: Bundesregierung,ORG,0.0,0.0,de,2
+EVP-Chef,EVP-Chef,ORG,0.0,0.0,de,2
+Europäischen Volkspartei,Europäischen Volkspartei,ORG,0.0,0.5,de,2
+IW Köln,IW Köln,ORG,0.35,0.0,de,2
+Brownouts,Brownouts,ORG,0.125,0.0,de,2
+Verband GIE,Verband GIE,ORG,1.0,0.0,de,2
 "Foto: Imago) 
 ","Foto: Imago) 
+",ORG,0.0,0.0,de,2
+IW Kölns,IW Kölns,ORG,0.35,0.0,de,2
+Erdgasspeicher,Erdgasspeicher,ORG,0.0,0.0,de,2
+WEB.DE News.,WEB.DE News.,ORG,0.5,0.0,de,2
+Bundesamt für Katastrophenhilfe,Bundesamt für Katastrophenhilfe,ORG,0.5,0.0,de,2
+Berlin/Brüssel.,Berlin/Brüssel.,ORG,0.0,0.0,de,2
+WM!,WM!,ORG,0.0,0.0,de,2
+SEFE,SEFE,ORG,0.0,0.0,de,2
+Linke,Linke,ORG,-0.5,0.0,de,2
+Wi…,Wi…,ORG,-0.07500000000000001,0.0,de,2
+US-Sondergesandten,US-Sondergesandten,ORG,0.0,0.0,de,2
+eBay,eBay,ORG,0.0,0.0,de,2
+ZDF,ZDF,ORG,0.0,0.0,de,2
+Weltbank,Weltbank,ORG,0.0,0.0,de,2
+Rohstoff-Importen,Rohstoff-Importen,ORG,-1.0,0.0,de,2
+HSV,HSV,ORG,0.0,0.0,de,2
+Ukraine-Krieg,Ukraine-Krieg,ORG,0.0,0.0,de,2
+ARD,ARD,ORG,0.0,0.0,de,2
+Gazprom Germania.,Gazprom Germania.,ORG,0.0,0.0,de,2
+ConocoPhillips,ConocoPhillips,ORG,0.0,0.0,de,2
+EU-Parlament,EU-Parlament,ORG,0.0,0.0,de,2
+STERN,STERN,ORG,0.0,0.0,de,2
+Kältetanks für LNG-Schiffe.,Kältetanks für LNG-Schiffe.,ORG,0.0,0.0,de,2
+Foto: AP,Foto: AP,ORG,0.0,0.0,de,2
+EU-Kommissionschefin,EU-Kommissionschefin,ORG,0.0,0.5,de,2
+Roommate Albert,Roommate Albert,ORG,0.85,0.0,de,2
+russische Militär,russische Militär,ORG,0.0,0.0,de,2
+EU-Klimaziele,EU-Klimaziele,ORG,0.0,0.0,de,2
+RTL Online.,RTL Online.,ORG,-0.15000000000000002,0.0,de,2
+Foto:,Foto:,ORG,0.0,0.0,de,2
+Deutsche Wetterdienst…,Deutsche Wetterdienst…,ORG,0.0,0.0,de,2
+Berliner SPD-Fraktion,Berliner SPD-Fraktion,ORG,-0.675,0.25,de,2
+Gaztransport &amp,Gaztransport &amp,ORG,0.0,0.0,de,2
+Europäische Zentralbank,Europäische Zentralbank,ORG,0.0,0.0,de,2
+BKA,BKA,ORG,-0.7,0.0,de,2
+Parteitags,Parteitags,ORG,-1.0,0.0,de,2
+Deutsche Gewerkschaftsbund,Deutsche Gewerkschaftsbund,ORG,0.0,0.0,de,2
+Gasfüllstand,Gasfüllstand,ORG,0.0,0.0,de,2
+TTF,TTF,ORG,-0.35,0.0,de,2
+Gewerkschaftsbund,Gewerkschaftsbund,ORG,0.0,0.0,de,2
+EU-Spitzenfunktionärin,EU-Spitzenfunktionärin,ORG,-1.0,0.0,de,2
+Bundesliga,Bundesliga,ORG,0.35,0.0,de,2
+ukrainischen Streitkräfte,ukrainischen Streitkräfte,ORG,-0.85,0.0,de,2
+Ukraine +++,Ukraine +++,ORG,-1.0,0.0,de,2
+AKW Saporischschja:,AKW Saporischschja:,ORG,-1.0,0.0,de,2
+ukrainische Armee,ukrainische Armee,ORG,0.35,0.0,de,2
+"Heizöl, Pellets","Heizöl, Pellets",ORG,0.35,0.25,de,2
+Profitierende,Profitierende,ORG,-0.7,0.0,de,2
+Bayerischen Akademie der Schönen Künste,Bayerischen Akademie der Schönen Künste,ORG,0.6666666666666666,0.16666666666666666,de,2
+Ampel-Fraktionen,Ampel-Fraktionen,ORG,0.35,0.0,de,2
+Widodo,Widodo,ORG,0.0,0.0,de,2
+Strom-Schock...,Strom-Schock...,ORG,0.0,0.0,de,2
+Grünen.,Grünen.,ORG,0.0,0.0,de,2
+Bund,Bund,ORG,0.7,0.0,de,2
+Bundesamtes für Bevölkerungsschutz und Katastrophenhilfe.,Bundesamtes für Bevölkerungsschutz und Katastrophenhilfe.,ORG,0.0,0.0,de,2
+IWH,IWH,ORG,-0.5,0.0,de,2
+Leibniz-Instituts für Wirtschaftsforschung Halle,Leibniz-Instituts für Wirtschaftsforschung Halle,ORG,-0.5,0.0,de,2
+SPD-Minister,SPD-Minister,ORG,-0.7,0.0,de,2
+SZ Ebersberg,SZ Ebersberg,ORG,0.0,0.0,de,2
+de…,de…,ORG,0.0,0.0,de,2
+Las Vegas,Las Vegas,ORG,-0.35,0.0,de,2
+Vancouvers,Vancouvers,ORG,0.7,0.0,de,2
+Verband der Heizöllieferanten.,Verband der Heizöllieferanten.,ORG,1.0,0.0,de,1
+Krankenhausgesellschaft Sachsen,Krankenhausgesellschaft Sachsen,ORG,-1.0,0.0,de,1
+Lieferando-Fahrer,Lieferando-Fahrer,ORG,0.0,0.0,de,1
+WM-kritischen Deutschen.,WM-kritischen Deutschen.,ORG,0.0,0.0,de,1
+Gewerkschafter,Gewerkschafter,ORG,-0.85,0.0,de,1
+Stromausfällen – Grüne,Stromausfällen – Grüne,ORG,-0.7,0.0,de,1
+Fernwärmebedarf,Fernwärmebedarf,ORG,0.0,0.0,de,1
+BBK: Blackout,BBK: Blackout,ORG,0.0,0.0,de,1
+Gas-Deal Katars,Gas-Deal Katars,ORG,0.0,0.0,de,1
+LNG for Germany!,LNG for Germany!,ORG,0.0,0.0,de,1
+Sinalco,Sinalco,ORG,0.0,0.0,de,1
+NHC,NHC,ORG,0.0,0.0,de,1
+"Netze schützen
+","Netze schützen
+",ORG,0.7,0.0,de,1
+Valorant-Gewinnspiel: Mützen und Kappen,Valorant-Gewinnspiel: Mützen und Kappen,ORG,0.0,0.0,de,1
+"Zeitung  ""Welt am Sonntag""","Zeitung  ""Welt am Sonntag""",ORG,0.0,0.0,de,1
+Gewerkschaft: Lieferando,Gewerkschaft: Lieferando,ORG,0.0,0.0,de,1
+etp vole,etp vole,ORG,0.0,0.0,de,1
+Blackouts: Deutschland,Blackouts: Deutschland,ORG,0.0,0.0,de,1
+"Klimakrise, Erneuerbare","Klimakrise, Erneuerbare",ORG,0.7,0.0,de,1
+Na…,Na…,ORG,0.0,0.0,de,1
+Abkommen: Katar,Abkommen: Katar,ORG,0.0,0.0,de,1
+Nationale Gesundheitskommission,Nationale Gesundheitskommission,ORG,0.0,0.0,de,1
+"Bild: dpa
+","Bild: dpa
 ",ORG,0.0,0.0,de,1
-IWF,IWF,ORG,0.0,0.0,de,1
-re…,re…,ORG,0.0,0.0,de,1
+European Banking Congress.,European Banking Congress.,ORG,0.0,0.0,de,1
+UN-Klimakonferenz: Staatengemeinschaft,UN-Klimakonferenz: Staatengemeinschaft,ORG,0.0,0.0,de,1
+Wirtschaftsweisen,Wirtschaftsweisen,ORG,-1.0,0.0,de,1
+Die Gaswirtschaft,Die Gaswirtschaft,ORG,1.0,0.0,de,1
+BBK,BBK,ORG,-1.0,0.0,de,1
+Justizministerium,Justizministerium,ORG,0.7,0.0,de,1
+Heizöl.,Heizöl.,ORG,0.0,0.0,de,1
+Gaswirtschaft: LNG-Abkommen,Gaswirtschaft: LNG-Abkommen,ORG,1.0,0.0,de,1
+Ukrainische Generalstaatsanwaltschaft,Ukrainische Generalstaatsanwaltschaft,ORG,-1.0,0.0,de,1
+Messeturm:,Messeturm:,ORG,0.7,0.0,de,1
+Spanien,Spanien,ORG,0.0,0.0,de,1
 ZDF…,ZDF…,ORG,0.0,0.0,de,1
 Taliban,Taliban,ORG,0.0,0.0,de,1
-Afghanistan,Afghanistan,ORG,0.0,0.0,de,1
-Kul…,Kul…,ORG,0.0,0.0,de,1
-Bundesagentur für Arbeit aus!,Bundesagentur für Arbeit aus!,ORG,0.0,0.0,de,1
-Nachri…,Nachri…,ORG,0.0,0.0,de,1
-CHROMORANGE,CHROMORANGE,ORG,0.0,0.0,de,1
-BA,BA,ORG,0.0,0.0,de,1
-EU-Minister,EU-Minister,ORG,0.0,0.0,de,1
-Wetter: Frostiger,Wetter: Frostiger,ORG,0.0,0.0,de,1
-Bremer Innenressort,Bremer Innenressort,ORG,0.0,0.0,de,1
-MTU,MTU,ORG,0.35,0.0,de,1
-Lebensmittelüberwachung,Lebensmittelüberwachung,ORG,0.0,0.0,de,1
-Audi,Audi,ORG,0.0,0.0,de,1
+Deutsche Wetterdiens…,Deutsche Wetterdiens…,ORG,0.0,0.0,de,1
+DFB-Auswahl,DFB-Auswahl,ORG,0.0,0.0,de,1
+Visegrád-Gruppe,Visegrád-Gruppe,ORG,0.0,0.0,de,1
+StrompreiseDeutschlands,StrompreiseDeutschlands,ORG,0.7,0.0,de,1
+Tram,Tram,ORG,0.0,0.0,de,1
+Deutscher Gesundheitsminister,Deutscher Gesundheitsminister,ORG,0.0,0.0,de,1
+Technische Universität,Technische Universität,ORG,-0.7,0.0,de,1
+Berufsverbands der Kinder- und Jugendärzte.,Berufsverbands der Kinder- und Jugendärzte.,ORG,0.0,0.0,de,1
 Kostenlose Corona-Schnelltests,Kostenlose Corona-Schnelltests,ORG,0.0,0.0,de,1
 Kriegsmarine,Kriegsmarine,ORG,0.0,0.0,de,1
+"Coronavirus-Pandemie für Niedersachsen, Schleswig-Holstei…","Coronavirus-Pandemie für Niedersachsen, Schleswig-Holstei…",ORG,0.7,0.0,de,1
+Sinopec,Sinopec,ORG,0.0,0.0,de,1
+Atlantic Consulting i…,Atlantic Consulting i…,ORG,0.0,0.0,de,1
+LNG-Terminal Krk,LNG-Terminal Krk,ORG,0.0,0.0,de,1
+Gaspreis-Paket,Gaspreis-Paket,ORG,0.0,0.0,de,1
+Queen Consort,Queen Consort,ORG,-0.7,0.0,de,1
+Queen Consort Camilla: Paddington-Teddybären,Queen Consort Camilla: Paddington-Teddybären,ORG,-0.7,0.0,de,1
+deutschen Fernsehen,deutschen Fernsehen,ORG,0.0,0.0,de,1
+Gasrese…,Gasrese…,ORG,0.0,0.0,de,1
 Sodastream,Sodastream,ORG,-1.0,0.0,de,1
-Deutsche Wetterdiens…,Deutsche Wetterdiens…,ORG,0.0,0.0,de,1
-Luftraum-Sicherung,Luftraum-Sicherung,ORG,0.7,0.0,de,1
-Linkspartei +++,Linkspartei +++,ORG,0.0,0.0,de,1
-BBK: Blackout,BBK: Blackout,ORG,0.0,0.0,de,1
-Fernwärmebedarf,Fernwärmebedarf,ORG,0.0,0.0,de,1
-Heizöl.,Heizöl.,ORG,0.0,0.0,de,1
-UN-Klimakonferenz: Staatengemeinschaft,UN-Klimakonferenz: Staatengemeinschaft,ORG,0.0,0.0,de,1
-Deutscher Gesundheitsminister,Deutscher Gesundheitsminister,ORG,0.0,0.0,de,1
-Tram,Tram,ORG,0.0,0.0,de,1
-StrompreiseDeutschlands,StrompreiseDeutschlands,ORG,0.7,0.0,de,1
+C&A,C&A,ORG,0.0,0.0,de,1
+ALLES,ALLES,ORG,0.0,0.0,de,1
 Coronavirus:,Coronavirus:,ORG,0.0,0.0,de,1
 Twitter Bilder…,Twitter Bilder…,ORG,0.0,0.0,de,1
-"Bundesamtes für Bevölkerungsschutz und Katastrophenhilfe,","Bundesamtes für Bevölkerungsschutz und Katastrophenhilfe,",ORG,-0.7,0.0,de,1
 Katastrophenschutz!,Katastrophenschutz!,ORG,0.0,0.0,de,1
-Bundesamtes für Bevölkerungsschutz und Katas…,Bundesamtes für Bevölkerungsschutz und Katas…,ORG,0.0,0.0,de,1
-DAS eklig!,DAS eklig!,ORG,-1.0,0.0,de,1
-BBK,BBK,ORG,-1.0,0.0,de,1
-Fifa,Fifa,ORG,0.0,0.0,de,1
-WM-Auftaktspiel,WM-Auftaktspiel,ORG,0.0,0.0,de,1
-deutsche Nationalelf,deutsche Nationalelf,ORG,0.0,0.0,de,1
-"Foto: Photodisc/Getty Images) 
-","Foto: Photodisc/Getty Images) 
-",ORG,0.0,0.0,de,1
-WM-Pause,WM-Pause,ORG,0.7,0.0,de,1
-Ukrainische Generalstaatsanwaltschaft,Ukrainische Generalstaatsanwaltschaft,ORG,-1.0,0.0,de,1
 Bremer Verantwortlichen,Bremer Verantwortlichen,ORG,0.7,0.0,de,1
-Werder Bremen,Werder Bremen,ORG,0.0,0.0,de,1
-"Zeitung  ""Welt am Sonntag""","Zeitung  ""Welt am Sonntag""",ORG,0.0,0.0,de,1
-Stromausfällen – Grüne,Stromausfällen – Grüne,ORG,-0.7,0.0,de,1
-Angeschlagener Gasimporteur,Angeschlagener Gasimporteur,ORG,0.0,0.0,de,1
+re…,re…,ORG,0.0,0.0,de,1
+IWF,IWF,ORG,0.0,0.0,de,1
+Union: Gas-,Union: Gas-,ORG,0.0,0.0,de,1
+Polizeipräsidium Oberfranken a…,Polizeipräsidium Oberfranken a…,ORG,0.0,0.0,de,1
 "Kultusministerkonferenz 
 (KMK","Kultusministerkonferenz 
 (KMK",ORG,0.0,0.0,de,1
-Polizeipräsidium Oberfranken a…,Polizeipräsidium Oberfranken a…,ORG,0.0,0.0,de,1
-"Klimakrise, Erneuerbare","Klimakrise, Erneuerbare",ORG,0.7,0.0,de,1
-Koalitionsfrak…,Koalitionsfrak…,ORG,0.0,0.0,de,1
-LNG-Zukunft,LNG-Zukunft,ORG,-1.0,0.0,de,1
-Verband: „Deutschland,Verband: „Deutschland,ORG,1.0,0.0,de,1
-KURZMELDUNGEN,KURZMELDUNGEN,ORG,0.0,0.0,de,1
-Glencore,Glencore,ORG,0.0,0.0,de,1
-NZZ,NZZ,ORG,0.0,0.0,de,1
-"Schweiz, International, Sport, Digital, Wirtschaft, Auto &","Schweiz, International, Sport, Digital, Wirtschaft, Auto &",ORG,0.0,0.0,de,1
-"Spiegel"" im kommenden Jahr","Spiegel"" im kommenden Jahr",ORG,0.0,0.0,de,1
-Verband: «Deutschland,Verband: «Deutschland,ORG,1.0,0.0,de,1
-"Verband: ""Deutschland","Verband: ""Deutschland",ORG,1.0,0.0,de,1
-Berlin/Bonn,Berlin/Bonn,ORG,0.0,0.0,de,1
-"Foto: Reuters)
-Baar","Foto: Reuters)
-Baar",ORG,0.0,0.0,de,1
-Gasknappheit: Verband: „Deutschland,Gasknappheit: Verband: „Deutschland,ORG,1.0,0.0,de,1
-Gruppe A-Streptokokken,Gruppe A-Streptokokken,ORG,-1.0,0.0,de,1
-GAS,GAS,ORG,-1.0,0.0,de,1
-Tra…,Tra…,ORG,0.0,0.0,de,1
-Grünen-Politikerin,Grünen-Politikerin,ORG,0.0,0.0,de,1
-"Gesellschaft: ""Tafeln am Limit","Gesellschaft: ""Tafeln am Limit",ORG,0.0,0.0,de,1
-Foto: Bernd Settnik/dpa/ZB,Foto: Bernd Settnik/dpa/ZB,ORG,0.0,0.0,de,1
-Bergbau- und Rohstoffkonzern,Bergbau- und Rohstoffkonzern,ORG,0.0,0.0,de,1
-RavensworthEin,RavensworthEin,ORG,0.0,0.0,de,1
-Polizei,Polizei,ORG,0.7,0.0,de,1
-Spontanhilfe: Rotes Kreuz,Spontanhilfe: Rotes Kreuz,ORG,-1.0,0.0,de,1
+Angeschlagener Gasimporteur,Angeschlagener Gasimporteur,ORG,0.0,0.0,de,1
+Brisantes Energie-Papier,Brisantes Energie-Papier,ORG,0.0,0.0,de,1
+Deutschen Bank,Deutschen Bank,ORG,1.0,0.0,de,1
+Werder Bremen,Werder Bremen,ORG,0.0,0.0,de,1
+"Foto: Photodisc/Getty Images) 
+","Foto: Photodisc/Getty Images) 
+",ORG,0.0,0.0,de,1
+DAS eklig!,DAS eklig!,ORG,-1.0,0.0,de,1
+Bundesbank: Bundesbank,Bundesbank: Bundesbank,ORG,0.0,0.0,de,1
+Kul…,Kul…,ORG,0.0,0.0,de,1
+Bremer Innenressort,Bremer Innenressort,ORG,0.0,0.0,de,1
+Indian Council for Research on Internatio…,Indian Council for Research on Internatio…,ORG,0.0,0.0,de,1
+deutsche Nationalelf,deutsche Nationalelf,ORG,0.0,0.0,de,1
+WM-Auftaktspiel,WM-Auftaktspiel,ORG,0.0,0.0,de,1
+Gaspreisdeckel,Gaspreisdeckel,ORG,0.0,0.0,de,1
+Fifa,Fifa,ORG,0.0,0.0,de,1
+Lebensmittelüberwachung,Lebensmittelüberwachung,ORG,0.0,0.0,de,1
+Black Week,Black Week,ORG,0.0,0.0,de,1
+C&A.,C&A.,ORG,0.0,0.0,de,1
+Unicef-Team,Unicef-Team,ORG,0.0,0.0,de,1
+Stromausfall?,Stromausfall?,ORG,0.0,0.0,de,1
+Teilverantwortung,Teilverantwortung,ORG,0.0,0.0,de,1
+Gaskauf +++,Gaskauf +++,ORG,0.7,0.0,de,1
+BA,BA,ORG,0.0,0.0,de,1
+Bundesagentur für Arbeit,Bundesagentur für Arbeit,ORG,0.0,0.0,de,1
+Energie-Krise: Gas-,Energie-Krise: Gas-,ORG,0.0,0.0,de,1
+CHROMORANGE,CHROMORANGE,ORG,0.0,0.0,de,1
+Greenpeace,Greenpeace,ORG,0.0,0.0,de,1
+Verband der Deutschen Automobilindustrie,Verband der Deutschen Automobilindustrie,ORG,0.0,0.0,de,1
+Bundesagentur für Arbeit aus!,Bundesagentur für Arbeit aus!,ORG,0.0,0.0,de,1
+Zentralverband des Deutschen Handwerks,Zentralverband des Deutschen Handwerks,ORG,0.0,0.0,de,1
+Union,Union,ORG,0.0,0.0,de,1
+Union im Bundestag,Union im Bundestag,ORG,0.0,0.0,de,1
+Geburtstag!,Geburtstag!,ORG,0.0,0.0,de,1
+SPIEGEL.,SPIEGEL.,ORG,0.0,0.0,de,1
+Social Media,Social Media,ORG,0.0,0.0,de,1
+Stadtwerken Norderstedt,Stadtwerken Norderstedt,ORG,0.0,0.0,de,1
+Afghanistan,Afghanistan,ORG,0.0,0.0,de,1
+US-Denkfabrik Institut for the Study of War,US-Denkfabrik Institut for the Study of War,ORG,0.7,0.0,de,1
+SSPS,SSPS,ORG,0.0,0.0,de,1
+Unterbringun…,Unterbringun…,ORG,0.0,0.0,de,1
+SPD-Chef.,SPD-Chef.,ORG,0.0,0.0,de,1
+deutsche Bundeskabinett,deutsche Bundeskabinett,ORG,0.0,0.0,de,1
+"Foto: IMAGO/Bildgehege) 
+","Foto: IMAGO/Bildgehege) 
+",ORG,0.0,0.0,de,1
+lO Ieunel,lO Ieunel,ORG,-0.7,0.0,de,1
+LNG Croatia,LNG Croatia,ORG,0.0,0.0,de,1
+Energiekrise: Wie Uniper,Energiekrise: Wie Uniper,ORG,0.0,0.0,de,1
+Kernfehler,Kernfehler,ORG,0.0,0.0,de,1
+Luftraum-Sicherung,Luftraum-Sicherung,ORG,0.7,0.0,de,1
+Ukraine: Stromnetz,Ukraine: Stromnetz,ORG,-1.0,0.0,de,1
+Fensterdichtung,Fensterdichtung,ORG,0.0,0.0,de,1
+Linkspartei +++ Deutschland,Linkspartei +++ Deutschland,ORG,0.7,0.0,de,1
+Fiebersaft für Kinder,Fiebersaft für Kinder,ORG,0.0,0.0,de,1
+Linkspartei +++,Linkspartei +++,ORG,0.0,0.0,de,1
+Forsa.,Forsa.,ORG,0.0,0.0,de,1
+Gaskrise: „Not in my backyard“?,Gaskrise: „Not in my backyard“?,ORG,0.0,0.0,de,1
+Umweltschützern Sorgen,Umweltschützern Sorgen,ORG,0.7,0.0,de,1
+Bild: dpa,Bild: dpa,ORG,-0.85,0.0,de,1
+MTU,MTU,ORG,0.35,0.0,de,1
+Union.,Union.,ORG,0.0,0.0,de,1
+Wetter: Frostiger,Wetter: Frostiger,ORG,0.0,0.0,de,1
+Tr…,Tr…,ORG,0.0,0.0,de,1
+Ukraine: Bundesregierung,Ukraine: Bundesregierung,ORG,0.0,0.0,de,1
+Technische Hilfswerk,Technische Hilfswerk,ORG,0.0,0.0,de,1
+THW,THW,ORG,0.0,0.0,de,1
+Video: Ukraine: Blackout,Video: Ukraine: Blackout,ORG,0.0,0.0,de,1
+IS-Anhängerinnen,IS-Anhängerinnen,ORG,0.0,0.0,de,1
+Deutschen Welle | DW | 29.01.2022.,Deutschen Welle | DW | 29.01.2022.,ORG,0.0,0.0,de,1
+uuu,uuu,ORG,0.0,0.0,de,1
+En…,En…,ORG,0.0,0.0,de,1
+Löwen-Zukunft,Löwen-Zukunft,ORG,0.7,0.0,de,1
+Drittligist 1860 München...,Drittligist 1860 München...,ORG,0.0,0.0,de,1
+Bundesarbeitsgemeinschaft Wohnungslosenhilfe,Bundesarbeitsgemeinschaft Wohnungslosenhilfe,ORG,0.0,0.0,de,1
+HeaterLux,HeaterLux,ORG,0.0,0.0,de,1
+"Wetter-Warnungen  BR24
+</li><li>Eisregen, Schnee, Glatteis:","Wetter-Warnungen  BR24
+</li><li>Eisregen, Schnee, Glatteis:",ORG,0.0,0.0,de,1
+"Freien, bes…","Freien, bes…",ORG,0.7,0.0,de,1
+Ukraine: ,Ukraine: ,ORG,0.0,0.0,de,1
+AU…,AU…,ORG,0.0,0.0,de,1
+Caritas,Caritas,ORG,0.0,0.0,de,1
+RTL,RTL,ORG,0.6999999999999998,0.0,de,1
+Skyline-Blick: Liveblog,Skyline-Blick: Liveblog,ORG,0.0,0.0,de,1
+Goethe-Universität,Goethe-Universität,ORG,0.0,0.0,de,1
+Gasimporteurs: Uniper,Gasimporteurs: Uniper,ORG,0.0,0.0,de,1
+Winter Sale,Winter Sale,ORG,0.0,0.0,de,1
+"Branchenverbands VCI, Markus Steilemann,","Branchenverbands VCI, Markus Steilemann,",ORG,-0.7,0.0,de,1
+Rettung Geschäftsbereiche,Rettung Geschäftsbereiche,ORG,0.0,0.0,de,1
+Energieagentur: Kohleverbrauch,Energieagentur: Kohleverbrauch,ORG,0.0,0.0,de,1
+Schweiz:,Schweiz:,ORG,0.0,0.0,de,1
+Last-Minute-GesetzesentwürfeCDU,Last-Minute-GesetzesentwürfeCDU,ORG,0.0,0.0,de,1
+Habecks,Habecks,ORG,0.0,0.0,de,1
+LNG-Schiff,LNG-Schiff,ORG,0.7,0.0,de,1
+Globale Energieversorgung: Kohleverbrauch 2022,Globale Energieversorgung: Kohleverbrauch 2022,ORG,0.0,0.0,de,1
+LNG-Terminal Deutschlands,LNG-Terminal Deutschlands,ORG,0.0,0.0,de,1
+Deutscher Wetterdienst:,Deutscher Wetterdienst:,ORG,0.0,0.0,de,1
+Sommaruga,Sommaruga,ORG,0.0,0.0,de,1
+Klimaziele.,Klimaziele.,ORG,0.0,0.0,de,1
+Frankfurter Verei…,Frankfurter Verei…,ORG,0.0,0.0,de,1
+Tesla,Tesla,ORG,0.0,0.0,de,1
+Energy Brainpool,Energy Brainpool,ORG,0.25,0.0,de,1
+SPD-Fraktion,SPD-Fraktion,ORG,0.7,0.0,de,1
+Pfeifer &amp,Pfeifer &amp,ORG,0.0,0.0,de,1
+Kölner Fa…,Kölner Fa…,ORG,0.0,0.0,de,1
+Statistikamts ONS,Statistikamts ONS,ORG,0.0,0.0,de,1
+Europäischen Union: Gasknappheit,Europäischen Union: Gasknappheit,ORG,0.0,0.0,de,1
+Patronus,Patronus,ORG,0.0,0.0,de,1
+Energiehilfen Boni,Energiehilfen Boni,ORG,0.0,0.0,de,1
+BNN,BNN,ORG,0.0,0.0,de,1
+Gasverbrauch!,Gasverbrauch!,ORG,-0.7,0.0,de,1
+Berliner Charité,Berliner Charité,ORG,0.0,0.0,de,1
+Blackout-Angst.,Blackout-Angst.,ORG,1.0,0.0,de,1
+Telebörse:,Telebörse:,ORG,0.0,0.0,de,1
+BDI,BDI,ORG,0.0,0.0,de,1
+Europäischen Unio…,Europäischen Unio…,ORG,0.0,0.0,de,1
+Apple Music,Apple Music,ORG,0.0,0.0,de,1
+Gaspreisbremse: Hohe Heizkosten,Gaspreisbremse: Hohe Heizkosten,ORG,-1.0,0.0,de,1
+"Bundestag: Strom, Gas und mehr","Bundestag: Strom, Gas und mehr",ORG,0.0,0.0,de,1
+bigotter,bigotter,ORG,0.0,0.0,de,1
+Europaaus…,Europaaus…,ORG,0.0,0.0,de,1
+Initiative Klimaneutrales Deutschland,Initiative Klimaneutrales Deutschland,ORG,0.0,0.0,de,1
+"Foto: dpa)
+München","Foto: dpa)
+München",ORG,-1.0,0.0,de,1
+Steigende Energiepreise,Steigende Energiepreise,ORG,0.0,0.0,de,1
+Energiehilfen: Bundestag,Energiehilfen: Bundestag,ORG,0.0,0.0,de,1
+"LNG-Terminal ankommen  NDR.de
+</li><li>LNG: Deutschland","LNG-Terminal ankommen  NDR.de
+</li><li>LNG: Deutschland",ORG,0.7,0.0,de,1
+F+:,F+:,ORG,0.0,0.0,de,1
+F+,F+,ORG,0.0,0.0,de,1
+EU-Spitzen,EU-Spitzen,ORG,0.0,0.0,de,1
+Strommarkt-Experte,Strommarkt-Experte,ORG,0.0,0.0,de,1
+Umweltschützern vert…,Umweltschützern vert…,ORG,0.0,0.0,de,1
+Waffen</li><li>,Waffen</li><li>,ORG,0.0,0.0,de,1
+Pr…,Pr…,ORG,-1.0,0.0,de,1
+Urengoi-Pomary-Uschhorod,Urengoi-Pomary-Uschhorod,ORG,0.7,0.0,de,1
+Winter-Vorbereitung: Trainingslager:,Winter-Vorbereitung: Trainingslager:,ORG,0.0,0.0,de,1
+Augsburg.,Augsburg.,ORG,0.0,0.0,de,1
+US-Chipkonzerns,US-Chipkonzerns,ORG,0.0,0.0,de,1
+Intel,Intel,ORG,0.0,0.0,de,1
+Gaga:,Gaga:,ORG,0.0,0.0,de,1
+Klaus Müller,Klaus Müller,ORG,0.0,0.0,de,1
+"Foto: Mirage/getty
+","Foto: Mirage/getty
+",ORG,0.0,0.0,de,1
+Kom…,Kom…,ORG,0.0,0.0,de,1
+DüsseldorfDie,DüsseldorfDie,ORG,0.0,0.0,de,1
+Gasimporteur Uni…,Gasimporteur Uni…,ORG,0.0,0.0,de,1
+Bu…,Bu…,ORG,0.7,0.0,de,1
+So…,So…,ORG,0.0,0.0,de,1
+EU-Gasverbrauch,EU-Gasverbrauch,ORG,0.0,0.0,de,1
+Mitteleuropäer,Mitteleuropäer,ORG,-1.0,0.0,de,1
+Jugend die Zukunft.,Jugend die Zukunft.,ORG,0.0,0.0,de,1
+Pädiatrischen Inter­disziplinären,Pädiatrischen Inter­disziplinären,ORG,0.0,0.0,de,1
+­Klinikum Stuttgart.,­Klinikum Stuttgart.,ORG,0.0,0.0,de,1
+Winter!,Winter!,ORG,0.0,0.0,de,1
+Erdrutsche!,Erdrutsche!,ORG,0.0,0.0,de,1
+Konz…,Konz…,ORG,0.0,0.0,de,1
+Bli… News,Bli… News,ORG,0.2333333333333333,0.0,de,1
+Boldt & Huwer,Boldt & Huwer,ORG,0.0,0.0,de,1
+Formel-E,Formel-E,ORG,0.0,0.0,de,1
+Grippe?,Grippe?,ORG,0.0,0.0,de,1
+RSV-Impfstoffe,RSV-Impfstoffe,ORG,0.0,0.0,de,1
+Gasfluss unterbrochen:,Gasfluss unterbrochen:,ORG,0.0,0.0,de,1
+Bike Police,Bike Police,ORG,0.0,0.0,de,1
+EY.,EY.,ORG,0.0,0.0,de,1
+"Foto: Stefan Puchner/dpa/Symbolbild
+","Foto: Stefan Puchner/dpa/Symbolbild
+",ORG,0.0,0.0,de,1
+Mecklenburg-Vorpommerns,Mecklenburg-Vorpommerns,ORG,1.0,0.0,de,1
+"Deutschland-Tempo"":","Deutschland-Tempo"":",ORG,0.0,0.0,de,1
+Heizöl-Bremse“,Heizöl-Bremse“,ORG,0.0,0.0,de,1
+Intel-Werk,Intel-Werk,ORG,0.0,0.0,de,1
+US-Konzerns Intel.,US-Konzerns Intel.,ORG,0.0,0.0,de,1
+EU-Parlaments,EU-Parlaments,ORG,0.7,0.0,de,1
+Chemnitzer FC,Chemnitzer FC,ORG,0.0,0.0,de,1
+Re…,Re…,ORG,0.0,0.0,de,1
+Deutschen Wetterdiens…,Deutschen Wetterdiens…,ORG,0.0,0.0,de,1
+EU-Präsidentschaft,EU-Präsidentschaft,ORG,-0.7,0.0,de,1
+tschechische EU-Ratspräsidentschaft,tschechische EU-Ratspräsidentschaft,ORG,0.0,0.0,de,1
+Blitzeis-Fahrplan!,Blitzeis-Fahrplan!,ORG,0.0,0.0,de,1
+"Westdeutsche Zeitung
+</li><li>","Westdeutsche Zeitung
+</li><li>",ORG,0.1333333333333333,0.0,de,1
+Lukaschenko:,Lukaschenko:,ORG,0.0,0.0,de,1
+Deutsche Bahn,Deutsche Bahn,ORG,0.0,0.0,de,1
+"Verden  kreiszeitung.de
+</li><li>","Verden  kreiszeitung.de
+</li><li>",ORG,0.0,0.0,de,1
+Deutsche Wetterdienst… Berlin/Potsdam,Deutsche Wetterdienst… Berlin/Potsdam,ORG,0.0,0.0,de,1
+Stiftung Preußische Schlös…,Stiftung Preußische Schlös…,ORG,1.0,0.0,de,1
+Stiftung Preußische Schlösser und Gärten Berlin-Bra…,Stiftung Preußische Schlösser und Gärten Berlin-Bra…,ORG,1.0,0.0,de,1
+Las Vegas Raiders,Las Vegas Raiders,ORG,0.0,0.0,de,1
+New England Patriots,New England Patriots,ORG,0.0,0.0,de,1
+New England Patriots u…,New England Patriots u…,ORG,0.7,0.0,de,1
+Weihnachtswoche.,Weihnachtswoche.,ORG,0.0,0.0,de,1
+Deutschen Wet…,Deutschen Wet…,ORG,0.0,0.0,de,1
+Wetter: Neubrandenburger Weberglockenmarkt,Wetter: Neubrandenburger Weberglockenmarkt,ORG,0.0,0.0,de,1
+Energiekonzerns,Energiekonzerns,ORG,0.0,0.0,de,1
+Pfeifer & Langen,Pfeifer & Langen,ORG,0.0,0.0,de,1
+Bundestag: Neben Gas- und Strom: Ampel,Bundestag: Neben Gas- und Strom: Ampel,ORG,0.0,0.0,de,1
+lO Bleklekl,lO Bleklekl,ORG,0.0,0.0,de,1
+SPIEGEL-Redakteur,SPIEGEL-Redakteur,ORG,0.0,0.0,de,1
+SKF,SKF,ORG,-1.0,0.0,de,1
+Marokko.,Marokko.,ORG,0.0,0.0,de,1
+Bundes,Bundes,ORG,0.7,0.0,de,1
+Gasimporteur VNG.,Gasimporteur VNG.,ORG,0.7,0.0,de,1
+Ukraine: Sönke Neitzel,Ukraine: Sönke Neitzel,ORG,0.0,0.0,de,1
+Weltwirtschaft?,Weltwirtschaft?,ORG,0.0,0.0,de,1
+Kriegspartei,Kriegspartei,ORG,-1.0,0.0,de,1
+AA Will,AA Will,ORG,0.0,0.0,de,1
+Rendi-Wagner,Rendi-Wagner,ORG,-1.0,0.0,de,1
+Fußballstar Piqué,Fußballstar Piqué,ORG,0.0,0.0,de,1
+Lockdowns,Lockdowns,ORG,0.0,0.0,de,1
+Energie-Krise:,Energie-Krise:,ORG,0.0,0.0,de,1
+Deutsche Wetterdienst Mitte,Deutsche Wetterdienst Mitte,ORG,0.0,0.0,de,1
+Horrende,Horrende,ORG,0.0,0.0,de,1
+Kölner Haie,Kölner Haie,ORG,0.5,0.0,de,1
+Ur-Kölner,Ur-Kölner,ORG,0.0,0.0,de,1
+RB Leipzig,RB Leipzig,ORG,0.0,0.0,de,1
+RB,RB,ORG,-0.7,0.0,de,1
+Kölner Haie.,Kölner Haie.,ORG,0.0,0.0,de,1
+BILDplus!,BILDplus!,ORG,0.0,0.0,de,1
 Alarm:,Alarm:,ORG,-0.35,0.0,de,1
 Wirtschaftsstabilisierungsfonds zur Dä…,Wirtschaftsstabilisierungsfonds zur Dä…,ORG,0.0,0.0,de,1
 SPIEGEL-Wirtschaftsredakteur,SPIEGEL-Wirtschaftsredakteur,ORG,0.0,0.0,de,1
 Britische Pubs und Brauereien,Britische Pubs und Brauereien,ORG,0.0,0.0,de,1
 unl elue,unl elue,ORG,0.0,0.0,de,1
+"Foto: Reuters)
+Düsseldorf","Foto: Reuters)
+Düsseldorf",ORG,0.0,0.0,de,1
+Amps Halo,Amps Halo,ORG,1.0,0.0,de,1
+"Kinderkliniken am Limit, Bas","Kinderkliniken am Limit, Bas",ORG,0.85,0.0,de,1
+"Bundesamtes für Bevölkerungsschutz und Katastrophenhilfe,","Bundesamtes für Bevölkerungsschutz und Katastrophenhilfe,",ORG,-0.7,0.0,de,1
+Russlands Gazprom,Russlands Gazprom,ORG,-0.7,0.0,de,1
+BILD,BILD,ORG,0.0,0.0,de,1
+Energieministerium im Emirat,Energieministerium im Emirat,ORG,0.0,0.0,de,1
+Vel oel Be…,Vel oel Be…,ORG,0.0,0.0,de,1
+Save the Children.,Save the Children.,ORG,0.0,0.0,de,1
+Dem Grünen,Dem Grünen,ORG,0.0,0.0,de,1
+New York,New York,ORG,0.7,0.0,de,1
+NGO,NGO,ORG,0.0,0.0,de,1
+Umwelt:,Umwelt:,ORG,0.0,0.0,de,1
+HIV,HIV,ORG,0.175,0.0,de,1
+"Deutsche AIDS-Stiftung
+Bonn","Deutsche AIDS-Stiftung
+Bonn",ORG,-0.7,0.0,de,1
+Gazprom: Uniper,Gazprom: Uniper,ORG,0.0,0.0,de,1
+Uniper: Deutscher Gasimporteur,Uniper: Deutscher Gasimporteur,ORG,-0.7,0.0,de,1
+Gazprom…,Gazprom…,ORG,0.0,0.0,de,1
+Deutschen Interdisziplinären Vereinigung für Intensiv- und Notfallmedizin,Deutschen Interdisziplinären Vereinigung für Intensiv- und Notfallmedizin,ORG,0.0,0.0,de,1
+Gazprom-Logo,Gazprom-Logo,ORG,0.0,0.0,de,1
+Berliner Sicherheitskonferenz:,Berliner Sicherheitskonferenz:,ORG,0.7,0.0,de,1
+Koalitionsfrak…,Koalitionsfrak…,ORG,0.0,0.0,de,1
+Sof…,Sof…,ORG,0.0,0.0,de,1
+NATO-Generalsekretär,NATO-Generalsekretär,ORG,0.0,0.0,de,1
+Boni-Verbot:,Boni-Verbot:,ORG,0.0,0.0,de,1
+Preisbremsen.,Preisbremsen.,ORG,-0.7,0.0,de,1
+"SOS-Kinderdorf: ""Es gibt wahnsinnig","SOS-Kinderdorf: ""Es gibt wahnsinnig",ORG,0.0,0.0,de,1
+SOS-Kinderdorf.,SOS-Kinderdorf.,ORG,0.0,0.0,de,1
+Deutschen Jugendin…,Deutschen Jugendin…,ORG,0.0,0.0,de,1
+RS-Viren.,RS-Viren.,ORG,-0.5,0.0,de,1
+Vereinigung der Intensivmediziner schlägt Alarm:,Vereinigung der Intensivmediziner schlägt Alarm:,ORG,0.0,0.0,de,1
+Ga…,Ga…,ORG,0.0,0.0,de,1
 Staatsdienern,Staatsdienern,ORG,-0.7,0.0,de,1
+Daunenjacke,Daunenjacke,ORG,0.0,0.0,de,1
+Lambertz-Gruppe,Lambertz-Gruppe,ORG,-0.7,0.0,de,1
+Gasknappheit: Verband: „Deutschland,Gasknappheit: Verband: „Deutschland,ORG,1.0,0.0,de,1
+Gruppe A-Streptokokken,Gruppe A-Streptokokken,ORG,-1.0,0.0,de,1
+GAS,GAS,ORG,-1.0,0.0,de,1
+Tra…,Tra…,ORG,0.0,0.0,de,1
+Reichsbürger-Razzia,Reichsbürger-Razzia,ORG,0.0,0.0,de,1
+Partei,Partei,ORG,0.0,0.0,de,1
+Gas!,Gas!,ORG,0.0,0.0,de,1
+Grünen-Politikerin,Grünen-Politikerin,ORG,0.0,0.0,de,1
+"Gesellschaft: ""Tafeln am Limit","Gesellschaft: ""Tafeln am Limit",ORG,0.0,0.0,de,1
+Zentrum Liberale Moderne.,Zentrum Liberale Moderne.,ORG,0.7,0.0,de,1
+Deutsche Speicherbetreiber:,Deutsche Speicherbetreiber:,ORG,0.15000000000000002,0.0,de,1
+Foto: Bernd Settnik/dpa/ZB,Foto: Bernd Settnik/dpa/ZB,ORG,0.0,0.0,de,1
+"Foto:  Lambertz) 
+Dü…","Foto:  Lambertz) 
+Dü…",ORG,0.0,0.0,de,1
+Verband: „Deutschland,Verband: „Deutschland,ORG,1.0,0.0,de,1
+Gesellschaft.,Gesellschaft.,ORG,-1.0,0.0,de,1
+Diakonie Oberland:,Diakonie Oberland:,ORG,0.0,0.0,de,1
+Deutsche …,Deutsche …,ORG,0.0,0.0,de,1
+Heizlüftern…,Heizlüftern…,ORG,0.0,0.0,de,1
+"Foto: Bloomberg) 
+Berlin","Foto: Bloomberg) 
+Berlin",ORG,0.0,0.0,de,1
+Bundesregi…,Bundesregi…,ORG,0.0,0.0,de,1
+Energiesouveränität durch Erneuerbare!,Energiesouveränität durch Erneuerbare!,ORG,0.0,0.0,de,1
+Bundeswehr.,Bundeswehr.,ORG,0.0,0.0,de,1
+German Institute for Defence and Strategic Studies,German Institute for Defence and Strategic Studies,ORG,0.0,0.0,de,1
+SZA,SZA,ORG,0.0,0.0,de,1
+S.O.S,S.O.S,ORG,0.0,0.0,de,1
+We…,We…,ORG,0.0,0.0,de,1
+Berlin/Bonn,Berlin/Bonn,ORG,0.0,0.0,de,1
+Verband: «Deutschland,Verband: «Deutschland,ORG,1.0,0.0,de,1
 Schimmel-Befall!,Schimmel-Befall!,ORG,0.0,0.0,de,1
+Transnet,Transnet,ORG,1.0,0.0,de,1
+Spontanhilfe: Rotes Kreuz,Spontanhilfe: Rotes Kreuz,ORG,-1.0,0.0,de,1
 Roten Kreuzes,Roten Kreuzes,ORG,0.0,0.0,de,1
-Kohlenutzu…,Kohlenutzu…,ORG,0.0,0.0,de,1
+Gaskrise: RWE,Gaskrise: RWE,ORG,0.0,0.0,de,1
 Hamburger Kirche,Hamburger Kirche,ORG,0.0,0.0,de,1
+Erneuerbare Energien: Ausbau schneller,Erneuerbare Energien: Ausbau schneller,ORG,0.7,0.0,de,1
+Internationalen Energieagentur IEA,Internationalen Energieagentur IEA,ORG,-1.0,0.0,de,1
 Ukraine-Krieg: Moldau: Putin,Ukraine-Krieg: Moldau: Putin,ORG,0.0,0.0,de,1
 Frost: Warum du Wäsche,Frost: Warum du Wäsche,ORG,0.0,0.0,de,1
 Wäsche.,Wäsche.,ORG,0.0,0.0,de,1
 Bildungsministerium,Bildungsministerium,ORG,0.0,0.0,de,1
 Blackouts & Weihnachtspartys.,Blackouts & Weihnachtspartys.,ORG,1.0,0.0,de,1
 Die Welt,Die Welt,ORG,-0.7,0.0,de,1
-Diakonie Oberland:,Diakonie Oberland:,ORG,0.0,0.0,de,1
-Deutsche …,Deutsche …,ORG,0.0,0.0,de,1
-Energiesouveränität durch Erneuerbare!,Energiesouveränität durch Erneuerbare!,ORG,0.0,0.0,de,1
-Linke,Linke,ORG,0.0,0.0,de,1
-"Freien, bes…","Freien, bes…",ORG,0.7,0.0,de,1
-RTL Online.,RTL Online.,ORG,-1.0,0.0,de,1
-Caritas,Caritas,ORG,0.0,0.0,de,1
-RTL,RTL,ORG,0.6999999999999998,0.0,de,1
-AfD,AfD,ORG,0.7,0.0,de,1
-"Branchenverbands VCI, Markus Steilemann,","Branchenverbands VCI, Markus Steilemann,",ORG,-0.7,0.0,de,1
-Last-Minute-GesetzesentwürfeCDU,Last-Minute-GesetzesentwürfeCDU,ORG,0.0,0.0,de,1
-Habecks,Habecks,ORG,0.0,0.0,de,1
-Bundeswehr.,Bundeswehr.,ORG,0.0,0.0,de,1
-LNG-Schiff,LNG-Schiff,ORG,0.7,0.0,de,1
-Globale Energieversorgung: Kohleverbrauch 2022,Globale Energieversorgung: Kohleverbrauch 2022,ORG,0.0,0.0,de,1
-Berlin/Brüssel.,Berlin/Brüssel.,ORG,0.0,0.0,de,1
-LNG-Terminal Deutschlands,LNG-Terminal Deutschlands,ORG,0.0,0.0,de,1
-Sommaruga,Sommaruga,ORG,0.0,0.0,de,1
-Klimaziele.,Klimaziele.,ORG,0.0,0.0,de,1
-Strommarkt-Experte,Strommarkt-Experte,ORG,0.0,0.0,de,1
-"Wetter-Warnungen  BR24
-</li><li>Eisregen, Schnee, Glatteis:","Wetter-Warnungen  BR24
-</li><li>Eisregen, Schnee, Glatteis:",ORG,0.0,0.0,de,1
-HeaterLux,HeaterLux,ORG,0.0,0.0,de,1
-Bundesarbeitsgemeinschaft Wohnungslosenhilfe,Bundesarbeitsgemeinschaft Wohnungslosenhilfe,ORG,0.0,0.0,de,1
-Drittligist 1860 München...,Drittligist 1860 München...,ORG,0.0,0.0,de,1
-German Institute for Defence and Strategic Studies,German Institute for Defence and Strategic Studies,ORG,0.0,0.0,de,1
-Daunenjacke,Daunenjacke,ORG,0.0,0.0,de,1
-Bundestag: Neben Gas- und Strom: Ampel,Bundestag: Neben Gas- und Strom: Ampel,ORG,0.0,0.0,de,1
-Waffen</li><li>,Waffen</li><li>,ORG,0.0,0.0,de,1
-Pfeifer & Langen,Pfeifer & Langen,ORG,0.0,0.0,de,1
-Pfeifer &amp,Pfeifer &amp,ORG,0.0,0.0,de,1
-Kölner Fa…,Kölner Fa…,ORG,0.0,0.0,de,1
-Europäischen Union: Gasknappheit,Europäischen Union: Gasknappheit,ORG,0.0,0.0,de,1
-Foto:,Foto:,ORG,0.0,0.0,de,1
-BNN,BNN,ORG,0.0,0.0,de,1
-Apple Music,Apple Music,ORG,0.0,0.0,de,1
-Tesla,Tesla,ORG,0.0,0.0,de,1
-Winter Sale,Winter Sale,ORG,0.0,0.0,de,1
-Frankfurter Verei…,Frankfurter Verei…,ORG,0.0,0.0,de,1
-Löwen-Zukunft,Löwen-Zukunft,ORG,0.7,0.0,de,1
-BILDplus!,BILDplus!,ORG,0.0,0.0,de,1
-Kölner Haie.,Kölner Haie.,ORG,0.0,0.0,de,1
-RB,RB,ORG,-0.7,0.0,de,1
-Blackouts: Deutschland,Blackouts: Deutschland,ORG,0.0,0.0,de,1
-US-Denkfabrik Institut for the Study of War,US-Denkfabrik Institut for the Study of War,ORG,0.7,0.0,de,1
-SSPS,SSPS,ORG,0.0,0.0,de,1
-Europäischen Volkspartei,Europäischen Volkspartei,ORG,0.0,0.0,de,1
-Unterbringun…,Unterbringun…,ORG,0.0,0.0,de,1
-SPD-Chef.,SPD-Chef.,ORG,0.0,0.0,de,1
-Unicef-Team,Unicef-Team,ORG,0.0,0.0,de,1
-Spanien,Spanien,ORG,0.0,0.0,de,1
-Messeturm:,Messeturm:,ORG,0.7,0.0,de,1
-Na…,Na…,ORG,0.0,0.0,de,1
-Krankenhausgesellschaft Sachsen,Krankenhausgesellschaft Sachsen,ORG,-1.0,0.0,de,1
-Gewerkschaft: Lieferando,Gewerkschaft: Lieferando,ORG,0.0,0.0,de,1
-AKW Saporischschja,AKW Saporischschja,ORG,0.7,0.0,de,1
-Valorant-Gewinnspiel: Mützen und Kappen,Valorant-Gewinnspiel: Mützen und Kappen,ORG,0.0,0.0,de,1
-Justizministerium,Justizministerium,ORG,0.7,0.0,de,1
-Abkommen: Katar,Abkommen: Katar,ORG,0.0,0.0,de,1
-Nationale Gesundheitskommission,Nationale Gesundheitskommission,ORG,0.0,0.0,de,1
-Stadtwerken Norderstedt,Stadtwerken Norderstedt,ORG,0.0,0.0,de,1
-Social Media,Social Media,ORG,0.0,0.0,de,1
-SPIEGEL.,SPIEGEL.,ORG,0.0,0.0,de,1
-Geburtstag!,Geburtstag!,ORG,0.0,0.0,de,1
-Ukraine: Bundesregierung,Ukraine: Bundesregierung,ORG,0.0,0.0,de,1
-Technische Hilfswerk,Technische Hilfswerk,ORG,0.0,0.0,de,1
-THW,THW,ORG,0.0,0.0,de,1
-Video: Ukraine: Blackout,Video: Ukraine: Blackout,ORG,0.0,0.0,de,1
-Umweltschützern Sorgen,Umweltschützern Sorgen,ORG,0.7,0.0,de,1
-lO Ieunel,lO Ieunel,ORG,-0.7,0.0,de,1
-"Foto: IMAGO/Bildgehege) 
-","Foto: IMAGO/Bildgehege) 
-",ORG,0.0,0.0,de,1
-deutsche Bundeskabinett,deutsche Bundeskabinett,ORG,0.0,0.0,de,1
-Teilverantwortung,Teilverantwortung,ORG,0.0,0.0,de,1
-Energie-Krise: Gas-,Energie-Krise: Gas-,ORG,0.0,0.0,de,1
-Greenpeace,Greenpeace,ORG,0.0,0.0,de,1
-Verband der Deutschen Automobilindustrie,Verband der Deutschen Automobilindustrie,ORG,0.0,0.0,de,1
-Zentralverband des Deutschen Handwerks,Zentralverband des Deutschen Handwerks,ORG,0.0,0.0,de,1
-Union,Union,ORG,0.0,0.0,de,1
-Union im Bundestag,Union im Bundestag,ORG,0.0,0.0,de,1
-NHC,NHC,ORG,0.0,0.0,de,1
-Vel oel Be…,Vel oel Be…,ORG,0.0,0.0,de,1
-RB Leipzig,RB Leipzig,ORG,0.0,0.0,de,1
-Energiepreisen,Energiepreisen,ORG,-0.7,0.0,de,1
-"Kinderkliniken am Limit, Bas","Kinderkliniken am Limit, Bas",ORG,0.85,0.0,de,1
-Horrende,Horrende,ORG,0.0,0.0,de,1
-Amps Halo,Amps Halo,ORG,1.0,0.0,de,1
-SKF,SKF,ORG,-1.0,0.0,de,1
-Marokko.,Marokko.,ORG,0.0,0.0,de,1
-Kriegspartei,Kriegspartei,ORG,-1.0,0.0,de,1
-AA Will,AA Will,ORG,0.0,0.0,de,1
-Die WELT,Die WELT,ORG,0.0,0.0,de,1
-Save the Children.,Save the Children.,ORG,0.0,0.0,de,1
-Fußballstar Piqué,Fußballstar Piqué,ORG,0.0,0.0,de,1
-Lockdowns,Lockdowns,ORG,0.0,0.0,de,1
-Energie-Krise:,Energie-Krise:,ORG,0.0,0.0,de,1
-SPIEGEL-Redakteur,SPIEGEL-Redakteur,ORG,0.0,0.0,de,1
-Deutsche Wetterdienst Mitte,Deutsche Wetterdienst Mitte,ORG,0.0,0.0,de,1
-Kölner Haie,Kölner Haie,ORG,0.5,0.0,de,1
-Ur-Kölner,Ur-Kölner,ORG,0.0,0.0,de,1
-STERN,STERN,ORG,0.0,0.0,de,1
-Deutschen Interdisziplinären Vereinigung für Intensiv- und Notfallmedizin,Deutschen Interdisziplinären Vereinigung für Intensiv- und Notfallmedizin,ORG,0.0,0.0,de,1
-Vereinigung der Intensivmediziner schlägt Alarm:,Vereinigung der Intensivmediziner schlägt Alarm:,ORG,0.0,0.0,de,1
-RS-Viren.,RS-Viren.,ORG,-0.5,0.0,de,1
-Dem Grünen,Dem Grünen,ORG,0.0,0.0,de,1
-New York,New York,ORG,0.7,0.0,de,1
-NGO,NGO,ORG,0.0,0.0,de,1
-HIV,HIV,ORG,0.175,0.0,de,1
-"Deutsche AIDS-Stiftung
-Bonn","Deutsche AIDS-Stiftung
-Bonn",ORG,-0.7,0.0,de,1
-Gazprom: Uniper,Gazprom: Uniper,ORG,0.0,0.0,de,1
-Klimafreundliches Heizen überall…,Klimafreundliches Heizen überall…,ORG,0.0,0.0,de,1
-Sof…,Sof…,ORG,0.0,0.0,de,1
-NATO-Generalsekretär,NATO-Generalsekretär,ORG,0.0,0.0,de,1
-Foto: imago,Foto: imago,ORG,0.0,0.0,de,1
-Preisbremsen.,Preisbremsen.,ORG,-0.7,0.0,de,1
-"SOS-Kinderdorf: ""Es gibt wahnsinnig","SOS-Kinderdorf: ""Es gibt wahnsinnig",ORG,0.0,0.0,de,1
-SOS-Kinderdorf.,SOS-Kinderdorf.,ORG,0.0,0.0,de,1
-Deutschen Jugendin…,Deutschen Jugendin…,ORG,0.0,0.0,de,1
-Bür…,Bür…,ORG,0.0,0.0,de,1
-Wintershall-Chef: Mehren: Gasversorgung,Wintershall-Chef: Mehren: Gasversorgung,ORG,0.0,0.0,de,1
-Flüssigerdgas: Lubminer Gas-Terminal,Flüssigerdgas: Lubminer Gas-Terminal,ORG,0.0,0.0,de,1
-Kris…,Kris…,ORG,0.0,0.0,de,1
+Denkfabrik E3G.,Denkfabrik E3G.,ORG,0.0,0.0,de,1
+"Verband: ""Deutschland","Verband: ""Deutschland",ORG,1.0,0.0,de,1
+De…,De…,ORG,0.0,0.0,de,1
+Kohlenutzu…,Kohlenutzu…,ORG,0.0,0.0,de,1
+Männer,Männer,ORG,-1.0,0.0,de,1
+Neue Energie-Studie,Neue Energie-Studie,ORG,0.0,0.0,de,1
+RavensworthEin,RavensworthEin,ORG,0.0,0.0,de,1
+"Foto: Reuters)
+Baar","Foto: Reuters)
+Baar",ORG,0.0,0.0,de,1
+Bergbau- und Rohstoffkonzern,Bergbau- und Rohstoffkonzern,ORG,0.0,0.0,de,1
+Glencore,Glencore,ORG,0.0,0.0,de,1
+Hau…,Hau…,ORG,0.0,0.0,de,1
+Schneemassen &amp;,Schneemassen &amp;,ORG,0.0,0.0,de,1
+EVO PlÃ¤ne,EVO PlÃ¤ne,ORG,0.0,0.0,de,1
+"Spiegel"" im kommenden Jahr","Spiegel"" im kommenden Jahr",ORG,0.0,0.0,de,1
+Bundesamtes für Bevölkerungsschutz und Katas…,Bundesamtes für Bevölkerungsschutz und Katas…,ORG,0.0,0.0,de,1
+Konusnebel: Very Large Telescope,Konusnebel: Very Large Telescope,ORG,0.0,0.0,de,1
+Behö…,Behö…,ORG,0.0,0.0,de,1
+Deutsche Feuerwehrve…,Deutsche Feuerwehrve…,ORG,0.0,0.0,de,1
+Verband der europäischen Gasinfrastruktur-Betreiber,Verband der europäischen Gasinfrastruktur-Betreiber,ORG,0.0,0.0,de,1
+EU-Kommission.,EU-Kommission.,ORG,0.0,0.0,de,1
+Vertreter der Grünen,Vertreter der Grünen,ORG,0.7,0.0,de,1
+Arbeitgeberv…,Arbeitgeberv…,ORG,0.0,0.0,de,1
 Bund…,Bund…,ORG,0.0,0.0,de,1
+Wir!,Wir!,ORG,0.0,0.0,de,1
 Müssen!,Müssen!,ORG,0.0,0.0,de,1
 Sparen!,Sparen!,ORG,0.0,0.0,de,1
 EU-Kommission: Ursula von der Leyen,EU-Kommission: Ursula von der Leyen,ORG,0.0,0.0,de,1
+RTL/ntv-Trendbarometer,RTL/ntv-Trendbarometer,ORG,0.0,0.0,de,1
+KP-Parteitag,KP-Parteitag,ORG,0.0,0.0,de,1
 BSI-Chef Schönbohm,BSI-Chef Schönbohm,ORG,0.3333333333333333,0.0,de,1
-AKW-Entscheidung,AKW-Entscheidung,ORG,0.3333333333333333,0.0,de,1
+Gas-Solidarität,Gas-Solidarität,ORG,0.7,0.0,de,1
+europäischen E…,europäischen E…,ORG,0.0,0.0,de,1
 "Bild: Wassilis Aswestopoulos
 Angesichts","Bild: Wassilis Aswestopoulos
 Angesichts",ORG,0.7,0.0,de,1
 Erdgas,Erdgas,ORG,0.35,0.0,de,1
+Urrrgs!«,Urrrgs!«,ORG,0.0,0.0,de,1
 National Grid:,National Grid:,ORG,-0.7,0.0,de,1
 BerlinWladimir,BerlinWladimir,ORG,0.0,0.0,de,1
-Deutsche Börse,Deutsche Börse,ORG,0.0,0.0,de,1
 "Foto: dpa)
 Frankfurt","Foto: dpa)
 Frankfurt",ORG,0.0,0.0,de,1
 Deutschen Börse,Deutschen Börse,ORG,0.0,0.0,de,1
+Berliner Energieversorger Gasag,Berliner Energieversorger Gasag,ORG,0.7,0.0,de,1
+DAX-Konzern,DAX-Konzern,ORG,0.0,0.0,de,1
 Fünf-Sterne-Hotels…,Fünf-Sterne-Hotels…,ORG,0.0,0.0,de,1
 Discounter-Riese Aldi Nord,Discounter-Riese Aldi Nord,ORG,0.0,0.0,de,1
 Angeschlagener Gas-Händler,Angeschlagener Gas-Händler,ORG,0.0,0.0,de,1
 Ukraine-Kriegs,Ukraine-Kriegs,ORG,0.0,0.0,de,1
-Versorgungssicherheit,Versorgungssicherheit,ORG,0.0,0.0,de,1
-Wir!,Wir!,ORG,0.0,0.0,de,1
-Arbeitgeberv…,Arbeitgeberv…,ORG,0.0,0.0,de,1
-Lesen!,Lesen!,ORG,0.0,0.0,de,1
-Verband der europäischen Gasinfrastruktur-Betreiber,Verband der europäischen Gasinfrastruktur-Betreiber,ORG,0.0,0.0,de,1
-Zieltermin: Deutsche Gasspeicher,Zieltermin: Deutsche Gasspeicher,ORG,0.0,0.0,de,1
+"Foto: dpa) 
+Brüssel/Bonn","Foto: dpa) 
+Brüssel/Bonn",ORG,0.0,0.0,de,1
+Deutsche Feuerwehrverb…,Deutsche Feuerwehrverb…,ORG,0.0,0.0,de,1
+Grünen Donnerstag Mittag,Grünen Donnerstag Mittag,ORG,0.0,0.0,de,1
+Zentrum der ukrainischen Hauptstadt,Zentrum der ukrainischen Hauptstadt,ORG,0.0,0.0,de,1
 Ryanair,Ryanair,ORG,0.0,0.0,de,1
 Billigfluglinie Ryanair,Billigfluglinie Ryanair,ORG,0.0,0.0,de,1
 BER,BER,ORG,0.0,0.0,de,1
 Easyjet,Easyjet,ORG,0.0,0.0,de,1
+NATO-Staaten,NATO-Staaten,ORG,1.0,0.0,de,1
 Rational,Rational,ORG,1.0,0.0,de,1
 "WEB.DE News
 </li><li>Altkanzlerin Merkel","WEB.DE News
@@ -520,54 +818,88 @@ Rational,Rational,ORG,1.0,0.0,de,1
 Kritik.</li><li>,Kritik.</li><li>,ORG,0.0,0.0,de,1
 "Illner: ""Putin","Illner: ""Putin",ORG,-0.7,0.0,de,1
 Linke Demo,Linke Demo,ORG,0.0,0.0,de,1
+Bundesparteitag der Grünen:,Bundesparteitag der Grünen:,ORG,0.0,0.0,de,1
+Deutschen kom…,Deutschen kom…,ORG,0.0,0.0,de,1
+"Foto: dpa) 
+Düsseldorf","Foto: dpa) 
+Düsseldorf",ORG,0.0,0.0,de,1
 "Globale Gesellschaft
 In Reportagen, Analysen, Fotos","Globale Gesellschaft
 In Reportagen, Analysen, Fotos",ORG,0.7,0.0,de,1
+Parteitag: Grüne,Parteitag: Grüne,ORG,0.0,0.0,de,1
+Umg…,Umg…,ORG,0.0,0.0,de,1
 Gaspreisbremse?,Gaspreisbremse?,ORG,0.0,0.0,de,1
 Geringerer Gasfüllstand,Geringerer Gasfüllstand,ORG,0.0,0.0,de,1
 Europas Gasinfrastrukturbetreiber,Europas Gasinfrastrukturbetreiber,ORG,0.0,0.0,de,1
 IstanbulRecep Tayyip Erdogan,IstanbulRecep Tayyip Erdogan,ORG,0.7,0.0,de,1
+Ankauf-Plänen.,Ankauf-Plänen.,ORG,-0.35,0.0,de,1
+Berliner Energieve…,Berliner Energieve…,ORG,0.0,0.0,de,1
 Bundesparteitag: Grüne,Bundesparteitag: Grüne,ORG,0.0,0.0,de,1
-"Foto: dpa) 
-Brüssel/Bonn","Foto: dpa) 
-Brüssel/Bonn",ORG,0.0,0.0,de,1
+Kommentar: Blackout,Kommentar: Blackout,ORG,0.0,0.0,de,1
+RWE.,RWE.,ORG,0.0,0.0,de,1
+"Partei, di…","Partei, di…",ORG,0.0,0.0,de,1
+Liqui Moly,Liqui Moly,ORG,0.0,0.0,de,1
+Versorgungssicherheit,Versorgungssicherheit,ORG,0.0,0.0,de,1
 "Tages: Liz Truss, Gaspreisdeckel,","Tages: Liz Truss, Gaspreisdeckel,",ORG,0.0,0.0,de,1
-To…,To…,ORG,0.6999999999999998,0.0,de,1
-"Illner: ""Die Situation","Illner: ""Die Situation",ORG,0.0,0.0,de,1
+Strom-Totalausfall,Strom-Totalausfall,ORG,-1.0,0.0,de,1
+TTF Future,TTF Future,ORG,0.7,0.0,de,1
 Terminkontrakts TTF für niederländisches …,Terminkontrakts TTF für niederländisches …,ORG,0.0,0.0,de,1
+Euro-Zone,Euro-Zone,ORG,0.0,0.0,de,1
 Wirtschaftshilfe: Habeck: Akute,Wirtschaftshilfe: Habeck: Akute,ORG,0.0,0.0,de,1
-Gas Infrastructure Europe,Gas Infrastructure Europe,ORG,0.0,0.0,de,1
-Deutsche Um…,Deutsche Um…,ORG,0.0,0.0,de,1
+EU-Energiem…,EU-Energiem…,ORG,0.0,0.0,de,1
+"Bundesbank, die","Bundesbank, die",ORG,0.0,0.0,de,1
+EU-Einkaufsmacht.,EU-Einkaufsmacht.,ORG,0.0,0.0,de,1
+Winter″,Winter″,ORG,0.0,0.0,de,1
+ARD-Magazins,ARD-Magazins,ORG,0.0,0.0,de,1
 Deutsche Umwelt…,Deutsche Umwelt…,ORG,0.0,0.0,de,1
-Black Friday,Black Friday,ORG,0.0,0.0,de,1
+Deutsche Um…,Deutsche Um…,ORG,0.0,0.0,de,1
+Öko-,Öko-,ORG,0.7,0.0,de,1
+Atomstromanbieter,Atomstromanbieter,ORG,0.7,0.0,de,1
 Energieministerium,Energieministerium,ORG,0.0,0.0,de,1
-Gasimporteur: Uniper,Gasimporteur: Uniper,ORG,0.0,0.0,de,1
-Gasimporteur Uniper,Gasimporteur Uniper,ORG,0.0,0.0,de,1
+"Lancet Countdown"": Wie der Klimawandel","Lancet Countdown"": Wie der Klimawandel",ORG,0.0,0.0,de,1
+DIW,DIW,ORG,0.0,0.0,de,1
 Hochschule Neubrandenburg: Energiekosten,Hochschule Neubrandenburg: Energiekosten,ORG,-1.0,0.0,de,1
-Deutsche Institut für Wirtschaftsforschung,Deutsche Institut für Wirtschaftsforschung,ORG,0.0,0.0,de,1
+BASF: Martin Brudermüller,BASF: Martin Brudermüller,ORG,-0.7,0.0,de,1
+Sinischa Horvat,Sinischa Horvat,ORG,0.0,0.0,de,1
+Milliardenverlust: Uniper,Milliardenverlust: Uniper,ORG,-1.0,0.0,de,1
 Die Linke,Die Linke,ORG,0.0,0.0,de,1
-Internationale Energieagentur,Internationale Energieagentur,ORG,0.0,0.0,de,1
+Ther…,Ther…,ORG,0.0,0.0,de,1
 unl uulepelaekeup,unl uulepelaekeup,ORG,0.0,0.0,de,1
 puupelu tel,puupelu tel,ORG,0.0,0.0,de,1
+Krise,Krise,ORG,0.0,0.0,de,1
 Svevind-Gruppe,Svevind-Gruppe,ORG,0.0,0.0,de,1
-Deutschen Instituts für Wirtschaftsforschung,Deutschen Instituts für Wirtschaftsforschung,ORG,0.0,0.0,de,1
-Strom-Gas-Entkoppelung: EU,Strom-Gas-Entkoppelung: EU,ORG,0.0,0.0,de,1
-Euro-Zone,Euro-Zone,ORG,0.0,0.0,de,1
+Der Spiegel,Der Spiegel,ORG,0.0,0.0,de,1
+Spiegel bereite…,Spiegel bereite…,ORG,0.0,0.0,de,1
 Generals…,Generals…,ORG,0.0,0.0,de,1
-BundeslÃ¤nder,BundeslÃ¤nder,ORG,0.7,0.0,de,1
 LNG: Europa,LNG: Europa,ORG,-0.7,0.0,de,1
-CSU,CSU,ORG,0.0,0.0,de,1
+Lesen!,Lesen!,ORG,0.0,0.0,de,1
+"Foto: Imago) 
+Düsseldorf","Foto: Imago) 
+Düsseldorf",ORG,0.0,0.0,de,1
+To…,To…,ORG,0.6999999999999998,0.0,de,1
+Europäischen Rates,Europäischen Rates,ORG,0.0,0.0,de,1
+BundeslÃ¤nder,BundeslÃ¤nder,ORG,0.7,0.0,de,1
+UNO-Flüchtlingshilfswerk,UNO-Flüchtlingshilfswerk,ORG,0.425,0.0,de,1
+UNHCR,UNHCR,ORG,0.425,0.0,de,1
+Scope,Scope,ORG,0.0,0.0,de,1
+Grüner Energie-Korridor,Grüner Energie-Korridor,ORG,0.0,0.0,de,1
+200-Milliarden-Euro Abwehrschirms,200-Milliarden-Euro Abwehrschirms,ORG,0.0,0.0,de,1
 Energiekrise.,Energiekrise.,ORG,0.0,0.0,de,1
+Energiepreisbremsen:,Energiepreisbremsen:,ORG,0.0,0.0,de,1
+Strauchelnden,Strauchelnden,ORG,0.0,0.0,de,1
 EU-Gipfel.,EU-Gipfel.,ORG,0.0,0.0,de,1
 EU wi…,EU wi…,ORG,0.0,0.0,de,1
+SPD-Fraktionsvize,SPD-Fraktionsvize,ORG,0.0,0.0,de,1
 MPK,MPK,ORG,-1.0,0.0,de,1
 Konferenz: Bovenschulte:,Konferenz: Bovenschulte:,ORG,0.0,0.0,de,1
+Bundesminister Habeck,Bundesminister Habeck,ORG,0.7,0.0,de,1
+Lindner zeig…,Lindner zeig…,ORG,0.7,0.0,de,1
 "Inhaltsverzeichnis
 Die Staats- und Regierungschefs","Inhaltsverzeichnis
 Die Staats- und Regierungschefs",ORG,0.7,0.0,de,1
-Gaspreisdeckel.,Gaspreisdeckel.,ORG,0.0,0.0,de,1
 Foto: Getty,Foto: Getty,ORG,0.0,0.0,de,1
 Gaspreisbremse …,Gaspreisbremse …,ORG,0.0,0.0,de,1
+Russland +++,Russland +++,ORG,0.0,0.0,de,1
 Bundesliga: Knäbel,Bundesliga: Knäbel,ORG,0.0,0.0,de,1
 Schalke,Schalke,ORG,0.0,0.0,de,1
 Foto: Dirk Hoppe,Foto: Dirk Hoppe,ORG,0.0,0.0,de,1
@@ -575,19 +907,11 @@ Foto: Dirk Hoppe,Foto: Dirk Hoppe,ORG,0.0,0.0,de,1
 Düsseldorf","Handelsblatt) 
 Düsseldorf",ORG,0.0,0.0,de,1
 Foto: Felix Hörhage…,Foto: Felix Hörhage…,ORG,0.0,0.0,de,1
-Wirtschaftsminister,Wirtschaftsminister,ORG,0.0,0.0,de,1
-"Foto: Imago) 
-Düsseldorf","Foto: Imago) 
-Düsseldorf",ORG,0.0,0.0,de,1
-Frankfurter Allgemeine Zeitung.,Frankfurter Allgemeine Zeitung.,ORG,0.0,0.0,de,1
-FAZ,FAZ,ORG,0.0,0.0,de,1
-Bundestag.,Bundestag.,ORG,0.0,0.0,de,1
-Homeoffice,Homeoffice,ORG,1.0,0.0,de,1
-Nord-Stream-Pipelines: War,Nord-Stream-Pipelines: War,ORG,0.0,0.0,de,1
-Uniper.,Uniper.,ORG,-0.7,0.0,de,1
-The Weather Channel |,The Weather Channel |,ORG,0.0,0.0,de-DE,1
-Nordstream 1,Nordstream 1,ORG,-1.0,0.0,de,1
-Preis-Wucher“,Preis-Wucher“,ORG,0.0,0.0,de,1
+Chemie-Gewerkschaft IG BCE,Chemie-Gewerkschaft IG BCE,ORG,0.0,0.0,de,1
+Ludwigshafen,Ludwigshafen,ORG,0.0,0.0,de,1
+"Foto: Reuters)
+Frankfurt","Foto: Reuters)
+Frankfurt",ORG,0.0,0.0,de,1
 Bayern b…,Bayern b…,ORG,0.0,0.0,de,1
 Konjunktur:,Konjunktur:,ORG,0.0,0.0,de,1
 Hamburger Otto-Gruppe,Hamburger Otto-Gruppe,ORG,0.7,0.0,de,1
@@ -597,93 +921,132 @@ Wirtschaftsstabilisierungsfonds,Wirtschaftsstabilisierungsfonds,ORG,0.0,0.0,de,1
 Gasumlage:,Gasumlage:,ORG,0.0,0.0,de,1
 Schwesig für Energiepreis-Abwehrschirm,Schwesig für Energiepreis-Abwehrschirm,ORG,0.0,0.0,de,1
 "Tages: Gaspreisbremse, Pipeline-Lecks, Porsche-Börsengang.","Tages: Gaspreisbremse, Pipeline-Lecks, Porsche-Börsengang.",ORG,0.0,0.0,de,1
-Porsche,Porsche,ORG,0.0,0.0,de,1
-Gaslieferung,Gaslieferung,ORG,0.0,0.0,de,1
+Bundesbern,Bundesbern,ORG,0.0,0.0,de,1
+Solar-Offensive,Solar-Offensive,ORG,0.0,0.0,de,1
+Ostseepipelines Nord Stream 1,Ostseepipelines Nord Stream 1,ORG,0.0,0.0,de,1
+SPIEG…,SPIEG…,ORG,0.7,0.0,de,1
+Be…,Be…,ORG,0.0,0.0,de,1
+Energieminister,Energieminister,ORG,0.0,0.0,de,1
+EU-Rat,EU-Rat,ORG,0.0,0.0,de,1
+Br…,Br…,ORG,0.0,0.0,de,1
+Dänische Behörde:,Dänische Behörde:,ORG,0.0,0.0,de,1
+IEA rÃ¤t EU,IEA rÃ¤t EU,ORG,0.0,0.0,de,1
 Gaskrise: Internationale Energieagentur,Gaskrise: Internationale Energieagentur,ORG,0.0,0.0,de,1
-Homeoffice?,Homeoffice?,ORG,0.0,0.0,de,1
-EPH,EPH,ORG,0.0,0.0,de,1
-CDU/CSU,CDU/CSU,ORG,0.0,0.0,de,1
-Brennholz: Deutschland,Brennholz: Deutschland,ORG,0.0,0.0,de,1
+"Europäischen Union, Gas","Europäischen Union, Gas",ORG,0.0,0.0,de,1
+milliardenschweren Entlastun…,milliardenschweren Entlastun…,ORG,0.0,0.0,de,1
+Energie-Karte,Energie-Karte,ORG,0.0,0.0,de,1
+Humboldt-Uni.,Humboldt-Uni.,ORG,0.0,0.0,de,1
+FritzBox,FritzBox,ORG,0.0,0.0,de,1
+Smarthome-An…,Smarthome-An…,ORG,1.0,0.0,de,1
+Bundeskriminalamt (BKA) geht,Bundeskriminalamt (BKA) geht,ORG,0.0,0.0,de,1
+Pipelines« Nord Stream 1,Pipelines« Nord Stream 1,ORG,0.0,0.0,de,1
+Nord-Stream-Pipelines: Norwegen,Nord-Stream-Pipelines: Norwegen,ORG,0.7,0.0,de,1
+Erdgas-Pipelines,Erdgas-Pipelines,ORG,0.0,0.0,de,1
+IG BCE,IG BCE,ORG,0.0,0.0,de,1
+WELT-Interview,WELT-Interview,ORG,0.0,0.0,de,1
+Ukraine-Krise: Wirtschaft,Ukraine-Krise: Wirtschaft,ORG,0.0,0.0,de,1
 CHIP,CHIP,ORG,0.0,0.0,de,1
 CO2-Bepreisung,CO2-Bepreisung,ORG,0.0,0.0,de,1
 Moskau,Moskau,ORG,-0.1333333333333333,0.0,de,1
 Energynest,Energynest,ORG,0.0,0.0,de,1
-DER SPIEGEL.,DER SPIEGEL.,ORG,0.0,0.0,de,1
+Frieren!,Frieren!,ORG,-0.85,0.0,de-DE,1
+waz.de,waz.de,ORG,0.0,0.0,de-DE,1
 RWE-Chef,RWE-Chef,ORG,0.0,0.0,de,1
 Sollen AKW,Sollen AKW,ORG,0.0,0.0,de,1
 Energiekonzerns RWE,Energiekonzerns RWE,ORG,0.0,0.0,de,1
 Shell: Flüssiggas,Shell: Flüssiggas,ORG,0.0,0.0,de,1
 US-Flüssigerdgas,US-Flüssigerdgas,ORG,0.0,0.0,de,1
 Europäischen Union.,Europäischen Union.,ORG,0.0,0.0,de,1
-Europäer,Europäer,ORG,-0.5,0.0,de,1
 Klima-Union,Klima-Union,ORG,1.0,0.0,de,1
 Kommentar: Hohe Gaspreise,Kommentar: Hohe Gaspreise,ORG,0.0,0.0,de,1
-Pipeline Nord Stream 1,Pipeline Nord Stream 1,ORG,0.0,0.0,de,1
 Berliner Industrie- und Handelskammer,Berliner Industrie- und Handelskammer,ORG,0.0,0.0,de-DE,1
 IHK,IHK,ORG,0.0,0.0,de-DE,1
-IEA,IEA,ORG,0.0,0.0,de,1
-"Europäischen Union, Gas","Europäischen Union, Gas",ORG,0.0,0.0,de,1
-Energie-Karte,Energie-Karte,ORG,0.0,0.0,de,1
-Humboldt-Uni.,Humboldt-Uni.,ORG,0.0,0.0,de,1
-Nord-Stream-Pipelines:,Nord-Stream-Pipelines:,ORG,0.0,0.0,de,1
-Nord Stream: Bundesanwaltschaft,Nord Stream: Bundesanwaltschaft,ORG,0.0,0.0,de,1
-Bamf: Faeser: Mehr,Bamf: Faeser: Mehr,ORG,0.0,0.0,de,1
-Ko…,Ko…,ORG,0.0,0.0,de,1
-Gesellschaft: Ostdeutschland: Tausende,Gesellschaft: Ostdeutschland: Tausende,ORG,0.0,0.0,de,1
-RP ONLINE.,RP ONLINE.,ORG,0.0,0.0,de,1
-"BILD Live  BILD
-</li><li>Wolfgang Schäuble: „Blanker Hohn“","BILD Live  BILD
-</li><li>Wolfgang Schäuble: „Blanker Hohn“",ORG,0.0,0.0,de,1
-Gaskommission:,Gaskommission:,ORG,0.0,0.0,de,1
-Sozialverband VdK.,Sozialverband VdK.,ORG,-0.5,0.0,de,1
-Atomkraft in Deutschland: Greta Thunberg,Atomkraft in Deutschland: Greta Thunberg,ORG,0.7,0.0,de,1
+Brennholz: Deutschland,Brennholz: Deutschland,ORG,0.0,0.0,de,1
+EPH,EPH,ORG,0.0,0.0,de,1
+Aluminiumgießerei Röders,Aluminiumgießerei Röders,ORG,0.7,0.0,de,1
+"Glosse
+
+ nan","Glosse
+
+ nan",ORG,0.0,0.0,de,1
+Homeoffice?,Homeoffice?,ORG,0.0,0.0,de,1
+Nord-Stream-Pipelines: War,Nord-Stream-Pipelines: War,ORG,0.0,0.0,de,1
+The Weather Channel |,The Weather Channel |,ORG,0.0,0.0,de-DE,1
+Nordstream 1,Nordstream 1,ORG,-1.0,0.0,de,1
+Preis-Wucher“,Preis-Wucher“,ORG,0.0,0.0,de,1
+Ostsee-Pipelines Nord-Stream,Ostsee-Pipelines Nord-Stream,ORG,-1.0,0.0,de,1
+deutsch-spanische…,deutsch-spanische…,ORG,0.0,0.0,de,1
+"Verbands ""Zukunft Gas","Verbands ""Zukunft Gas",ORG,1.0,0.0,de,1
+"Verbands ""Zukunft Gas""","Verbands ""Zukunft Gas""",ORG,0.0,0.0,de,1
+Bremer Verbraucherzentrale,Bremer Verbraucherzentrale,ORG,-0.7,0.0,de,1
 Energiekrise:,Energiekrise:,ORG,0.0,0.0,de,1
+Energiekrise: Schäubles,Energiekrise: Schäubles,ORG,-0.7,0.0,de,1
+Vattenfall Wärme Berlin,Vattenfall Wärme Berlin,ORG,0.0,0.0,de,1
+Vattenfall Berlin,Vattenfall Berlin,ORG,1.0,0.0,de,1
+Gas sparenWer,Gas sparenWer,ORG,0.0,0.0,de,1
+Nord-Stream-2,Nord-Stream-2,ORG,0.7,0.0,de,1
+Temperat…,Temperat…,ORG,0.0,0.0,de,1
+Aldi Süd,Aldi Süd,ORG,0.0,0.0,de,1
+Ostsee-Pipeline Nord Stream,Ostsee-Pipeline Nord Stream,ORG,0.0,0.0,de,1
+Expertenkommission der Bundesregierung.,Expertenkommission der Bundesregierung.,ORG,1.0,0.0,de,1
 ENN Group,ENN Group,ORG,0.0,0.0,de,1
 Jovo Energy,Jovo Energy,ORG,0.0,0.0,de,1
 ENN,ENN,ORG,0.0,0.0,de,1
 Energiekrise: Wie Berlin Europas,Energiekrise: Wie Berlin Europas,ORG,0.0,0.0,de,1
 Hans-Böckler-Stiftung,Hans-Böckler-Stiftung,ORG,0.7,0.0,de,1
 IMK,IMK,ORG,0.0,0.0,de,1
-Nord Stream 1,Nord Stream 1,ORG,0.0,0.0,de,1
-Marine…,Marine…,ORG,-0.15000000000000002,0.0,de,1
-Bundespolizei,Bundespolizei,ORG,-0.15000000000000002,0.0,de,1
-Bremer Verbraucherzentrale,Bremer Verbraucherzentrale,ORG,-0.7,0.0,de,1
-FritzBox,FritzBox,ORG,0.0,0.0,de,1
-Smarthome-An…,Smarthome-An…,ORG,1.0,0.0,de,1
-Bundeskriminalamt (BKA) geht,Bundeskriminalamt (BKA) geht,ORG,0.0,0.0,de,1
-Pipelines« Nord Stream 1,Pipelines« Nord Stream 1,ORG,0.0,0.0,de,1
-deutsch-spanische…,deutsch-spanische…,ORG,0.0,0.0,de,1
-"Verbands ""Zukunft Gas","Verbands ""Zukunft Gas",ORG,1.0,0.0,de,1
-"Verbands ""Zukunft Gas""","Verbands ""Zukunft Gas""",ORG,0.0,0.0,de,1
+CDU/CSU,CDU/CSU,ORG,0.0,0.0,de,1
+Bundestag.,Bundestag.,ORG,0.0,0.0,de,1
+FAZ,FAZ,ORG,0.0,0.0,de,1
+Frankfurter Allgemeine Zeitung.,Frankfurter Allgemeine Zeitung.,ORG,0.0,0.0,de,1
+Gaskrise: EU,Gaskrise: EU,ORG,0.0,0.0,de,1
+TurkStream,TurkStream,ORG,0.0,0.0,de,1
+Niedergailbac…,Niedergailbac…,ORG,0.0,0.0,de,1
+Verdammt!,Verdammt!,ORG,0.0,0.0,de,1
+Zieltermin: Deutsche Gasspeicher,Zieltermin: Deutsche Gasspeicher,ORG,0.0,0.0,de,1
+Chemiekonzern:,Chemiekonzern:,ORG,0.0,0.0,de,1
+BASF-Sparprogramm,BASF-Sparprogramm,ORG,0.0,0.0,de,1
+Atomkraft in Deutschland: Greta Thunberg,Atomkraft in Deutschland: Greta Thunberg,ORG,0.7,0.0,de,1
+Sozialverband VdK.,Sozialverband VdK.,ORG,-0.5,0.0,de,1
+Gaskommission:,Gaskommission:,ORG,0.0,0.0,de,1
+Prei…,Prei…,ORG,0.0,0.0,de,1
 Gasmarkt richtu…,Gasmarkt richtu…,ORG,0.0,0.0,de,1
-"Ostsee-Gaspipelines  WEB.DE News
-</li><li>","Ostsee-Gaspipelines  WEB.DE News
-</li><li>",ORG,-0.15000000000000002,0.0,de,1
+europäischen Gaspreisdeckel.,europäischen Gaspreisdeckel.,ORG,0.0,0.0,de,1
 Europäischen …,Europäischen …,ORG,0.0,0.0,de,1
+Gewerkschaft ver.di…,Gewerkschaft ver.di…,ORG,-1.0,0.0,de,1
+Russlandflagge…,Russlandflagge…,ORG,-0.7,0.0,de,1
+SPD-Politikerin,SPD-Politikerin,ORG,0.0,0.0,de,1
+BKW,BKW,ORG,0.7,0.0,de,1
 Verbraucherschützer: Hohe Energiepreise,Verbraucherschützer: Hohe Energiepreise,ORG,0.0,0.0,de,1
 Expertenkommission der Regierung,Expertenkommission der Regierung,ORG,0.0,0.0,de,1
+EVP,EVP,ORG,0.0,0.0,de,1
 FOCUS-online-Redakteur Ch…,FOCUS-online-Redakteur Ch…,ORG,0.7,0.0,de,1
 Terminkontrakt TTF,Terminkontrakt TTF,ORG,0.7,0.0,de,1
 Gas-Preise: Kommission,Gas-Preise: Kommission,ORG,0.0,0.0,de,1
+"BILD Live  BILD
+</li><li>Wolfgang Schäuble: „Blanker Hohn“","BILD Live  BILD
+</li><li>Wolfgang Schäuble: „Blanker Hohn“",ORG,0.0,0.0,de,1
 Ostsee-Gaspipelines,Ostsee-Gaspipelines,ORG,0.0,0.0,de,1
-Bundes für Unternehmen,Bundes für Unternehmen,ORG,0.0,0.0,de,1
-"Aktion ""Mehrwertsteuer","Aktion ""Mehrwertsteuer",ORG,0.7,0.0,de,1
-Energieschock: Die Regierung,Energieschock: Die Regierung,ORG,0.0,0.0,de,1
-Bertelsmann Stiftung:,Bertelsmann Stiftung:,ORG,-0.2333333333333333,0.0,de,1
-NBB,NBB,ORG,0.0,0.0,de,1
-ErdgasversorgungEinsparmaßnahmen,ErdgasversorgungEinsparmaßnahmen,ORG,0.0,0.0,de,1
-"Foto: dpa) 
-","Foto: dpa) 
-",ORG,1.0,0.0,de,1
-Schimmel-Alarm: Lidl,Schimmel-Alarm: Lidl,ORG,0.0,0.0,de,1
-Verband der kommunalen Unternehmen,Verband der kommunalen Unternehmen,ORG,0.04999999999999999,0.0,de,1
-Verband der…,Verband der…,ORG,0.0,0.0,de,1
-IWH.,IWH.,ORG,0.0,0.0,de,1
-ISW,ISW,ORG,0.0,0.0,de,1
-Global Carbon Budget,Global Carbon Budget,ORG,0.0,0.0,de,1
-Konusnebel: Very Large Telescope,Konusnebel: Very Large Telescope,ORG,0.0,0.0,de,1
-Parlament,Parlament,ORG,0.7,0.0,de,1
-Ukraine-Krise: Wirtschaft,Ukraine-Krise: Wirtschaft,ORG,0.0,0.0,de,1
+"Ostsee-Gaspipelines  WEB.DE News
+</li><li>","Ostsee-Gaspipelines  WEB.DE News
+</li><li>",ORG,-0.15000000000000002,0.0,de,1
+Bundespolizei,Bundespolizei,ORG,-0.15000000000000002,0.0,de,1
+Marine…,Marine…,ORG,-0.15000000000000002,0.0,de,1
+CDU.,CDU.,ORG,1.0,0.0,de,1
+Nord-Stream-Pipelines:,Nord-Stream-Pipelines:,ORG,0.0,0.0,de,1
+Nord Stream: Bundesanwaltschaft,Nord Stream: Bundesanwaltschaft,ORG,0.0,0.0,de,1
+Bamf: Faeser: Mehr,Bamf: Faeser: Mehr,ORG,0.0,0.0,de,1
+Ko…,Ko…,ORG,0.0,0.0,de,1
+Regierungskommission,Regierungskommission,ORG,0.0,0.0,de,1
+Gesellschaft: Ostdeutschland: Tausende,Gesellschaft: Ostdeutschland: Tausende,ORG,0.0,0.0,de,1
+RP ONLINE.,RP ONLINE.,ORG,0.0,0.0,de,1
+BASF.,BASF.,ORG,0.0,0.0,de,1
+Baselbieter Chemiefirma,Baselbieter Chemiefirma,ORG,0.7,0.0,de,1
+Deutschen Instituts für Wirtschaftsforschung,Deutschen Instituts für Wirtschaftsforschung,ORG,0.0,0.0,de,1
+Pandemie.,Pandemie.,ORG,0.0,0.0,de,1
+EU-Energiekommissar,EU-Energiekommissar,ORG,0.0,0.0,de,1
+Ze…,Ze…,ORG,0.0,0.0,de,1
+Flüssigerdgas: Lubminer Gas-Terminal,Flüssigerdgas: Lubminer Gas-Terminal,ORG,0.0,0.0,de,1
 Anna-Lindh-Schule,Anna-Lindh-Schule,ORG,1.0,0.0,de,1
 wps tfis bohftqboou,wps tfis bohftqboou,ORG,0.0,0.0,de,1
 Weltklimakonferenz: USA,Weltklimakonferenz: USA,ORG,0.0,0.0,de,1
@@ -691,20 +1054,40 @@ Weltklimakonferenz: USA,Weltklimakonferenz: USA,ORG,0.0,0.0,de,1
 Scharm el Scheich","Foto: dpa)
 Scharm el Scheich",ORG,0.0,0.0,de,1
 "USA, di…","USA, di…",ORG,0.0,0.0,de,1
-Pro Bahn: Staatsgeld,Pro Bahn: Staatsgeld,ORG,0.0,0.0,de,1
-Gas-Einmalzahlung,Gas-Einmalzahlung,ORG,0.0,0.0,de,1
-Expertenkommission Ga…,Expertenkommission Ga…,ORG,0.5,0.0,de,1
-GOGEL,GOGEL,ORG,0.7,0.0,de,1
-Europas Küste!,Europas Küste!,ORG,0.0,0.0,de,1
-Bundesliga: Wolfsburgs,Bundesliga: Wolfsburgs,ORG,0.0,0.0,de,1
-Shopping-Krise!,Shopping-Krise!,ORG,0.0,0.0,de,1
+"Foto: Reuters)
+Berlin","Foto: Reuters)
+Berlin",ORG,0.0,0.0,de,1
+krankes Mädchen.,krankes Mädchen.,ORG,-1.0,0.0,de,1
+ARD.,ARD.,ORG,0.0,0.0,de,1
+deutschen Wirtschaft,deutschen Wirtschaft,ORG,0.0,0.0,de,1
+Europa-ParkDeutschlands,Europa-ParkDeutschlands,ORG,0.0,0.0,de,1
+"Foto: Europa-Park) 
+Rust","Foto: Europa-Park) 
+Rust",ORG,0.0,0.0,de,1
+Vollkorn,Vollkorn,ORG,0.7,0.0,de,1
+Bild:…,Bild:…,ORG,0.0,0.0,de,1
+GTT,GTT,ORG,0.7,0.0,de,1
+dam…,dam…,ORG,0.0,0.0,de,1
+ukrainische Militär,ukrainische Militär,ORG,0.0,0.0,de,1
+KSC,KSC,ORG,0.0,0.0,de,1
+ukrainische Streitkräfte,ukrainische Streitkräfte,ORG,0.0,0.0,de,1
+Gasprom Germania: Bund,Gasprom Germania: Bund,ORG,0.0,0.0,de,1
+Sefe  t-online,Sefe  t-online,ORG,0.0,0.0,de,1
+Gazprom G…,Gazprom G…,ORG,0.0,0.0,de,1
+Bundeswirtschaftsministerium,Bundeswirtschaftsministerium,ORG,0.0,0.0,de,1
+Bundesverbands der Energie- und Wasserwirtschaft,Bundesverbands der Energie- und Wasserwirtschaft,ORG,-1.0,0.0,de,1
+Erdgas-Soforthilfegesetz: Dezember-Abschlag: Bundesrat,Erdgas-Soforthilfegesetz: Dezember-Abschlag: Bundesrat,ORG,0.0,0.0,de,1
+Global Carbon Budget,Global Carbon Budget,ORG,0.0,0.0,de,1
+ISW,ISW,ORG,0.0,0.0,de,1
 Selenskyj: Russland,Selenskyj: Russland,ORG,0.0,0.0,de,1
-britische Verteidigungsministerium,britische Verteidigungsministerium,ORG,0.0,0.0,de,1
-E-Autos,E-Autos,ORG,0.0,0.0,de,1
+RWE  Ha,RWE  Ha,ORG,0.76,0.0,de,1
+Medizinischen Katastrophen-Hilfswerk,Medizinischen Katastrophen-Hilfswerk,ORG,0.0,0.0,de,1
+MHW,MHW,ORG,0.0,0.0,de,1
+ple Pnluleu,ple Pnluleu,ORG,0.0,0.0,de,1
+Deutschen Geologischen Gesellschaft von der Bundesregierung,Deutschen Geologischen Gesellschaft von der Bundesregierung,ORG,0.0,0.0,de,1
 die Grünen,die Grünen,ORG,0.0,0.0,de,1
 Berlins Grünen-Fraktion,Berlins Grünen-Fraktion,ORG,0.0,0.0,de,1
 Berliner Grünen-Fraktion,Berliner Grünen-Fraktion,ORG,0.0,0.0,de,1
-Joint Venture,Joint Venture,ORG,0.7,0.0,de,1
 russische Luftwaffe,russische Luftwaffe,ORG,0.7,0.0,de,1
 UN-Klimakonferenz: Proteste auf Konferenz,UN-Klimakonferenz: Proteste auf Konferenz,ORG,0.0,0.0,de,1
 UN-Klimakonferenz:,UN-Klimakonferenz:,ORG,0.0,0.0,de,1
@@ -712,65 +1095,102 @@ UN-Chefs,UN-Chefs,ORG,0.0,0.0,de,1
 Tages: Midterm-Wahlen,Tages: Midterm-Wahlen,ORG,0.0,0.0,de,1
 US-Konservativen,US-Konservativen,ORG,0.0,0.0,de,1
 Bosch,Bosch,ORG,0.35,0.0,de,1
-"Foto: Reuters)
-Berlin","Foto: Reuters)
-Berlin",ORG,0.0,0.0,de,1
-krankes Mädchen.,krankes Mädchen.,ORG,-1.0,0.0,de,1
-ARD.,ARD.,ORG,0.0,0.0,de,1
-deutschen Wirtschaft,deutschen Wirtschaft,ORG,0.0,0.0,de,1
+GOGEL,GOGEL,ORG,0.7,0.0,de,1
+Gas-Einmalzahlung,Gas-Einmalzahlung,ORG,0.0,0.0,de,1
+Russland-Exporte,Russland-Exporte,ORG,0.0,0.0,de,1
+Bertelsmann Stiftung:,Bertelsmann Stiftung:,ORG,-0.2333333333333333,0.0,de,1
+Pro Bahn: Staatsgeld,Pro Bahn: Staatsgeld,ORG,0.0,0.0,de,1
+B…,B…,ORG,0.0,0.0,de,1
+ErdgasversorgungEinsparmaßnahmen,ErdgasversorgungEinsparmaßnahmen,ORG,0.0,0.0,de,1
+Schimmel-Alarm: Lidl,Schimmel-Alarm: Lidl,ORG,0.0,0.0,de,1
+Foto: Bloomberg/Getty Ima…,Foto: Bloomberg/Getty Ima…,ORG,0.0,0.0,de,1
+Verband der kommunalen Unternehmen,Verband der kommunalen Unternehmen,ORG,0.04999999999999999,0.0,de,1
+Verband der…,Verband der…,ORG,0.0,0.0,de,1
+IWH.,IWH.,ORG,0.0,0.0,de,1
+RWE-Aktie,RWE-Aktie,ORG,0.7,0.0,de,1
+Gazproms.,Gazproms.,ORG,0.0,0.0,de,1
+Gazprom Germania…,Gazprom Germania…,ORG,0.0,0.0,de,1
+Finanztip-Chefredakteur Herrmann-Josef Tenhagen,Finanztip-Chefredakteur Herrmann-Josef Tenhagen,ORG,0.0,0.0,de,1
+Neues Terminal,Neues Terminal,ORG,0.7,0.0,de,1
+Kris…,Kris…,ORG,0.0,0.0,de,1
+Klimafreundliches Heizen überall…,Klimafreundliches Heizen überall…,ORG,0.0,0.0,de,1
+Wintershall-Chef: Mehren: Gasversorgung,Wintershall-Chef: Mehren: Gasversorgung,ORG,0.0,0.0,de,1
+Stiftung Warentest: Warum Heizlüfter,Stiftung Warentest: Warum Heizlüfter,ORG,-1.0,0.0,de,1
+Nord Stream,Nord Stream,ORG,0.7,0.0,de,1
+Staatsanwaltschaft: Schweden: Sprengstoff,Staatsanwaltschaft: Schweden: Sprengstoff,ORG,0.0,0.0,de,1
+Kampagne,Kampagne,ORG,0.0,0.0,de,1
+Babys:,Babys:,ORG,1.0,0.0,de,1
+Glasfaser: Telekom,Glasfaser: Telekom,ORG,0.0,0.0,de,1
+Telekom,Telekom,ORG,0.0,0.0,de,1
+"WEB.DE News
+</li><li>","WEB.DE News
+</li><li>",ORG,0.0,0.0,de,1
+INES Energie-Szenarien,INES Energie-Szenarien,ORG,0.0,0.0,de,1
+Verband: Ohne Extremkälte,Verband: Ohne Extremkälte,ORG,1.0,0.0,de,1
+Wohnen: Wann Energiesparen,Wohnen: Wann Energiesparen,ORG,0.0,0.0,de,1
+"Deutschen Studierendenwerkes,","Deutschen Studierendenwerkes,",ORG,-0.35,0.0,de,1
+Verband: Deutschland,Verband: Deutschland,ORG,-1.0,0.0,de,1
+Homeoffice-Kälte.,Homeoffice-Kälte.,ORG,0.0,0.0,de,1
+Trafos:,Trafos:,ORG,-1.0,0.0,de,1
+deutsche LNG-Willkür.,deutsche LNG-Willkür.,ORG,0.0,0.0,de,1
+Verbandes:,Verbandes:,ORG,0.0,0.0,de,1
+Stadtwerke Bad Tölz:,Stadtwerke Bad Tölz:,ORG,0.0,0.0,de,1
+Tölzer Stadtwerke,Tölzer Stadtwerke,ORG,0.7,0.0,de,1
+Berliner Stromnetz,Berliner Stromnetz,ORG,0.0,0.0,de,1
+Hö…,Hö…,ORG,0.0,0.0,de,1
+Bundesliga: Gladbachs,Bundesliga: Gladbachs,ORG,0.0,0.0,de,1
+V…,V…,ORG,0.7,0.0,de,1
+Deutsche We…,Deutsche We…,ORG,0.0,0.0,de,1
+"Illner: ""Die Situation","Illner: ""Die Situation",ORG,0.0,0.0,de,1
+Atomdebatte,Atomdebatte,ORG,0.0,0.0,de,1
+Wintershall-Dea-Chef,Wintershall-Dea-Chef,ORG,0.0,0.0,de,1
+"Foto: dpa)
+Paris","Foto: dpa)
+Paris",ORG,0.0,0.0,de,1
+siebenundsechzig …,siebenundsechzig …,ORG,0.0,0.0,de,1
+Foto: d…,Foto: d…,ORG,0.0,0.0,de,1
+TU Wien,TU Wien,ORG,0.0,0.0,de,1
+nan,nan,ORG,0.0,0.0,de,1
+Brüssel/Bonn,Brüssel/Bonn,ORG,0.0,0.0,de,1
 SWR-Rechercheformats Vollbild,SWR-Rechercheformats Vollbild,ORG,0.0,0.0,de,1
+Tages: G20,Tages: G20,ORG,0.0,0.0,de,1
 Energiekrise: Bundesregierung,Energiekrise: Bundesregierung,ORG,0.7,0.0,de,1
 G-20,G-20,ORG,0.7999999999999999,0.0,de,1
 "Ukraine
 G-20-Staaten","Ukraine
 G-20-Staaten",ORG,0.7999999999999999,0.0,de,1
+französischen Grünen,französischen Grünen,ORG,0.0,0.0,de,1
+Deutschland  n-tv,Deutschland  n-tv,ORG,0.7,0.0,de,1
+EU-Mitglied Irland,EU-Mitglied Irland,ORG,-0.7,0.0,de,1
+UN-Klimakonferenz.,UN-Klimakonferenz.,ORG,0.0,0.0,de,1
 BILD.,BILD.,ORG,0.85,0.0,de,1
 Linz AG,Linz AG,ORG,-0.85,0.0,de,1
+Berliner Gasag,Berliner Gasag,ORG,0.7,0.0,de,1
 Der Energiemarkt,Der Energiemarkt,ORG,0.35,0.0,de,1
 Weltklimakonferenz: Baerbock: COP27,Weltklimakonferenz: Baerbock: COP27,ORG,0.0,0.0,de,1
-deutschen Ostseeküste.,deutschen Ostseeküste.,ORG,0.0,0.0,de,1
+BRD,BRD,ORG,0.0,0.0,de,1
 Staatliche Transfers,Staatliche Transfers,ORG,0.0,0.0,de,1
 NATO,NATO,ORG,0.0,0.0,de,1
 Metallarbeiter streiken,Metallarbeiter streiken,ORG,0.0,0.0,de,1
 Impfkommission,Impfkommission,ORG,0.0,0.0,de,1
 Biontech/Pfizer,Biontech/Pfizer,ORG,0.0,0.0,de,1
 britischen Finanzministers.,britischen Finanzministers.,ORG,0.0,0.0,de,1
-Wintershall-Dea-Chef,Wintershall-Dea-Chef,ORG,0.0,0.0,de,1
-Atomdebatte,Atomdebatte,ORG,0.0,0.0,de,1
-nan,nan,ORG,0.0,0.0,de,1
-TU Wien,TU Wien,ORG,0.0,0.0,de,1
-Foto: d…,Foto: d…,ORG,0.0,0.0,de,1
-Energiepreiskrise,Energiepreiskrise,ORG,0.0,0.0,de,1
-Europa-ParkDeutschlands,Europa-ParkDeutschlands,ORG,0.0,0.0,de,1
-"Foto: Europa-Park) 
-Rust","Foto: Europa-Park) 
-Rust",ORG,0.0,0.0,de,1
-Vollkorn,Vollkorn,ORG,0.7,0.0,de,1
-Bild:…,Bild:…,ORG,0.0,0.0,de,1
-"Foto: dpa)
-","Foto: dpa)
-",ORG,0.0,0.0,de,1
-dam…,dam…,ORG,0.0,0.0,de,1
-ukrainische Militär,ukrainische Militär,ORG,0.0,0.0,de,1
-KSC,KSC,ORG,0.0,0.0,de,1
-siebenundsechzig …,siebenundsechzig …,ORG,0.0,0.0,de,1
-ukrainische Streitkräfte,ukrainische Streitkräfte,ORG,0.0,0.0,de,1
-Bundeswirtschaftsministerium,Bundeswirtschaftsministerium,ORG,0.0,0.0,de,1
-Bundesverbands der Energie- und Wasserwirtschaft,Bundesverbands der Energie- und Wasserwirtschaft,ORG,-1.0,0.0,de,1
-Gazproms.,Gazproms.,ORG,0.0,0.0,de,1
-Gazprom Germania…,Gazprom Germania…,ORG,0.0,0.0,de,1
-Finanztip-Chefredakteur Herrmann-Josef Tenhagen,Finanztip-Chefredakteur Herrmann-Josef Tenhagen,ORG,0.0,0.0,de,1
-Neues Terminal,Neues Terminal,ORG,0.7,0.0,de,1
-europäischen Küste,europäischen Küste,ORG,-0.85,0.0,de,1
-"Foto: dpa)
-","Foto: dpa)
-",ORG,0.5,0.0,de,1
-ple Pppekteapeektnuaeu,ple Pppekteapeektnuaeu,ORG,0.0,0.0,de,1
-Blackout.,Blackout.,ORG,0.0,0.0,de,1
+britische Verteidigungsministerium,britische Verteidigungsministerium,ORG,0.0,0.0,de,1
+Springers,Springers,ORG,0.0,0.0,de,1
+Strom-Gas-Entkoppelung: EU,Strom-Gas-Entkoppelung: EU,ORG,0.0,0.0,de,1
+Bund und Länder,Bund und Länder,ORG,0.0,0.0,de,1
+Video: Scholz - Neue Gaskraftwerke,Video: Scholz - Neue Gaskraftwerke,ORG,0.0,0.0,de,1
 Chemiekonzerns BASF.,Chemiekonzerns BASF.,ORG,0.7,0.0,de,1
 Vierzig Prozen…,Vierzig Prozen…,ORG,0.0,0.0,de,1
+Foto…,Foto…,ORG,0.0,0.0,de,1
+Asia Techonomics,Asia Techonomics,ORG,0.0,0.0,de,1
 Gaspreisbremse: Jens Spahn,Gaspreisbremse: Jens Spahn,ORG,-1.0,0.0,de,1
 Fraktionsvize Spahn,Fraktionsvize Spahn,ORG,-0.7,0.0,de,1
+Strom…,Strom…,ORG,0.0,0.0,de,1
+Blackout?,Blackout?,ORG,0.0,0.0,de,1
+Spanische Grippe“,Spanische Grippe“,ORG,0.0,0.0,de,1
+Reuters,Reuters,ORG,-1.0,0.0,de,1
+Nord Stream AG,Nord Stream AG,ORG,0.0,0.0,de,1
 Bundeskanzleramt,Bundeskanzleramt,ORG,0.35,0.0,de,1
 Bund-Länder-Runde,Bund-Länder-Runde,ORG,0.0,0.0,de,1
 Flüchtlingsversorgung.,Flüchtlingsversorgung.,ORG,0.0,0.0,de,1
@@ -780,17 +1200,28 @@ SWM,SWM,ORG,-0.15000000000000002,0.0,de,1
 österreichischen Parlament,österreichischen Parlament,ORG,0.0,0.0,de,1
 Energiekrise: Uniper,Energiekrise: Uniper,ORG,0.0,0.0,de,1
 Te…,Te…,ORG,0.0,0.0,de,1
-Internationalen Energieagentur,Internationalen Energieagentur,ORG,-0.7,0.0,de,1
+"Gaspreisbremse, Härtefallfonds & Co.","Gaspreisbremse, Härtefallfonds & Co.",ORG,0.0,0.0,de,1
 Bachmut,Bachmut,ORG,0.7,0.0,de,1
 Swissgrid.,Swissgrid.,ORG,0.0,0.0,de,1
 Swissgrid,Swissgrid,ORG,0.0,0.0,de,1
-Video: Scholz - Neue Gaskraftwerke,Video: Scholz - Neue Gaskraftwerke,ORG,0.0,0.0,de,1
-Verbraucherzentrale Rheinland-Pfalz,Verbraucherzentrale Rheinland-Pfalz,ORG,0.0,0.0,de,1
-HeizungDie,HeizungDie,ORG,-1.0,0.0,de,1
-Wilhelmshavener LNG-Terminal,Wilhelmshavener LNG-Terminal,ORG,0.0,0.0,de,1
+"Schmidt
+","Schmidt
+",ORG,0.0,0.0,de,1
+Bundesnetzagentur.</li><li>,Bundesnetzagentur.</li><li>,ORG,-0.7,0.0,de,1
+Bund Stromerzeuger rückw…,Bund Stromerzeuger rückw…,ORG,0.0,0.0,de,1
+BP Milliardengewinn.,BP Milliardengewinn.,ORG,0.0,0.0,de,1
+Smarte Heizkörperthermostate,Smarte Heizkörperthermostate,ORG,0.7,0.0,de,1
+Blackout.,Blackout.,ORG,0.0,0.0,de,1
+Bundes für Unternehmen,Bundes für Unternehmen,ORG,0.0,0.0,de,1
+"Aktion ""Mehrwertsteuer","Aktion ""Mehrwertsteuer",ORG,0.7,0.0,de,1
+Energieschock: Die Regierung,Energieschock: Die Regierung,ORG,0.0,0.0,de,1
+ple Pppekteapeektnuaeu,ple Pppekteapeektnuaeu,ORG,0.0,0.0,de,1
 ple,ple,ORG,0.0,0.0,de,1
+Wartungs- und Reparat…,Wartungs- und Reparat…,ORG,0.0,0.0,de,1
 EZB-Leitzins,EZB-Leitzins,ORG,0.0,0.0,de,1
 Bank Oddo-BHF,Bank Oddo-BHF,ORG,-1.0,0.0,de,1
+Wes…,Wes…,ORG,0.0,0.0,de,1
+Moskaus,Moskaus,ORG,0.0,0.0,de,1
 Foto: Michael - stock.adobe.com Mehr,Foto: Michael - stock.adobe.com Mehr,ORG,0.0,0.0,de,1
 Deutschen Wetterdienst,Deutschen Wetterdienst,ORG,0.0,0.0,de,1
 ple Felenua,ple Felenua,ORG,0.0,0.0,de,1
@@ -801,55 +1232,82 @@ Nord-Stream-Pipelines mitgesprengt.,Nord-Stream-Pipelines mitgesprengt.,ORG,0.0,
 Deutsche Versicherer,Deutsche Versicherer,ORG,-0.85,0.0,de,1
 Standorterhalt.,Standorterhalt.,ORG,0.0,0.0,de,1
 Flüchtlingskrise,Flüchtlingskrise,ORG,0.0,0.0,de,1
+FDP-Chef,FDP-Chef,ORG,0.7,0.0,de,1
 Hessinnen,Hessinnen,ORG,-0.7,0.0,de,1
+Pattex am Porsche.,Pattex am Porsche.,ORG,0.0,0.0,de,1
 den Grünen,den Grünen,ORG,-1.0,0.0,de,1
-Grünen,Grünen,ORG,0.0,0.0,de,1
 LNG: Uniper-Terminal,LNG: Uniper-Terminal,ORG,0.0,0.0,de,1
-"Schmidt
-","Schmidt
-",ORG,0.0,0.0,de,1
-Bundesnetzagentur.</li><li>,Bundesnetzagentur.</li><li>,ORG,-0.7,0.0,de,1
-Blackout,Blackout,ORG,1.0,0.0,de,1
+Wilhelmshavener LNG-Terminal,Wilhelmshavener LNG-Terminal,ORG,0.0,0.0,de,1
+Verbraucherzentrale Rheinland-Pfalz,Verbraucherzentrale Rheinland-Pfalz,ORG,0.0,0.0,de,1
 Blackout-Konzept,Blackout-Konzept,ORG,0.0,0.0,de,1
-Deutschen:,Deutschen:,ORG,1.0,0.0,de,1
-Ölkonzerne,Ölkonzerne,ORG,0.0,0.0,de,1
-Milliardengewinne,Milliardengewinne,ORG,0.0,0.0,de,1
-Euro-Raum,Euro-Raum,ORG,-0.5,0.0,de,1
-Stiftung Lesen: Jedes fünfte Kind,Stiftung Lesen: Jedes fünfte Kind,ORG,0.0,0.0,de,1
-LNG-TankerVor,LNG-TankerVor,ORG,0.0,0.0,de,1
-Foto: ©,Foto: ©,ORG,0.0,0.0,de,1
+FPÖ,FPÖ,ORG,0.0,0.0,de,1
+Bundesne…,Bundesne…,ORG,0.0,0.0,de,1
+Energiep…,Energiep…,ORG,0.0,0.0,de,1
 Bloomberg Finance,Bloomberg Finance,ORG,0.0,0.0,de,1
+Ministeriums für den …,Ministeriums für den …,ORG,0.0,0.0,de,1
 UN-Klimakonferenz: Grüne Energie,UN-Klimakonferenz: Grüne Energie,ORG,0.0,0.0,de,1
 Milliardenkrediten,Milliardenkrediten,ORG,0.0,0.0,de,1
 "Bildungschancen: Grundschulkinder, die nach der Flucht","Bildungschancen: Grundschulkinder, die nach der Flucht",ORG,0.7,0.0,de,1
+Bundesheer e…,Bundesheer e…,ORG,0.0,0.0,de,1
 deutschen Finanzminister.,deutschen Finanzminister.,ORG,1.0,0.0,de,1
 "Kreisbildungswerk: ""Senioren","Kreisbildungswerk: ""Senioren",ORG,0.0,0.0,de,1
 Katholischen Kreisbildungswerks,Katholischen Kreisbildungswerks,ORG,0.0,0.0,de,1
+Umfrage: Blackout:,Umfrage: Blackout:,ORG,0.0,0.0,de,1
+Meinungsforschungsinstituts Civey für uns…,Meinungsforschungsinstituts Civey für uns…,ORG,0.0,0.0,de,1
 Demokraten,Demokraten,ORG,-0.7,0.0,de,1
 Bundesanstalt für Arbeitsschutz und Arbeitsmedizin,Bundesanstalt für Arbeitsschutz und Arbeitsmedizin,ORG,0.0,0.0,de,1
 Öko-Aktivisten,Öko-Aktivisten,ORG,0.0,0.0,de,1
-Deutschen: „You’ll never walk alone.,Deutschen: „You’ll never walk alone.,ORG,0.5,0.0,de,1
-Kurzstreckenflügen.,Kurzstreckenflügen.,ORG,-1.0,0.0,de,1
-London: Russische Führung,London: Russische Führung,ORG,-1.0,0.0,de,1
-"Wikimedia Commons
-Deutschland","Wikimedia Commons
-Deutschland",ORG,0.0,0.0,de,1
-FPÖ,FPÖ,ORG,0.0,0.0,de,1
-Bundesne…,Bundesne…,ORG,0.0,0.0,de,1
-Wisla:,Wisla:,ORG,0.0,0.0,de,1
-IW Köln - Gaspreisbremse,IW Köln - Gaspreisbremse,ORG,0.7,0.0,de,1
-IW,IW,ORG,0.7,0.0,de,1
-Union: Ampel,Union: Ampel,ORG,0.0,0.0,de,1
-Kommission.,Kommission.,ORG,0.0,0.0,de,1
-Atomkraft?,Atomkraft?,ORG,-1.0,0.0,de,1
-Vereinten Nationen.,Vereinten Nationen.,ORG,-0.7,0.0,de,1
-"deutschen Gasspeichern, sch…","deutschen Gasspeichern, sch…",ORG,0.0,0.0,de,1
-de…,de…,ORG,0.0,0.0,de,1
-Las Vegas,Las Vegas,ORG,0.0,0.0,de,1
+Borussia Moenchengladbach,Borussia Moenchengladbach,ORG,0.0,0.0,de,1
+Getty Images,Getty Images,ORG,0.0,0.0,de,1
+LNG-Schiffen,LNG-Schiffen,ORG,-0.7,0.0,de,1
+HeizungDie,HeizungDie,ORG,-1.0,0.0,de,1
+"Foto: dpa)
+","Foto: dpa)
+",ORG,0.5,0.0,de,1
+Expertenkommission Ga…,Expertenkommission Ga…,ORG,0.5,0.0,de,1
+europäischen Küste,europäischen Küste,ORG,-0.85,0.0,de,1
+Europas Küste!,Europas Küste!,ORG,0.0,0.0,de,1
+Bundesliga: Wolfsburgs,Bundesliga: Wolfsburgs,ORG,0.0,0.0,de,1
+Shopping-Krise!,Shopping-Krise!,ORG,0.0,0.0,de,1
+"Foto: dpa)
+Berlin","Foto: dpa)
+Berlin",ORG,0.0,0.0,de,1
+Finanzminister der Euro-Zone,Finanzminister der Euro-Zone,ORG,0.0,0.0,de,1
+Stiftung Warentest: Das,Stiftung Warentest: Das,ORG,0.7,0.0,de,1
+Foto: ©,Foto: ©,ORG,0.0,0.0,de,1
+LNG-TankerVor,LNG-TankerVor,ORG,0.0,0.0,de,1
+Stiftung Lesen: Jedes fünfte Kind,Stiftung Lesen: Jedes fünfte Kind,ORG,0.0,0.0,de,1
 "W AP Photo/Zach Bolinger
 ","W AP Photo/Zach Bolinger
 ",ORG,0.0,0.0,de,1
+Wisla:,Wisla:,ORG,0.0,0.0,de,1
+Forschungsinstitut ZEW.,Forschungsinstitut ZEW.,ORG,-0.7,0.0,de,1
+IW Köln - Gaspreisbremse,IW Köln - Gaspreisbremse,ORG,0.7,0.0,de,1
+IW,IW,ORG,0.7,0.0,de,1
+Wirtschaftsweise Veronika Grimm,Wirtschaftsweise Veronika Grimm,ORG,0.0,0.0,de,1
+Union: Ampel,Union: Ampel,ORG,0.0,0.0,de,1
+Kommission.,Kommission.,ORG,0.0,0.0,de,1
+"Wikimedia Commons
+Deutschland","Wikimedia Commons
+Deutschland",ORG,0.0,0.0,de,1
+Atomkraft?,Atomkraft?,ORG,-1.0,0.0,de,1
+BWIHK-Präsident für rasche Soforthilfen für Unternehmen.,BWIHK-Präsident für rasche Soforthilfen für Unternehmen.,ORG,0.0,0.0,de,1
+BWIHK-Präsident,BWIHK-Präsident,ORG,0.0,0.0,de,1
+"deutschen Gasspeichern, sch…","deutschen Gasspeichern, sch…",ORG,0.0,0.0,de,1
 BVG,BVG,ORG,0.0,0.0,de,1
+Euro-Raum,Euro-Raum,ORG,-0.5,0.0,de,1
+Dezember-Gasabschlag,Dezember-Gasabschlag,ORG,0.7,0.0,de,1
+"RTL Online
+</li><li>""Mehr","RTL Online
+</li><li>""Mehr",ORG,0.0,0.0,de,1
 Deutscher UN-Diplomat,Deutscher UN-Diplomat,ORG,1.0,0.0,de,1
 UNDP,UNDP,ORG,-0.7,0.0,de,1
-Energy Brainpool,Energy Brainpool,ORG,0.25,0.0,de,1
+Vereinten Nationen.,Vereinten Nationen.,ORG,-0.7,0.0,de,1
+London: Russische Führung,London: Russische Führung,ORG,-1.0,0.0,de,1
+Europas Küs…,Europas Küs…,ORG,0.0,0.0,de,1
+Kurzstreckenflügen.,Kurzstreckenflügen.,ORG,-1.0,0.0,de,1
+Deutschen: „You’ll never walk alone.,Deutschen: „You’ll never walk alone.,ORG,0.5,0.0,de,1
+Deutschen:,Deutschen:,ORG,1.0,0.0,de,1
+Ölkonzerne,Ölkonzerne,ORG,0.0,0.0,de,1
+Milliardengewinne,Milliardengewinne,ORG,0.0,0.0,de,1
+RSV-Virus,RSV-Virus,ORG,0.0,0.0,de,1
