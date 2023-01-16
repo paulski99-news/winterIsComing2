@@ -4,9 +4,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Politik,#cc33ff,#f9e6ff,3,0.3036276947644268
 'Blackout',de,Energie,#33cc33,#55ff00,3,0.3030966448631296
 'Kälte',de,Winter,#3399ff,#cce6ff,3,0.3021170675813633
-'Kohle',de,Energie,#33cc33,#1f7a1f,3,0.298239443099353
 'Winter',de,Winter,#3399ff,#003366,3,0.2935601685133823
 'Hochwasser',de,Winter,#3399ff,#0059b3,3,0.2883310355676312
+'Kohle',de,Energie,#33cc33,#1f7a1f,3,0.28574476390717735
 'Gas',de,Energie,#33cc33,#99e699,3,0.2803093842725591
 'Schimmel',de,Gesundheit,#b35900,#b35900,3,0.2657405899477817
 'Kinder',de,Gesundheit,#b35900,#ffcc99,3,0.2592335001820406
