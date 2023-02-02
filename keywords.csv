@@ -9,8 +9,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schimmel',de,Gesundheit,#b35900,#b35900,3,0.2527890668044659
 'Gas',de,Energie,#33cc33,#99e699,3,0.2511946420322943
 'Winter',de,Winter,#3399ff,#003366,3,0.2444462975361269
+'Kälte',de,Winter,#3399ff,#cce6ff,3,0.2385486991427616
 'Glatteis',de,Winter,#3399ff,#0086b3,3,0.2359072556830937
-'Kälte',de,Winter,#3399ff,#cce6ff,3,0.2266820626278479
-'Energiepauschale',de,Politik,#cc33ff,#ff4dff,2,0.10332091109387492
+'Energiepauschale',de,Politik,#cc33ff,#ff4dff,2,0.1033209110938749
 'ältere Menschen',de,Gesundheit,#b35900,#ff8c1a,3,0.0921396887412982
 'Black Out',de,Energie,#33cc33,#55ff00,2,0.030252113065727
