@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Schimmel',de,Gesundheit,#b35900,#b35900,3,0.257254998470772
 'Gas',de,Energie,#33cc33,#99e699,3,0.2432165391183325
+'Schimmel',de,Gesundheit,#b35900,#b35900,3,0.24180015688197437
 'Kälte',de,Winter,#3399ff,#cce6ff,3,0.238284963334397
 'Winter',de,Winter,#3399ff,#003366,3,0.2366060079131611
 'Kinder',de,Gesundheit,#b35900,#ffcc99,3,0.2346544554415815
@@ -13,4 +13,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Politik,#cc33ff,#990099,3,0.1822528466574412
 'ältere Menschen',de,Gesundheit,#b35900,#ff8c1a,3,0.0843136316783605
 'Energiepauschale',de,Politik,#cc33ff,#ff4dff,1,0.075829940171603
-'Black Out',de,Energie,#33cc33,#55ff00,2,0.020102838217674564
+'Black Out',de,Energie,#33cc33,#55ff00,2,0.0201028382176745
