@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kohle',de,Energie,#33cc33,#1f7a1f,3,0.277027882746454
+'Kohle',de,Energie,#33cc33,#1f7a1f,3,0.2631600180617586
 'Gas',de,Energie,#33cc33,#99e699,3,0.248985107140152
 'Kinder',de,Gesundheit,#b35900,#ffcc99,3,0.2346544554415815
 'Winter',de,Winter,#3399ff,#003366,3,0.2288544344534596
@@ -13,4 +13,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Politik,#cc33ff,#990099,3,0.1435079238819101
 'Energiepauschale',de,Politik,#cc33ff,#ff4dff,3,0.1421335168731352
 'ältere Menschen',de,Gesundheit,#b35900,#ff8c1a,3,0.0843136316783605
-'Black Out',de,Energie,#33cc33,#55ff00,2,0.015657829612269802
+'Black Out',de,Energie,#33cc33,#55ff00,2,0.0156578296122698
