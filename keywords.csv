@@ -7,8 +7,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hochwasser',de,Winter,#3399ff,#0059b3,3,0.2162702538146297
 'Kinder',de,Gesundheit,#b35900,#ffcc99,3,0.2108939919780073
 'Schimmel',de,Gesundheit,#b35900,#b35900,3,0.1957333225576424
+'Glatteis',de,Winter,#3399ff,#0086b3,3,0.19567192362659547
 'Blackout',de,Energie,#33cc33,#55ff00,3,0.1892357502828521
-'Glatteis',de,Winter,#3399ff,#0086b3,3,0.1878097885803084
 'Kälte',de,Winter,#3399ff,#cce6ff,3,0.175276025741187
 'Heizkosten',de,Politik,#cc33ff,#990099,3,0.1380742779819527
 'Energiepauschale',de,Politik,#cc33ff,#ff4dff,3,0.1043583099166082
