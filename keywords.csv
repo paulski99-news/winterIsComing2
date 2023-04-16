@@ -11,6 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter',de,Winter,#3399ff,#003366,3,0.1701768675537971
 'Heizkosten',de,Politik,#cc33ff,#990099,3,0.1692379102505458
 'Glatteis',de,Winter,#3399ff,#0086b3,1,0.1140113289746832
+'ältere Menschen',de,Gesundheit,#b35900,#ff8c1a,3,0.09602569933629389
 'Schimmel',de,Gesundheit,#b35900,#b35900,3,0.0863970567026793
-'ältere Menschen',de,Gesundheit,#b35900,#ff8c1a,3,0.0643559270266559
-'Black Out',de,Energie,#33cc33,#55ff00,3,0.029285167819033914
+'Black Out',de,Energie,#33cc33,#55ff00,3,0.0292851678190339
