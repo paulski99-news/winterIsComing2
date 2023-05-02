@@ -5,12 +5,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter',de,Winter,#3399ff,#003366,3,0.1789697972118171
 'Energiekosten',de,Politik,#cc33ff,#f9e6ff,3,0.1788420770295403
 'Hochwasser',de,Winter,#3399ff,#0059b3,3,0.1774854449345489
+'Heizkosten',de,Politik,#cc33ff,#990099,3,0.17620938442874656
 'Schnee',de,Winter,#3399ff,#66d9ff,3,0.1759598245425334
 'Energiepauschale',de,Politik,#cc33ff,#ff4dff,1,0.1595859462013305
 'Kälte',de,Winter,#3399ff,#cce6ff,3,0.1588499863136402
 'Kohle',de,Energie,#33cc33,#1f7a1f,3,0.155629637153577
-'Heizkosten',de,Politik,#cc33ff,#990099,3,0.1533498982584184
 'ältere Menschen',de,Gesundheit,#b35900,#ff8c1a,3,0.1181180408987391
 'Glatteis',de,Winter,#3399ff,#0086b3,1,0.1149264312951473
-'Schimmel',de,Gesundheit,#b35900,#b35900,3,0.08804570065895034
+'Schimmel',de,Gesundheit,#b35900,#b35900,3,0.0880457006589503
 'Black Out',de,Energie,#33cc33,#55ff00,1,0.0190573728159897
