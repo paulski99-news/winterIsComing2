@@ -8,8 +8,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Politik,#cc33ff,#f9e6ff,3,0.1764547821388218
 'Heizkosten',de,Politik,#cc33ff,#990099,3,0.1762093844287465
 'Energiepauschale',de,Politik,#cc33ff,#ff4dff,1,0.1595859462013305
-'Kälte',de,Winter,#3399ff,#cce6ff,3,0.1588499863136402
 'Kohle',de,Energie,#33cc33,#1f7a1f,3,0.155629637153577
+'Kälte',de,Winter,#3399ff,#cce6ff,3,0.1536132170029578
 'Glatteis',de,Winter,#3399ff,#0086b3,1,0.0993376316008752
 'ältere Menschen',de,Gesundheit,#b35900,#ff8c1a,3,0.0990591690947935
 'Schimmel',de,Gesundheit,#b35900,#b35900,3,0.0797899555601077
