@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Winter,#3399ff,#cce6ff,3,0.1537074476343323
 'Energiekosten',de,Politik,#cc33ff,#f9e6ff,3,0.1527982837316623
 'ältere Menschen',de,Gesundheit,#b35900,#ff8c1a,3,0.0937790747833116
-'Glatteis',de,Winter,#3399ff,#0086b3,1,0.0849139851887751
-'Energiepauschale',de,Politik,#cc33ff,#ff4dff,1,0.08357467250018188
+'Energiepauschale',de,Politik,#cc33ff,#ff4dff,1,0.0835746725001818
 'Schimmel',de,Gesundheit,#b35900,#b35900,3,0.07676464914092
+'Glatteis',de,Winter,#3399ff,#0086b3,1,0.07472714241045884
 'Black Out',de,Energie,#33cc33,#55ff00,1,0.0190573728159897
