@@ -8,8 +8,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohle',de,Energie,#33cc33,#1f7a1f,3,0.1302925589027908
 'Energiekosten',de,Politik,#cc33ff,#f9e6ff,3,0.1267328690387782
 'ältere Menschen',de,Gesundheit,#b35900,#ff8c1a,3,0.109128835276927
-'Schimmel',de,Gesundheit,#b35900,#b35900,3,0.0997601024461049
 'Blackout',de,Energie,#33cc33,#55ff00,2,0.0973347773863348
+'Schimmel',de,Gesundheit,#b35900,#b35900,3,0.08974716707918916
 'Heizkosten',de,Politik,#cc33ff,#990099,3,0.0879239306254552
 'Energiepauschale',de,Politik,#cc33ff,#ff4dff,1,0.0424530354232393
 'Black Out',de,Energie,#33cc33,#55ff00,2,0.0257430008934813
