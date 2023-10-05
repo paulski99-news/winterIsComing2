@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'ältere Menschen',de,Gesundheit,#b35900,#ff8c1a,3,0.109128835276927
 'Heizkosten',de,Politik,#cc33ff,#990099,3,0.1069605283043641
 'Blackout',de,Energie,#33cc33,#55ff00,2,0.0973347773863348
-'Energiepauschale',de,Politik,#cc33ff,#ff4dff,2,0.0963782522526105
+'Energiepauschale',de,Politik,#cc33ff,#ff4dff,1,0.08192184441471893
 'Schimmel',de,Gesundheit,#b35900,#b35900,3,0.0812361420173107
 'Black Out',de,Energie,#33cc33,#55ff00,2,0.0258675752112091
 'Glatteis',de,Winter,#3399ff,#0086b3,1,0.012037270665767
