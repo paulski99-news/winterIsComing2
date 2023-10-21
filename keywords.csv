@@ -11,6 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Politik,#cc33ff,#990099,3,0.1175781860862666
 'Energiekosten',de,Politik,#cc33ff,#f9e6ff,3,0.1123267122214263
 'Schimmel',de,Gesundheit,#b35900,#b35900,3,0.0862869592218806
-'Energiepauschale',de,Politik,#cc33ff,#ff4dff,2,0.0619493864599618
+'Energiepauschale',de,Politik,#cc33ff,#ff4dff,1,0.05265732349096753
 'Glatteis',de,Winter,#3399ff,#0086b3,1,0.0319201734214012
 'Black Out',de,Energie,#33cc33,#55ff00,2,0.0278865408460501
