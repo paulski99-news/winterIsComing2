@@ -9,8 +9,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Politik,#cc33ff,#990099,3,0.1720947256173909
 'Winter',de,Winter,#3399ff,#003366,3,0.1517900207993059
 'Energiekosten',de,Politik,#cc33ff,#f9e6ff,3,0.1513587703774628
-'Blackout',de,Energie,#33cc33,#55ff00,3,0.12551743011405478
+'Blackout',de,Energie,#33cc33,#55ff00,3,0.1255174301140547
 'Schimmel',de,Gesundheit,#b35900,#b35900,3,0.1076800970907315
 'ältere Menschen',de,Gesundheit,#b35900,#ff8c1a,3,0.0576194218797537
-'Energiepauschale',de,Politik,#cc33ff,#ff4dff,1,0.0261422538091268
 'Black Out',de,Energie,#33cc33,#55ff00,2,0.0247800303392096
+'Energiepauschale',de,Politik,#cc33ff,#ff4dff,1,0.02312100573775778
