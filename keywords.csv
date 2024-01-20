@@ -4,9 +4,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hochwasser',de,Winter,#3399ff,#0059b3,3,0.2371307135823649
 'Kälte',de,Winter,#3399ff,#cce6ff,3,0.214948703977378
 'Kohle',de,Energie,#33cc33,#1f7a1f,3,0.1997281333119272
-'Gas',de,Energie,#33cc33,#99e699,3,0.1879868225064856
+'Gas',de,Energie,#33cc33,#99e699,3,0.19657706594869456
 'Kinder',de,Gesundheit,#b35900,#ffcc99,3,0.1863867839564155
-'Blackout',de,Energie,#33cc33,#55ff00,3,0.17917681112104086
+'Blackout',de,Energie,#33cc33,#55ff00,3,0.1791768111210408
 'Heizkosten',de,Politik,#cc33ff,#990099,3,0.1787272139858375
 'Winter',de,Winter,#3399ff,#003366,3,0.1658417044975918
 'Energiekosten',de,Politik,#cc33ff,#f9e6ff,3,0.1513587703774628
