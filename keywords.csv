@@ -7,10 +7,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hochwasser',de,Winter,#3399ff,#0059b3,3,0.1909727384834884
 'Gas',de,Energie,#33cc33,#99e699,3,0.1887217178979317
 'Kohle',de,Energie,#33cc33,#1f7a1f,3,0.18488671284746
+'Winter',de,Winter,#3399ff,#003366,3,0.17778550064113485
 'Blackout',de,Energie,#33cc33,#55ff00,3,0.170204840125861
-'Winter',de,Winter,#3399ff,#003366,3,0.1658417044975918
 'Energiekosten',de,Politik,#cc33ff,#f9e6ff,3,0.1513587703774628
 'Schimmel',de,Gesundheit,#b35900,#b35900,3,0.1458916482954576
-'ältere Menschen',de,Gesundheit,#b35900,#ff8c1a,3,0.05628849525269844
+'ältere Menschen',de,Gesundheit,#b35900,#ff8c1a,3,0.0562884952526984
 'Black Out',de,Energie,#33cc33,#55ff00,1,0.0180115923488633
 'Energiepauschale',de,Politik,#cc33ff,#ff4dff,1,0.0049935980400465
