@@ -8,8 +8,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohle',de,Energie,#33cc33,#1f7a1f,3,0.18488671284746
 'Schnee',de,Winter,#3399ff,#66d9ff,3,0.1814970849691408
 'Winter',de,Winter,#3399ff,#003366,3,0.1777855006411348
+'Energiekosten',de,Politik,#cc33ff,#f9e6ff,3,0.1608823320935706
 'Blackout',de,Energie,#33cc33,#55ff00,3,0.1587158631978909
-'Energiekosten',de,Politik,#cc33ff,#f9e6ff,3,0.1513587703774628
 'Schimmel',de,Gesundheit,#b35900,#b35900,3,0.1458916482954576
 'ältere Menschen',de,Gesundheit,#b35900,#ff8c1a,3,0.0768819175163815
 'Black Out',de,Energie,#33cc33,#55ff00,1,0.0188069978729337
