@@ -12,5 +12,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Politik,#cc33ff,#f9e6ff,3,0.1233809890078235
 'Schimmel',de,Gesundheit,#b35900,#b35900,3,0.1226503603424023
 'ältere Menschen',de,Gesundheit,#b35900,#ff8c1a,3,0.0818822339856159
-'Black Out',de,Energie,#33cc33,#55ff00,1,0.0153694937723667
-'Energiepauschale',de,Politik,#cc33ff,#ff4dff,1,0.00466060003368133
+'Black Out',de,Energie,#33cc33,#55ff00,2,0.022553244383931047
+'Energiepauschale',de,Politik,#cc33ff,#ff4dff,1,0.0046606000336813
