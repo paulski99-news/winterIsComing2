@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kinder',de,Gesundheit,#b35900,#ffcc99,3,0.21358059971152388
+'Kinder',de,Gesundheit,#b35900,#ffcc99,3,0.2135805997115238
+'Kohle',de,Energie,#33cc33,#1f7a1f,3,0.19926237521503615
 'Kälte',de,Winter,#3399ff,#cce6ff,3,0.1639254522251787
-'Kohle',de,Energie,#33cc33,#1f7a1f,3,0.1537292489160853
 'Gas',de,Energie,#33cc33,#99e699,3,0.1491922584126256
 'Glatteis',de,Winter,#3399ff,#0086b3,2,0.1435909842446562
 'Hochwasser',de,Winter,#3399ff,#0059b3,3,0.1404325881633845
