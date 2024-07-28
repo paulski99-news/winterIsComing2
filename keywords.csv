@@ -7,8 +7,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Energie,#33cc33,#99e699,3,0.1315259643889345
 'Blackout',de,Energie,#33cc33,#55ff00,3,0.1315098931546701
 'Heizkosten',de,Politik,#cc33ff,#990099,3,0.1299549203086019
-'Kohle',de,Energie,#33cc33,#1f7a1f,3,0.1123789792682682
 'Schimmel',de,Gesundheit,#b35900,#b35900,3,0.1055465866603773
+'Kohle',de,Energie,#33cc33,#1f7a1f,3,0.10502442692348252
 'Energiekosten',de,Politik,#cc33ff,#f9e6ff,3,0.0883838026863976
 'Glatteis',de,Winter,#3399ff,#0086b3,1,0.0656334027619219
 'ältere Menschen',de,Gesundheit,#b35900,#ff8c1a,3,0.0562650716118975
