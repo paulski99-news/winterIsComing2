@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kinder',de,Gesundheit,#b35900,#ffcc99,3,0.2314171631483304
+'Kinder',de,Gesundheit,#b35900,#ffcc99,3,0.2153996423124445
 'Hochwasser',de,Winter,#3399ff,#0059b3,3,0.1991447835171324
 'Gas',de,Energie,#33cc33,#99e699,3,0.1534369240864968
 'Kälte',de,Winter,#3399ff,#cce6ff,3,0.1124966123150566
@@ -11,6 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schimmel',de,Gesundheit,#b35900,#b35900,3,0.072961488890934
 'Heizkosten',de,Politik,#cc33ff,#990099,3,0.0715702053912307
 'ältere Menschen',de,Gesundheit,#b35900,#ff8c1a,3,0.0588016442813972
-'Glatteis',de,Winter,#3399ff,#0086b3,1,0.03694524845164785
+'Glatteis',de,Winter,#3399ff,#0086b3,1,0.0369452484516478
 'Black Out',de,Energie,#33cc33,#55ff00,2,0.0229528118717776
 'Energiepauschale',de,Politik,#cc33ff,#ff4dff,1,0.0004384063475256
