@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hochwasser',de,Winter,#3399ff,#0059b3,3,0.3678555513638553
-'Kinder',de,Gesundheit,#b35900,#ffcc99,3,0.25499445363372975
+'Kinder',de,Gesundheit,#b35900,#ffcc99,3,0.2549944536337297
 'Kohle',de,Energie,#33cc33,#1f7a1f,3,0.1442762089870075
-'Gas',de,Energie,#33cc33,#99e699,3,0.1309131892006715
+'Gas',de,Energie,#33cc33,#99e699,3,0.1389699235478435
 'Kälte',de,Winter,#3399ff,#cce6ff,3,0.1096673345587072
 'Winter',de,Winter,#3399ff,#003366,3,0.1058573774340028
 'Blackout',de,Energie,#33cc33,#55ff00,3,0.1041218383206516
