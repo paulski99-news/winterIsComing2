@@ -5,8 +5,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Energie,#33cc33,#99e699,3,0.1789504162706663
 'Blackout',de,Energie,#33cc33,#55ff00,3,0.1717899800761604
 'Kälte',de,Winter,#3399ff,#cce6ff,3,0.1624275922470276
-'Schimmel',de,Gesundheit,#b35900,#b35900,3,0.1392101519573369
 'Kohle',de,Energie,#33cc33,#1f7a1f,3,0.1391616343518422
+'Schimmel',de,Gesundheit,#b35900,#b35900,3,0.1369164778001
 'Winter',de,Winter,#3399ff,#003366,3,0.1058573774340028
 'Heizkosten',de,Politik,#cc33ff,#990099,3,0.1018464579675737
 'Energiekosten',de,Politik,#cc33ff,#f9e6ff,3,0.0878606604656159
