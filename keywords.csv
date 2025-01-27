@@ -7,10 +7,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Energie,#33cc33,#99e699,3,0.186311629687172
 'Blackout',de,Energie,#33cc33,#55ff00,3,0.1830016869685209
 'Kinder',de,Gesundheit,#b35900,#ffcc99,3,0.1828347860319724
-'Glatteis',de,Winter,#3399ff,#0086b3,3,0.17746104239202487
+'Glatteis',de,Winter,#3399ff,#0086b3,3,0.1774610423920248
 'Heizkosten',de,Politik,#cc33ff,#990099,3,0.1713180376126745
 'Schimmel',de,Gesundheit,#b35900,#b35900,3,0.1527017889649483
 'Energiekosten',de,Politik,#cc33ff,#f9e6ff,3,0.1050907446694706
 'ältere Menschen',de,Gesundheit,#b35900,#ff8c1a,3,0.0805242245581558
-'Black Out',de,Energie,#33cc33,#55ff00,2,0.0366600581357324
+'Black Out',de,Energie,#33cc33,#55ff00,2,0.03596164941537254
 'Energiepauschale',de,Politik,#cc33ff,#ff4dff,1,0.0009286486899899
