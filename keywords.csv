@@ -11,6 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Winter,#3399ff,#cce6ff,3,0.1487013770626168
 'Heizkosten',de,Politik,#cc33ff,#990099,3,0.1473783851267088
 'Energiekosten',de,Politik,#cc33ff,#f9e6ff,3,0.1005485474782378
-'ältere Menschen',de,Gesundheit,#b35900,#ff8c1a,3,0.08877147943115524
+'ältere Menschen',de,Gesundheit,#b35900,#ff8c1a,3,0.0887714794311552
 'Black Out',de,Energie,#33cc33,#55ff00,2,0.0281680673391391
-'Energiepauschale',de,Politik,#cc33ff,#ff4dff,1,6.895317396325591e-05
+'Energiepauschale',de,Politik,#cc33ff,#ff4dff,1,5.861019786876752e-05
