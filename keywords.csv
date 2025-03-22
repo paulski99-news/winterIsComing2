@@ -8,9 +8,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter',de,Winter,#3399ff,#003366,3,0.1469977349914444
 'Kohle',de,Energie,#33cc33,#1f7a1f,3,0.1466424444709527
 'Blackout',de,Energie,#33cc33,#55ff00,3,0.139409420105991
-'Kälte',de,Winter,#3399ff,#cce6ff,3,0.12355613505715347
+'Kälte',de,Winter,#3399ff,#cce6ff,3,0.1235561350571534
 'Glatteis',de,Winter,#3399ff,#0086b3,3,0.1093645029325465
-'Energiekosten',de,Politik,#cc33ff,#f9e6ff,3,0.0902413559277836
+'Energiekosten',de,Politik,#cc33ff,#f9e6ff,3,0.0862060370840706
 'ältere Menschen',de,Gesundheit,#b35900,#ff8c1a,3,0.0822603869191242
 'Black Out',de,Energie,#33cc33,#55ff00,2,0.0379267211350239
 'Energiepauschale',de,Politik,#cc33ff,#ff4dff,1,3.059488960123332e-05
