@@ -7,10 +7,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohle',de,Energie,#33cc33,#1f7a1f,3,0.1508153132477515
 'Gas',de,Energie,#33cc33,#99e699,3,0.1421028662860733
 'Blackout',de,Energie,#33cc33,#55ff00,3,0.139409420105991
-'Schimmel',de,Gesundheit,#b35900,#b35900,3,0.1264088323208726
+'Schimmel',de,Gesundheit,#b35900,#b35900,3,0.10984873747274171
 'Glatteis',de,Winter,#3399ff,#0086b3,3,0.1093645029325465
 'Kälte',de,Winter,#3399ff,#cce6ff,3,0.1068432949878842
 'Energiekosten',de,Politik,#cc33ff,#f9e6ff,3,0.0862060370840706
 'ältere Menschen',de,Gesundheit,#b35900,#ff8c1a,3,0.0794245834267101
-'Black Out',de,Energie,#33cc33,#55ff00,2,0.043555788907955584
+'Black Out',de,Energie,#33cc33,#55ff00,2,0.0435557889079555
 'Energiepauschale',de,Politik,#cc33ff,#ff4dff,1,8.336817530952221e-06
