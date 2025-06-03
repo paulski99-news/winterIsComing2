@@ -5,9 +5,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Energie,#33cc33,#99e699,3,0.1612481348334976
 'Kohle',de,Energie,#33cc33,#1f7a1f,3,0.1457356429131415
 'Winter',de,Winter,#3399ff,#003366,3,0.1241409416212797
+'Energiekosten',de,Politik,#cc33ff,#f9e6ff,3,0.11795598107430266
 'Schnee',de,Winter,#3399ff,#66d9ff,3,0.1160047874347193
 'Heizkosten',de,Politik,#cc33ff,#990099,3,0.1157515669964654
-'Energiekosten',de,Politik,#cc33ff,#f9e6ff,3,0.1115537445793935
 'Kälte',de,Winter,#3399ff,#cce6ff,3,0.0995239796279412
 'ältere Menschen',de,Gesundheit,#b35900,#ff8c1a,3,0.084600562490471
 'Schimmel',de,Gesundheit,#b35900,#b35900,3,0.077865326527766
