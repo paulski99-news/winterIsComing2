@@ -6,8 +6,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hochwasser',de,Winter,#3399ff,#0059b3,3,0.1241044104231168
 'Blackout',de,Energie,#33cc33,#55ff00,3,0.1221961282368879
 'Kohle',de,Energie,#33cc33,#1f7a1f,3,0.1205747838952328
-'Energiekosten',de,Politik,#cc33ff,#f9e6ff,3,0.1193264866781675
 'Kälte',de,Winter,#3399ff,#cce6ff,3,0.1175326443995782
+'Energiekosten',de,Politik,#cc33ff,#f9e6ff,3,0.11092616322189691
 'Schimmel',de,Gesundheit,#b35900,#b35900,2,0.0944508043189663
 'Heizkosten',de,Politik,#cc33ff,#990099,2,0.0802073591631256
 'ältere Menschen',de,Gesundheit,#b35900,#ff8c1a,3,0.0760230548181323
