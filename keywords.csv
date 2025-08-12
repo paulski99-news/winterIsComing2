@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter',de,Winter,#3399ff,#003366,3,0.1253105351937211
 'Energiekosten',de,Politik,#cc33ff,#f9e6ff,3,0.1093886620626514
 'Heizkosten',de,Politik,#cc33ff,#990099,3,0.0951547931428395
-'Schimmel',de,Gesundheit,#b35900,#b35900,2,0.0944508043189663
+'Schimmel',de,Gesundheit,#b35900,#b35900,2,0.08977985321657589
 'ältere Menschen',de,Gesundheit,#b35900,#ff8c1a,3,0.0584590625596078
 'Glatteis',de,Winter,#3399ff,#0086b3,1,0.0347588567643102
 'Black Out',de,Energie,#33cc33,#55ff00,2,0.0200932578876951
