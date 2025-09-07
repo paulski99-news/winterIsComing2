@@ -11,6 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schimmel',de,Gesundheit,#b35900,#b35900,2,0.0991689234395841
 'Blackout',de,Energie,#33cc33,#55ff00,3,0.0966600320283115
 'ältere Menschen',de,Gesundheit,#b35900,#ff8c1a,3,0.0713346348699859
-'Black Out',de,Energie,#33cc33,#55ff00,2,0.0209767577719646
+'Black Out',de,Energie,#33cc33,#55ff00,1,0.01783061910616991
 'Glatteis',de,Winter,#3399ff,#0086b3,1,0.0174092602797405
 'Energiepauschale',de,Politik,#cc33ff,#ff4dff,1,1.5562104202846039e-10
