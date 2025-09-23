@@ -11,6 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Politik,#cc33ff,#f9e6ff,3,0.1085408069101651
 'Blackout',de,Energie,#33cc33,#55ff00,3,0.0966600320283115
 'ältere Menschen',de,Gesundheit,#b35900,#ff8c1a,3,0.0652533586509976
-'Black Out',de,Energie,#33cc33,#55ff00,2,0.0208148403210765
 'Glatteis',de,Winter,#3399ff,#0086b3,1,0.0198219067577473
-'Energiepauschale',de,Politik,#cc33ff,#ff4dff,1,5.86924006220916e-11
+'Black Out',de,Energie,#33cc33,#55ff00,1,0.017692974272915024
+'Energiepauschale',de,Politik,#cc33ff,#ff4dff,1,5.869240062209159e-11
