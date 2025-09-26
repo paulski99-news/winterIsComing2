@@ -11,6 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Energie,#33cc33,#55ff00,3,0.0966600320283115
 'Kälte',de,Winter,#3399ff,#cce6ff,3,0.0897674403365201
 'ältere Menschen',de,Gesundheit,#b35900,#ff8c1a,3,0.0647331440344366
-'Glatteis',de,Winter,#3399ff,#0086b3,1,0.0198219067577473
-'Black Out',de,Energie,#33cc33,#55ff00,2,0.01818934313197775
+'Glatteis',de,Winter,#3399ff,#0086b3,2,0.021199055744085205
+'Black Out',de,Energie,#33cc33,#55ff00,2,0.0181893431319777
 'Energiepauschale',de,Politik,#cc33ff,#ff4dff,1,4.9888540528777855e-11
