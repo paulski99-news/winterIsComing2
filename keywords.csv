@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohle',de,Energie,#33cc33,#1f7a1f,3,0.1034817175886387
 'Energiekosten',de,Politik,#cc33ff,#f9e6ff,3,0.095314238719867
 'Kälte',de,Winter,#3399ff,#cce6ff,3,0.0897674403365201
-'ältere Menschen',de,Gesundheit,#b35900,#ff8c1a,3,0.0865213305660805
+'ältere Menschen',de,Gesundheit,#b35900,#ff8c1a,3,0.07850459098116842
 'Glatteis',de,Winter,#3399ff,#0086b3,2,0.0323470817373111
 'Black Out',de,Energie,#33cc33,#55ff00,2,0.0215392613589118
 'Energiepauschale',de,Politik,#cc33ff,#ff4dff,1,0.0003859136181377
