@@ -3,8 +3,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis',de,Winter,#3399ff,#0086b3,3,0.1814462298832623
 'Winter',de,Winter,#3399ff,#003366,3,0.1797901945388447
 'Blackout',de,Energie,#33cc33,#55ff00,3,0.1716804327068304
-'Kohle',de,Energie,#33cc33,#1f7a1f,3,0.1606773886427885
 'Gas',de,Energie,#33cc33,#99e699,3,0.1572965666309464
+'Kohle',de,Energie,#33cc33,#1f7a1f,3,0.15516614898273384
 'Kälte',de,Winter,#3399ff,#cce6ff,3,0.15337330497517
 'Kinder',de,Gesundheit,#b35900,#ffcc99,3,0.1452623154911787
 'Energiekosten',de,Politik,#cc33ff,#f9e6ff,3,0.1376276106311994
