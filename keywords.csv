@@ -3,10 +3,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter',de,Winter,#3399ff,#003366,3,0.2238293261280791
 'Kälte',de,Winter,#3399ff,#cce6ff,3,0.1853379042288944
 'Blackout',de,Energie,#33cc33,#55ff00,3,0.1781598700735331
-'Schnee',de,Winter,#3399ff,#66d9ff,3,0.17738432030467435
+'Schnee',de,Winter,#3399ff,#66d9ff,3,0.1773843203046743
 'Gas',de,Energie,#33cc33,#99e699,3,0.1757864050954042
 'Kohle',de,Energie,#33cc33,#1f7a1f,3,0.1551661489827338
-'Energiekosten',de,Politik,#cc33ff,#f9e6ff,3,0.1474635237946779
+'Energiekosten',de,Politik,#cc33ff,#f9e6ff,3,0.1484793234072944
 'Kinder',de,Gesundheit,#b35900,#ffcc99,3,0.1452623154911787
 'Schimmel',de,Gesundheit,#b35900,#b35900,3,0.1322684193782206
 'ältere Menschen',de,Gesundheit,#b35900,#ff8c1a,3,0.1305346899878635
