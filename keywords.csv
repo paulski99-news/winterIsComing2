@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Winter',de,Winter,#3399ff,#003366,3,0.2750890700057387
+'Winter',de,Winter,#3399ff,#003366,3,0.27150924950487787
 'Gas',de,Energie,#33cc33,#99e699,3,0.2583261273042227
 'Blackout',de,Energie,#33cc33,#55ff00,3,0.2252688048623176
 'Kälte',de,Winter,#3399ff,#cce6ff,3,0.2224264328304946
@@ -13,4 +13,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Politik,#cc33ff,#f9e6ff,3,0.1317036645873422
 'Heizkosten',de,Politik,#cc33ff,#990099,3,0.1235656418986599
 'Black Out',de,Energie,#33cc33,#55ff00,2,0.0244926395211243
-'Energiepauschale',de,Politik,#cc33ff,#ff4dff,1,0.00093369083713857
+'Energiepauschale',de,Politik,#cc33ff,#ff4dff,1,0.0009336908371385
