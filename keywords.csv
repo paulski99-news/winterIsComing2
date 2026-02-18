@@ -8,8 +8,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Winter,#3399ff,#cce6ff,3,0.1830348538802093
 'Kohle',de,Energie,#33cc33,#1f7a1f,3,0.1819776128322799
 'Gas',de,Energie,#33cc33,#99e699,3,0.1782275475687702
-'ältere Menschen',de,Gesundheit,#b35900,#ff8c1a,3,0.1598575238760746
 'Schimmel',de,Gesundheit,#b35900,#b35900,3,0.1457436188524522
+'ältere Menschen',de,Gesundheit,#b35900,#ff8c1a,3,0.14538717484011796
 'Energiekosten',de,Politik,#cc33ff,#f9e6ff,3,0.1317036645873422
 'Heizkosten',de,Politik,#cc33ff,#990099,3,0.1281652987956791
 'Black Out',de,Energie,#33cc33,#55ff00,2,0.0209946800989595
