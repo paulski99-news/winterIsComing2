@@ -12,5 +12,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schimmel',de,Gesundheit,#b35900,#b35900,3,0.1457436188524522
 'Energiekosten',de,Politik,#cc33ff,#f9e6ff,3,0.1317036645873422
 'Heizkosten',de,Politik,#cc33ff,#990099,3,0.1281652987956791
-'Black Out',de,Energie,#33cc33,#55ff00,2,0.02099468009895959
-'Energiepauschale',de,Politik,#cc33ff,#ff4dff,1,0.0010936672115677
+'Black Out',de,Energie,#33cc33,#55ff00,2,0.0209946800989595
+'Energiepauschale',de,Politik,#cc33ff,#ff4dff,1,0.001229647129832545
