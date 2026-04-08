@@ -20,6 +20,7 @@ from textblob_de import TextBlobDE
 
 nlp = de_core_news_md.load()
 nltk.download('punkt')
+nltk.download('punkt_tab')
 
 
 DATA_PATH = Path.cwd()
