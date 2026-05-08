@@ -3,8 +3,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Energie,#33cc33,#55ff00,3,0.1855591129263353
 'Kinder',de,Gesundheit,#b35900,#ffcc99,3,0.1854484569621019
 'Spritpreise',de,Politik,#cc33ff,#f9e6ff,3,0.1659980737088489
+'Kälte',de,Winter,#3399ff,#cce6ff,3,0.15958930651934575
 'Kohle',de,Energie,#33cc33,#1f7a1f,3,0.1561499661413944
-'Kälte',de,Winter,#3399ff,#cce6ff,3,0.1551843632847918
 'Winter',de,Winter,#3399ff,#003366,3,0.1506840176168221
 'Rohöl',de,Energie,#33cc33,#99e699,3,0.1473868092724838
 'Heizkosten',de,Politik,#cc33ff,#990099,3,0.1450998234997387
