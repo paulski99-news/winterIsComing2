@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Spritpreise',de,Politik,#cc33ff,#f9e6ff,3,0.224293820048444
+'Spritpreise',de,Politik,#cc33ff,#f9e6ff,3,0.2051682270411774
 'Gas',de,Energie,#33cc33,#99e699,3,0.186456118544897
 'Kinder',de,Gesundheit,#b35900,#ffcc99,3,0.1854484569621019
-'Blackout',de,Energie,#33cc33,#55ff00,3,0.15822587793043108
+'Blackout',de,Energie,#33cc33,#55ff00,3,0.158225877930431
 'Kohle',de,Energie,#33cc33,#1f7a1f,3,0.1561499661413944
 'Winter',de,Winter,#3399ff,#003366,3,0.1506840176168221
 'Heizkosten',de,Politik,#cc33ff,#990099,3,0.1450998234997387
