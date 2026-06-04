@@ -10,9 +10,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schimmel',de,Gesundheit,#b35900,#b35900,3,0.1287481582201597
 'Kälte',de,Winter,#3399ff,#cce6ff,3,0.1244558524874807
 'Hochwasser',de,Winter,#3399ff,#0059b3,3,0.1244179785768136
-'Heizkosten',de,Politik,#cc33ff,#990099,3,0.1190852218296321
+'Heizkosten',de,Politik,#cc33ff,#990099,3,0.11072387855518728
 'Glatteis',de,Winter,#3399ff,#0086b3,1,0.1050947486837768
-'Rohöl',de,Energie,#33cc33,#99e699,3,0.09445611454992539
+'Rohöl',de,Energie,#33cc33,#99e699,3,0.0944561145499253
 'ältere Menschen',de,Gesundheit,#b35900,#ff8c1a,3,0.0821408759340814
 'Black Out',de,Energie,#33cc33,#55ff00,1,0.0159871403078302
 'Energiepauschale',de,Politik,#cc33ff,#ff4dff,1,0.0063205942566472
