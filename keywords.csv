@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kinder',de,Gesundheit,#b35900,#ffcc99,3,0.2208711434456884
 'Kohle',de,Energie,#33cc33,#1f7a1f,3,0.2142850476808342
-'Gas',de,Energie,#33cc33,#99e699,3,0.1719557854587501
-'Blackout',de,Energie,#33cc33,#55ff00,3,0.15355495329766222
+'Blackout',de,Energie,#33cc33,#55ff00,3,0.1535549532976622
+'Gas',de,Energie,#33cc33,#99e699,3,0.15113338763993756
 'Winter',de,Winter,#3399ff,#003366,3,0.1394306373417902
 'Spritpreise',de,Politik,#cc33ff,#f9e6ff,3,0.1327848113205658
 'Energiekosten',de,Politik,#cc33ff,#f9e6ff,3,0.1318366040534597
