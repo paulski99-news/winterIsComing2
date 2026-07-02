@@ -8,8 +8,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schimmel',de,Gesundheit,#b35900,#b35900,3,0.1326358230186108
 'Heizkosten',de,Politik,#cc33ff,#990099,3,0.1316223549500889
 'Spritpreise',de,Politik,#cc33ff,#f9e6ff,3,0.1286602908060634
-'Kälte',de,Winter,#3399ff,#cce6ff,3,0.1232652381551926
 'Energiekosten',de,Politik,#cc33ff,#f9e6ff,3,0.1207919462240791
+'Kälte',de,Winter,#3399ff,#cce6ff,3,0.1188221965228228
 'Hochwasser',de,Winter,#3399ff,#0059b3,3,0.0965319045018696
 'Glatteis',de,Winter,#3399ff,#0086b3,2,0.0945570108630651
 'ältere Menschen',de,Gesundheit,#b35900,#ff8c1a,3,0.0681481494040308
