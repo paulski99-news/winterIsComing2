@@ -8,11 +8,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter',de,Winter,#3399ff,#003366,3,0.1136208666286851
 'Heizkosten',de,Politik,#cc33ff,#990099,3,0.1083091372502556
 'Schimmel',de,Gesundheit,#b35900,#b35900,3,0.1072268762527233
-'Spritpreise',de,Politik,#cc33ff,#f9e6ff,3,0.10676084946706002
+'Spritpreise',de,Politik,#cc33ff,#f9e6ff,3,0.10676084946706
 'Rohöl',de,Energie,#33cc33,#99e699,3,0.1059878372592055
 'Hochwasser',de,Winter,#3399ff,#0059b3,3,0.1052749973348671
 'Kälte',de,Winter,#3399ff,#cce6ff,3,0.1025459796024249
 'Glatteis',de,Winter,#3399ff,#0086b3,2,0.0814240592336053
-'ältere Menschen',de,Gesundheit,#b35900,#ff8c1a,3,0.059398637696862
+'ältere Menschen',de,Gesundheit,#b35900,#ff8c1a,3,0.0551534370423327
 'Black Out',de,Energie,#33cc33,#55ff00,1,0.0234693693258338
 'Energiepauschale',de,Politik,#cc33ff,#ff4dff,1,0.0002882156112505
