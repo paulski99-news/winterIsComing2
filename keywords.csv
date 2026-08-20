@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kinder',de,Gesundheit,#b35900,#ffcc99,3,0.1739676040105358
 'Spritpreise',de,Politik,#cc33ff,#f9e6ff,3,0.1728188815613264
 'Kohle',de,Energie,#33cc33,#1f7a1f,3,0.1614701066971022
+'Kinder',de,Gesundheit,#b35900,#ffcc99,3,0.1529135134089554
 'Gas',de,Energie,#33cc33,#99e699,3,0.13329338506817
 'Kälte',de,Winter,#3399ff,#cce6ff,3,0.1162104152172973
 'Rohöl',de,Energie,#33cc33,#99e699,3,0.1148973032620754
@@ -15,4 +15,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis',de,Winter,#3399ff,#0086b3,1,0.0692106153485645
 'ältere Menschen',de,Gesundheit,#b35900,#ff8c1a,3,0.0518445664859827
 'Black Out',de,Energie,#33cc33,#55ff00,2,0.0224825599429905
-'Energiepauschale',de,Politik,#cc33ff,#ff4dff,1,0.00012788279785717
+'Energiepauschale',de,Politik,#cc33ff,#ff4dff,1,0.0001278827978571
