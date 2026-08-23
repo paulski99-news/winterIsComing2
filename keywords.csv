@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kinder',de,Gesundheit,#b35900,#ffcc99,3,0.1836707135516065
-'Spritpreise',de,Politik,#cc33ff,#f9e6ff,3,0.17088959405421
 'Gas',de,Energie,#33cc33,#99e699,3,0.1615140094047187
-'Rohöl',de,Energie,#33cc33,#99e699,3,0.14807169322730954
+'Spritpreise',de,Politik,#cc33ff,#f9e6ff,3,0.1547604449460785
+'Rohöl',de,Energie,#33cc33,#99e699,3,0.1480716932273095
 'Kohle',de,Energie,#33cc33,#1f7a1f,3,0.1467509252379914
 'Kälte',de,Winter,#3399ff,#cce6ff,3,0.140097334298339
 'Schimmel',de,Gesundheit,#b35900,#b35900,3,0.1086707357744107
