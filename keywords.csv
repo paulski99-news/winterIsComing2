@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Spritpreise',de,Politik,#cc33ff,#f9e6ff,3,0.1551522896684195
-'Rohöl',de,Energie,#33cc33,#99e699,3,0.15410227924321307
+'Rohöl',de,Energie,#33cc33,#99e699,3,0.154102279243213
 'Gas',de,Energie,#33cc33,#99e699,3,0.1467994175394654
 'Kohle',de,Energie,#33cc33,#1f7a1f,3,0.1467509252379914
 'Kälte',de,Winter,#3399ff,#cce6ff,3,0.1426377141535881
@@ -15,4 +15,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis',de,Winter,#3399ff,#0086b3,1,0.0823578044748512
 'ältere Menschen',de,Gesundheit,#b35900,#ff8c1a,3,0.0518445664859827
 'Black Out',de,Energie,#33cc33,#55ff00,2,0.0228605509515419
-'Energiepauschale',de,Politik,#cc33ff,#ff4dff,1,7.853602323396625e-05
+'Energiepauschale',de,Politik,#cc33ff,#ff4dff,1,6.67556197488713e-05
