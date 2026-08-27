@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Spritpreise',de,Politik,#cc33ff,#f9e6ff,3,0.1551522896684195
 'Gas',de,Energie,#33cc33,#99e699,3,0.1467994175394654
-'Kohle',de,Energie,#33cc33,#1f7a1f,3,0.1467509252379914
 'Kälte',de,Winter,#3399ff,#cce6ff,3,0.1426377141535881
 'Kinder',de,Gesundheit,#b35900,#ffcc99,3,0.137452685853062
-'Rohöl',de,Energie,#33cc33,#99e699,3,0.13579083735673103
+'Rohöl',de,Energie,#33cc33,#99e699,3,0.135790837356731
+'Kohle',de,Energie,#33cc33,#1f7a1f,3,0.13423963599774724
 'Energiekosten',de,Politik,#cc33ff,#f9e6ff,3,0.1228987441364087
 'Schimmel',de,Gesundheit,#b35900,#b35900,3,0.1155038185900672
 'Winter',de,Winter,#3399ff,#003366,3,0.1119631634331139
